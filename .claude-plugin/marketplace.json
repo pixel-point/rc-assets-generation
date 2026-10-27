@@ -9,7 +9,7 @@
       "name": "revenuecat-assets-generation",
       "source": "./",
       "description": "Compose local RevenueCat artwork and animations.",
-      "version": "0.2.1"
+      "version": "0.2.2"
     }
   ]
 }

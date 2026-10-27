@@ -2,7 +2,9 @@
 
 A standalone agent plugin for creating branded illustrations, animations and short videos from the bundled RevenueCat library. The agent selects components, applies supported changes, renders and reviews the files. The employee works through prompts; Remotion Studio is optional.
 
-Version **0.2.1** targets Codex and Claude Code. Distribution repository: [pixel-point/rc-assets-generation](https://github.com/pixel-point/rc-assets-generation). See [validation](VALIDATION.md) for verified runtime checks and remaining host-installation checks.
+If a requested object or behavior is missing, the agent checks related entries and reusable parts, explains the gap and offers to build a named component in the style of inspected library references. After acceptance, it implements and reviews the addition in the user's independent project. See [new component authoring](catalog/new-components.md). A new arrangement of available parts can be composed directly.
+
+Version **0.2.2** targets Codex and Claude Code. Distribution repository: [pixel-point/rc-assets-generation](https://github.com/pixel-point/rc-assets-generation). See [validation](VALIDATION.md) for verified runtime checks and remaining host-installation checks.
 
 - [Plugin capabilities and examples](PLUGIN.md)
 - [Installation and updates](INSTALL.md)

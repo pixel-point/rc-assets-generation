@@ -1,6 +1,6 @@
 {
   "name": "revenuecat-assets-generation",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Standalone RevenueCat illustration and animation kit for Codex and Claude Code",
   "license": "UNLICENSED",
   "private": true,

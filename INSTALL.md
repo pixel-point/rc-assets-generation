@@ -1,6 +1,6 @@
 # Install RevenueCat Assets
 
-Version 0.2.1 targets Codex and Claude Code. The distribution repository is [pixel-point/rc-assets-generation](https://github.com/pixel-point/rc-assets-generation). Repository installation requires the plugin files to be present on its default branch. Fresh-session activation has not yet been verified; see [VALIDATION.md](VALIDATION.md).
+Version 0.2.2 targets Codex and Claude Code. The distribution repository is [pixel-point/rc-assets-generation](https://github.com/pixel-point/rc-assets-generation). Repository installation requires the plugin files to be present on its default branch. Fresh-session activation has not yet been verified; see [VALIDATION.md](VALIDATION.md).
 
 ## Requirements
 

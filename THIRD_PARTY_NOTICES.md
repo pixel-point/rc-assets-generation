@@ -1,6 +1,6 @@
 # Third-party materials and release status
 
-This v0.2.1 package is marked `UNLICENSED`. Public code and RevenueCat artwork release terms have not been selected. Bundled third-party materials retain their own licenses, including Inter's SIL Open Font License below. Making the repository readable does not grant additional rights to the bundled artwork or third-party materials.
+This v0.2.2 package is marked `UNLICENSED`. Public code and RevenueCat artwork release terms have not been selected. Bundled third-party materials retain their own licenses, including Inter's SIL Open Font License below. Making the repository readable does not grant additional rights to the bundled artwork or third-party materials.
 
 ## RevenueCat artwork
 

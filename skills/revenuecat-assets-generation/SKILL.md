@@ -1,6 +1,6 @@
 ---
 name: revenuecat-assets-generation
-description: Create RevenueCat brand illustrations and animations from bundled named components, editable native tables/charts, supported text/color/logo props, internal-element motion and custom scene composition. Generate and review finished PNG or MP4 assets in a coding-agent workspace.
+description: Create RevenueCat brand illustrations and animations from the component library. Find exact components, edit data and animate internal elements; when a requested component is missing, explain the gap and offer to build a new component in the existing style. Generate and review PNG or MP4 assets in a coding-agent workspace.
 ---
 
 # RevenueCat assets generation
@@ -23,6 +23,10 @@ Use a new destination requested by the user or a clearly named folder in their w
 
 ## Choose and compose
 
+Check whether the requested object and behavior are available before selecting components. Search relevant terms and synonyms, inspect promising exact IDs and their props/motion contracts, and consider reusable parts. A new arrangement of available parts does not require a new component. A failed command or a single empty keyword search does not establish a library gap.
+
+When a requested object, variant or internal behavior is genuinely absent, tell the user what is missing and offer to create a named reusable component in the style of specific existing references. Explain the proposed appearance, editable fields and internal motion briefly; do not silently substitute similar artwork, invent a catalog ID, or start creating the missing component before the user accepts. If the user already explicitly authorized creating missing components, proceed without asking again. Continue independent work on available parts while awaiting the decision, but do not present a partial scene as complete. Follow [Missing components and new component authoring](../../catalog/new-components.md) for verification, the proposal and implementation after acceptance. That guide also ships in generated projects.
+
 Read the generated project's `catalog/composition.md` for the layer contract and [motion guidance](../../catalog/motion.md) before animating. The copied project also contains `catalog/motion.md`; it adapts Emil Design Engineering to this renderer without requiring another skill. Search before choosing IDs:
 
 ```sh
@@ -39,7 +43,7 @@ For visual browsing, run `npm run gallery` and open `out/library/index.html`. Th
 
 When the user names a component, resolve its exact ID with `--name` or `--id` and inspect `--describe --json`. Keep that ID in `illustrationId`; never silently substitute similar artwork. Some names occur in both source collections: use the requested source or preview to disambiguate instead of taking the first result. Similar components may expose `variantFamily` and `variant` in catalog metadata. Match the requested platform, language or state; consult `catalog/variants.md` when comparing these families. These are selection metadata, not editable props.
 
-Use the component's declared `props` for native text, scalar CSS colors and visibility. Copy exact keys and observe their scope: a swatch field recolors a swatch, not the whole illustration. Values are sparse and instance-specific; omitted fields preserve the source. Colors accept approved palette values or the field's original color. Embedded SVG/raster content, gradients and mixed styled text are not universal props. When the requested edit lacks a field, inspect and create a local variation that preserves the original assets; do not invent a prop or replace the selected component. Read the composition guide for examples and constraints.
+Use the component's declared `props` for native text, scalar CSS colors and visibility. Copy exact keys and observe their scope: a swatch field recolors a swatch, not the whole illustration. Values are sparse and instance-specific; omitted fields preserve the source. Colors accept approved palette values or the field's original color. Embedded SVG/raster content, gradients and mixed styled text are not universal props. When the requested edit lacks a field, inspect whether existing parts can satisfy it. If it requires a new component or native reconstruction, use the missing-component proposal above before implementation unless already authorized. Preserve original assets; do not invent a prop or replace the selected component silently. Read the composition guide for examples and constraints.
 
 For numerical tables and charts, read `catalog/native-data.md`. First inspect the requested source component’s `embeddedDataSlots` using `--describe --json`. Keep its exact `illustrationId` and author `data[slotId]` with declared `props` and slot-local `internalMotion`; the original surrounding artwork stays in place. Use `--data <embedded-data.json> --motion --json` to inspect targets against the actual slot input. Do not replace the full illustration with a standalone chart. For a new layout, explicit `native-*` alternatives use a `native` layer with `componentId`; inspect their custom data with `--props <component-props.json>`. Animate only declared targets/properties, using `value` for actual numerical geometry and `draw`/`progress` where supported. Keep data IDs stable. Source chart defaults are illustrative when Figma supplies only designed path geometry, not measurements. An unsupported slot remains an explicit gap; never invent a field or silently substitute another component.
 

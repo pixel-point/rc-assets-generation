@@ -1,6 +1,6 @@
 # Cloud execution
 
-Version 0.2.1 includes a local command-line renderer. It does not include a deployed cloud service, remote MCP server, job queue, hosted preview or cloud credentials. The following deployment choices are an implementation design, not installed functionality.
+Version 0.2.2 includes a local command-line renderer. It does not include a deployed cloud service, remote MCP server, job queue, hosted preview or cloud credentials. The following deployment choices are an implementation design, not installed functionality.
 
 ## Option 1: run the project in a cloud coding environment
 

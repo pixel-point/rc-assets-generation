@@ -1,6 +1,6 @@
 # RevenueCat Assets plugin
 
-Version 0.2.1 targets Codex and Claude Code. Both hosts use one skill, one component library and the same renderer. Source distribution: [pixel-point/rc-assets-generation](https://github.com/pixel-point/rc-assets-generation). Runtime validation and native host activation are recorded separately in [VALIDATION.md](VALIDATION.md).
+Version 0.2.2 targets Codex and Claude Code. Both hosts use one skill, one component library and the same renderer. Source distribution: [pixel-point/rc-assets-generation](https://github.com/pixel-point/rc-assets-generation). Runtime validation and native host activation are recorded separately in [VALIDATION.md](VALIDATION.md).
 
 The employee describes the result in a chat. The agent finds the requested components, creates or revises a scene, renders it, reviews the output and returns the files. No website checkout, Figma access or manual Remotion Studio work is required.
 
@@ -9,6 +9,7 @@ The employee describes the result in a chat. The agent finds the requested compo
 | Capability | Current implementation |
 | --- | --- |
 | Find a specific component | Search by name, exact ID, source, family or variant; inspect supported fields and motion targets. |
+| Handle missing components | Check related entries and parts, explain the gap, and offer a named component in the style of inspected references. After acceptance, the agent implements and validates it in the user's project. |
 | Browse the library | Generate a searchable local gallery with previews and component IDs. |
 | Create illustrations | Compose approved illustrations, reusable parts, native data components, text and groups; export PNG, including transparent backgrounds. |
 | Create animations and short videos | Compose deterministic 30 fps scenes; export MP4; control scene timing and the still image's poster frame. |
@@ -23,11 +24,14 @@ The current catalog has **610 entries**: 291 illustrations, 267 reusable parts, 
 
 Native data is also embedded in **76 imported components** through **98 public slots**. Tables support structural datasets with stable row and column IDs; charts support declared values and point IDs. Each adapter enforces its own density and range limits. More elements must remain readable inside the source design.
 
-Only registered, bundled components are available to generation. The package does not claim complete coverage of the original design collections.
+The bundled catalog is the starting library and does not claim complete coverage of the original design collections. New objects can be authored in a generated project. They need a working local implementation and registration before generation can use them; there is no universal arbitrary-component layer.
+
+When the requested component or internal behavior is missing, the agent tells the user what is unavailable and proposes its appearance, editable fields and motion using specific existing components as style references. It waits for acceptance unless creation was already authorized, then builds and reviews the addition. New components stay in that project; publishing them to the shared library is a separate request. See [new component authoring](catalog/new-components.md).
 
 ## How a request becomes an asset
 
 1. The agent reads the shared skill and resolves the requested component's contract.
+   If required functionality is missing, it explains the gap and offers a concrete new component before implementing it.
 2. On first use, it creates an independent project and installs the pinned dependencies and rendering browser.
 3. It writes a scene JSON using the bundled library, local artwork and fonts.
 4. It runs validation and PNG/MP4 generation.

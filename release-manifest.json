@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "revenuecat-assets-generation",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "marketplace": "revenuecat-assets-local",
   "privacy": {
     "policyVersion": 1,
@@ -10,12 +10,12 @@
     "metadataFilesChanged": 11,
     "verifiedUnchangedPreviews": 610,
     "scan": {
-      "textFiles": 6461,
+      "textFiles": 6463,
       "detectedLeaks": 0
     }
   },
   "status": {
-    "distribution": "repository-candidate",
+    "distribution": "repository-update-candidate",
     "published": false,
     "packagePrivate": true,
     "license": "UNLICENSED",
@@ -28,8 +28,8 @@
     "setupNetwork": "npm dependencies and Remotion render browser"
   },
   "contents": {
-    "fileCount": 7285,
-    "bytes": 298735366
+    "fileCount": 7286,
+    "bytes": 298747055
   },
   "excluded": [
     "dependencies",
@@ -50,12 +50,12 @@
     {
       "path": ".claude-plugin/marketplace.json",
       "bytes": 393,
-      "sha256": "12d640f60db502904899a24059ac44c273005468125b4676cff32dfe765fa5a1"
+      "sha256": "d61235903ba32afcc8dfa630070c4a21689724209fc57036f26f3b99adb0e6c6"
     },
     {
       "path": ".claude-plugin/plugin.json",
       "bytes": 328,
-      "sha256": "12a2e5244d0a07ed9ac7742ebfc2ac19cc5763d360728bf279962721b032437e"
+      "sha256": "5732f29f6ca0e4dd9f22d875d29a92e332f94d1103b3aeeed3f4461cc49d2fbd"
     },
     {
       "path": ".gitignore",
@@ -69,38 +69,38 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 6473,
-      "sha256": "4c098847349e6f5192f8fc992eaea2625ffddc5a9978d321a4f24b507f9f81c4"
+      "bytes": 7089,
+      "sha256": "c663e9ad6f0f5532d0f00233324331735de6522684f6fc64d44b4be28936a1aa"
     },
     {
       "path": "CLOUD.md",
       "bytes": 5980,
-      "sha256": "98266180cff70eb885edea9b89a05ab12644ebfeb9389accaa8bbc42a75ad33d"
+      "sha256": "4f24d9c4b6c4e186b92778acebcf733c96c234a6997d030d5602b7c8e451dba6"
     },
     {
       "path": "INSTALL.md",
       "bytes": 6982,
-      "sha256": "97294b3bb126f98f2a0a4c8d50ce286a419adec4aa78f3209c64ce59f02984d7"
+      "sha256": "e639f5c741560fad2e4b79e7087fc312eb8342e2726acbf126bc8ed2437401e8"
     },
     {
       "path": "PLUGIN.md",
-      "bytes": 5337,
-      "sha256": "f30b362911fe7e56ff8b6c8f32f6a1af01c3ada2db422122ae79735fa8483dcd"
+      "bytes": 6325,
+      "sha256": "166afb216bb92df10e1688ed913290cabaced6c5b46488cbeb56b993da0d755e"
     },
     {
       "path": "README.md",
-      "bytes": 16545,
-      "sha256": "256cfc6f01ecb725342d53761db26dcfa34b6bf30e93c8e7ba5b38e00a92d128"
+      "bytes": 16959,
+      "sha256": "b11e9c9903b07f5dcd71a6016adf9e0b17f2e4034c6257f43d5151150f6afc1e"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
       "bytes": 5140,
-      "sha256": "3c04ed1f748054bbcc8bf04e659bab310fa02c27fbaf335e4532c0a9ce0c3444"
+      "sha256": "12cd9e30ad78df2353224c1461b4fbe1a8462951c1d8b686a82a8e0742be4fbd"
     },
     {
       "path": "VALIDATION.md",
-      "bytes": 2196,
-      "sha256": "12733c5eeee955d95ed4e2259b6777098aef653f4f1c5d382e53bbf01f1137dd"
+      "bytes": 3256,
+      "sha256": "d1c2ea109fc502994895e72a8e5e1d59b143ac9303a705a7686cd6d19c39c171"
     },
     {
       "path": "catalog/benchmarks.json",
@@ -109,8 +109,8 @@
     },
     {
       "path": "catalog/composition.md",
-      "bytes": 11126,
-      "sha256": "c944b9814c52e79c308771005fdd10385beb6808c08c8009491e03f19ea7f1e9"
+      "bytes": 11657,
+      "sha256": "0c66fed073b699f97928f772ccaf7efcb0c4188314622ea146f55b04253c66e3"
     },
     {
       "path": "catalog/embedded-data-coverage.json",
@@ -146,6 +146,11 @@
       "path": "catalog/native-data.md",
       "bytes": 13444,
       "sha256": "f8a4f2dbd0a64fe8337622d68bb85bc7f97931ffe1ba4fafc4c8607eebde1f46"
+    },
+    {
+      "path": "catalog/new-components.md",
+      "bytes": 6671,
+      "sha256": "ddf357412c4faacf4171a57f9aef27646b46e95e650f814d76641ad9f7a522e8"
     },
     {
       "path": "catalog/variants.md",
@@ -235,17 +240,17 @@
     {
       "path": "package-lock.json",
       "bytes": 191669,
-      "sha256": "53d1136dadab87785a373cef1fdfb03c28ade4c03895ea13fa706ca99d6e3da9"
+      "sha256": "b30e23f2da7f3604e06d10d248c3b6ce99409afa2da1a1899299ef8a4130efb0"
     },
     {
       "path": "package.json",
       "bytes": 1318,
-      "sha256": "6e99655b88eba205a4717d48ed134730e77b3528eb95976b667acf89bad94e57"
+      "sha256": "b1825f6fd072427a74f2230d342e215562966212e50ea04a13f084dc6655309c"
     },
     {
       "path": "plugin.json",
       "bytes": 469,
-      "sha256": "c9a763dac4c1c0365f368f1c53209a32dbd3955c72565f914f99279cf2c02506"
+      "sha256": "cd4db1c6b924a35465f55bc58f97ec7d65c1c13fc9ca67e8e6fc83ac8c2414b9"
     },
     {
       "path": "public/figma/benchmarks/0f231.svg",
@@ -33364,8 +33369,8 @@
     },
     {
       "path": "skills/revenuecat-assets-generation/SKILL.md",
-      "bytes": 11877,
-      "sha256": "5e786ef4169b0d20f6622fc168c6faa595de4cdeb93cb8baa4c528fe6cd7ea99"
+      "bytes": 13286,
+      "sha256": "ed565d46d5a6b1adcc8c0cf3397e0c7e3ba1383220715bbaf69c5132586cd3a4"
     },
     {
       "path": "skills/revenuecat-assets-generation/references/benchmarks.md",
@@ -36470,5 +36475,5 @@
   ],
   "repository": "https://github.com/pixel-point/rc-assets-generation",
   "sourceArchiveSha256": "695c5b47ca8b0aa83fd8131512c94bce015024ef7b547ff1eaff4d8fe150d27e",
-  "preparationNote": "Status records local preparation before the initial push; it is not a live publication check."
+  "preparationNote": "Status records local preparation of the 0.2.2 guidance update; it is not a live publication check. sourceArchiveSha256 identifies the immutable sanitized 0.2.1 runtime baseline."
 }
