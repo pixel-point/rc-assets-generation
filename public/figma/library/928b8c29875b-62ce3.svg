@@ -1,0 +1,27 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="82.916" height="89.7561" viewBox="0 0 82.916 89.7561" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon">
+<circle id="Ellipse 42064" cx="37.24" cy="37.2401" r="36.936" stroke="url(#paint0_linear_0_4)" stroke-opacity="0.7" stroke-width="0.608"/>
+<g id="Ellipse 42064_2" opacity="0.2" filter="url(#filter0_f_0_4)">
+<circle cx="47.12" cy="53.9601" r="25.08" fill="#C1C9F6"/>
+</g>
+<circle id="Ellipse 42075" cx="37.24" cy="37.2401" r="31.16" fill="#576CDB"/>
+<circle id="Ellipse 42071" cx="11.21" cy="63.6501" r="1.33" fill="#576CDB"/>
+<circle id="Ellipse 42072" cx="65.17" cy="12.7301" r="1.33" fill="#576CDB"/>
+<g id="icon_2">
+<path id="Vector" d="M49.7428 24.7287C49.3727 24.3579 48.9332 24.0638 48.4493 23.8631C47.9654 23.6625 47.4468 23.5592 46.9229 23.5592C46.3991 23.5592 45.8804 23.6625 45.3966 23.8631C44.9127 24.0638 44.4731 24.3579 44.103 24.7287L35.5385 33.2946C36.767 33.8294 37.8761 34.6046 38.8006 35.5746C39.7839 36.5779 40.5444 37.7775 41.0324 39.0949L49.7428 30.3808C50.1152 30.0104 50.4108 29.5701 50.6124 29.0851C50.8141 28.6001 50.9179 28.08 50.9179 27.5547C50.9179 27.0295 50.8141 26.5094 50.6124 26.0244C50.4108 25.5394 50.1152 25.0991 49.7428 24.7287Z" fill="white"/>
+<path id="Vector_2" d="M26.7481 37.9226C24.0125 40.6585 23.5566 50.9185 23.5566 50.9185C23.5566 50.9185 33.587 50.0065 36.3225 47.4985C37.5821 46.2234 38.2885 44.5031 38.2885 42.7105C38.2885 40.918 37.5821 39.1977 36.3225 37.9226C35.1133 36.6527 33.4493 35.9153 31.6965 35.8725C29.9437 35.8298 28.2457 36.4852 26.976 37.6946C26.8985 37.7698 26.8233 37.845 26.7481 37.9226Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_4" x="11.324" y="18.1641" width="71.592" height="71.592" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5.358" result="effect1_foregroundBlur_0_4"/>
+</filter>
+<linearGradient id="paint0_linear_0_4" x1="-5.07814" y1="10.7207" x2="76.737" y2="85.765" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2F2F8"/>
+<stop offset="0.482562" stop-color="#C1C9F6" stop-opacity="0.565695"/>
+<stop offset="1" stop-color="#576CDB"/>
+</linearGradient>
+</defs>
+</svg>

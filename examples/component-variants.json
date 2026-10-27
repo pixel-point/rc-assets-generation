@@ -1,0 +1,154 @@
+{
+  "title": "Your content. Your colors.",
+  "width": 1440,
+  "height": 960,
+  "fps": 30,
+  "durationFrames": 180,
+  "posterFrame": 140,
+  "background": "#FFFFFF",
+  "layers": [
+    {
+      "id": "heading",
+      "type": "text",
+      "text": "Your content. Your colors.",
+      "x": 80,
+      "y": 64,
+      "width": 1260,
+      "font": "heading",
+      "fontSize": 60
+    },
+    {
+      "id": "subtitle",
+      "type": "text",
+      "text": "The same designer components, tailored to each story.",
+      "x": 82,
+      "y": 147,
+      "width": 1260,
+      "fontSize": 28,
+      "color": "#3D3D5C"
+    },
+    {
+      "id": "pro-phone",
+      "type": "illustration",
+      "illustrationId": "support-subscription-phone",
+      "props": {
+        "title": "Pro subscription",
+        "helpText": "Manage your plan",
+        "missingPurchaseLabel": "Restore my purchase",
+        "refundLabel": "Contact support",
+        "changePlanLabel": "Switch to annual",
+        "cancelLabel": "Cancel plan",
+        "accentColor": "#576CDB"
+      },
+      "x": 120,
+      "y": 280,
+      "scale": 1.25,
+      "startFrame": 6,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "x": 0,
+        "y": 22
+      }
+    },
+    {
+      "id": "team-phone",
+      "type": "illustration",
+      "illustrationId": "support-subscription-phone",
+      "props": {
+        "title": "Team subscription",
+        "helpText": "Your team, supported",
+        "missingPurchaseLabel": "Restore team access",
+        "refundLabel": "Get billing help",
+        "changePlanLabel": "Manage seats",
+        "cancelLabel": "Cancel team plan",
+        "accentColor": "#F2545B"
+      },
+      "x": 490,
+      "y": 280,
+      "scale": 1.25,
+      "startFrame": 16,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "x": 0,
+        "y": 22
+      }
+    },
+    {
+      "id": "settings",
+      "type": "illustration",
+      "illustrationId": "appearance-settings-panel",
+      "props": {
+        "title": "BRAND PALETTE",
+        "textColorLabel": "Ink color",
+        "textColor": "#1F1F47",
+        "accentColorLabel": "Accent color",
+        "accentColor": "#F2545B",
+        "buttonColorLabel": "Surface color",
+        "buttonColor": "#F9F9FB"
+      },
+      "x": 950,
+      "y": 290,
+      "scale": 1.12,
+      "startFrame": 28,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "x": 0,
+        "y": 20
+      }
+    },
+    {
+      "id": "support-card",
+      "type": "illustration",
+      "illustrationId": "support-title-card",
+      "props": {
+        "support-card-title__t_41944_55248": "Built for your subscribers",
+        "support-card-fill__c_41944_52083_backgroundColor": "#F9F9FB",
+        "support-card-glow__v_41944_55246": false
+      },
+      "x": 994,
+      "y": 605,
+      "scale": 1.0,
+      "startFrame": 40,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 18
+      }
+    },
+    {
+      "id": "pro-label",
+      "type": "text",
+      "text": "01  Individual plans",
+      "x": 90,
+      "y": 873,
+      "width": 340,
+      "font": "heading",
+      "fontSize": 24,
+      "align": "center"
+    },
+    {
+      "id": "team-label",
+      "type": "text",
+      "text": "02  Team plans",
+      "x": 460,
+      "y": 873,
+      "width": 340,
+      "font": "heading",
+      "fontSize": 24,
+      "align": "center"
+    },
+    {
+      "id": "brand-label",
+      "type": "text",
+      "text": "03  Your brand",
+      "x": 950,
+      "y": 873,
+      "width": 330,
+      "font": "heading",
+      "fontSize": 24,
+      "align": "center"
+    }
+  ]
+}

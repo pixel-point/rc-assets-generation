@@ -1,0 +1,235 @@
+{
+  "title": "Composable UI parts",
+  "width": 1200,
+  "height": 830,
+  "fps": 30,
+  "durationFrames": 180,
+  "posterFrame": 165,
+  "background": "#F9F9FB",
+  "layers": [
+    {
+      "id": "title",
+      "type": "text",
+      "text": "Composable UI parts",
+      "x": 64,
+      "y": 48,
+      "width": 1072,
+      "font": "heading",
+      "fontSize": 44,
+      "color": "#1F1F47"
+    },
+    {
+      "id": "caption",
+      "type": "text",
+      "text": "Named components \u00b7 Editable copy and colors \u00b7 Independent internal motion",
+      "x": 66,
+      "y": 110,
+      "width": 1070,
+      "font": "body",
+      "fontSize": 21,
+      "color": "#3D3D5C"
+    },
+    {
+      "id": "metric-label",
+      "type": "text",
+      "text": "Dashboard metric card",
+      "x": 76,
+      "y": 181,
+      "width": 420,
+      "font": "heading",
+      "fontSize": 18,
+      "color": "#1F1F47"
+    },
+    {
+      "id": "metric",
+      "type": "illustration",
+      "illustrationId": "selected-3252-73135",
+      "x": 76,
+      "y": 235,
+      "scale": 3.2,
+      "props": {
+        "metricLabel": "Active users",
+        "metricNote": "Total"
+      },
+      "internalMotion": [
+        {
+          "target": "metricValue",
+          "property": "counter",
+          "easing": "ease-in-out",
+          "format": {
+            "decimals": 0
+          },
+          "keyframes": [
+            {
+              "frame": 12,
+              "value": 0
+            },
+            {
+              "frame": 75,
+              "value": 8640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tab-label",
+      "type": "text",
+      "text": "Dashboard navigation tab",
+      "x": 76,
+      "y": 489,
+      "width": 430,
+      "font": "heading",
+      "fontSize": 18,
+      "color": "#1F1F47"
+    },
+    {
+      "id": "tab",
+      "type": "illustration",
+      "illustrationId": "selected-3252-73192",
+      "x": 76,
+      "y": 539,
+      "scale": 4,
+      "props": {
+        "tabLabel": "Subscribers",
+        "backgroundColor": "#576CDB"
+      }
+    },
+    {
+      "id": "metrics-label",
+      "type": "text",
+      "text": "Subscription metrics summary",
+      "x": 560,
+      "y": 181,
+      "width": 570,
+      "font": "heading",
+      "fontSize": 18,
+      "color": "#1F1F47"
+    },
+    {
+      "id": "metrics",
+      "type": "illustration",
+      "illustrationId": "selected-3252-72984",
+      "x": 560,
+      "y": 235,
+      "scale": 4,
+      "props": {
+        "subscriberValue": "16.5k",
+        "trialValue": "2.1k"
+      },
+      "internalMotion": [
+        {
+          "target": "mrrValue",
+          "property": "counter",
+          "easing": "ease-in-out",
+          "format": {
+            "decimals": 0,
+            "prefix": "$",
+            "suffix": "k"
+          },
+          "keyframes": [
+            {
+              "frame": 18,
+              "value": 0
+            },
+            {
+              "frame": 90,
+              "value": 72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "offer-label",
+      "type": "text",
+      "text": "Paywall offer and button",
+      "x": 560,
+      "y": 381,
+      "width": 570,
+      "font": "heading",
+      "fontSize": 18,
+      "color": "#1F1F47"
+    },
+    {
+      "id": "offer",
+      "type": "illustration",
+      "illustrationId": "selected-3252-73023",
+      "x": 560,
+      "y": 431,
+      "scale": 4,
+      "props": {
+        "offerText": "$29.99 / year",
+        "offerColor": "#1F1F47",
+        "buttonLabel": "Get started",
+        "buttonColor": "#F2545B",
+        "buttonTextColor": "#FFFFFF"
+      },
+      "internalMotion": [
+        {
+          "target": "button",
+          "property": "scale",
+          "easing": "ease-in-out",
+          "keyframes": [
+            {
+              "frame": 105,
+              "value": 1
+            },
+            {
+              "frame": 111,
+              "value": 0.96
+            },
+            {
+              "frame": 120,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "event-label",
+      "type": "text",
+      "text": "Trial started event pill",
+      "x": 560,
+      "y": 570,
+      "width": 570,
+      "font": "heading",
+      "fontSize": 18,
+      "color": "#1F1F47"
+    },
+    {
+      "id": "event",
+      "type": "illustration",
+      "illustrationId": "selected-3252-73260",
+      "x": 560,
+      "y": 620,
+      "scale": 2.6,
+      "props": {
+        "eventPrefix": "A user ",
+        "eventLabel": "subscribed"
+      },
+      "internalMotion": [
+        {
+          "target": "statusBadge",
+          "property": "scale",
+          "easing": "ease-in-out",
+          "keyframes": [
+            {
+              "frame": 135,
+              "value": 1
+            },
+            {
+              "frame": 141,
+              "value": 1.08
+            },
+            {
+              "frame": 149,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

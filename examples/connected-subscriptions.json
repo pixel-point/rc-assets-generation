@@ -1,0 +1,103 @@
+{
+  "title": "Connected subscriptions",
+  "width": 1200,
+  "height": 760,
+  "fps": 30,
+  "durationFrames": 120,
+  "posterFrame": 90,
+  "background": "#FFFFFF",
+  "layers": [
+    {
+      "type": "text",
+      "id": "title",
+      "text": "Connected subscriptions.",
+      "x": 70,
+      "y": 52,
+      "width": 1060,
+      "font": "heading",
+      "fontSize": 54,
+      "color": "#1F1F47",
+      "enter": {
+        "type": "slide",
+        "durationFrames": 20,
+        "y": 16
+      }
+    },
+    {
+      "type": "text",
+      "id": "subtitle",
+      "text": "One platform. A clearer view of your business.",
+      "x": 73,
+      "y": 130,
+      "width": 1040,
+      "font": "body",
+      "fontSize": 25,
+      "color": "#3D3D5C",
+      "startFrame": 6,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 18
+      }
+    },
+    {
+      "type": "illustration",
+      "id": "integrations",
+      "illustrationId": "selected-3252-40713",
+      "x": 95,
+      "y": 275,
+      "scale": 1.05,
+      "startFrame": 10,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 24
+      }
+    },
+    {
+      "type": "illustration",
+      "id": "assistant",
+      "illustrationId": "selected-3252-72592",
+      "x": 660,
+      "y": 230,
+      "scale": 1.05,
+      "startFrame": 20,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 24
+      }
+    },
+    {
+      "type": "text",
+      "id": "integrations-label",
+      "text": "01  Connect your subscription stack",
+      "x": 76,
+      "y": 674,
+      "width": 510,
+      "font": "heading",
+      "fontSize": 21,
+      "color": "#1F1F47",
+      "startFrame": 30,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 18
+      }
+    },
+    {
+      "type": "text",
+      "id": "assistant-label",
+      "text": "02  Explore your business with Rico",
+      "x": 638,
+      "y": 674,
+      "width": 510,
+      "font": "heading",
+      "fontSize": 21,
+      "color": "#1F1F47",
+      "startFrame": 40,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 18
+      }
+    }
+  ]
+}

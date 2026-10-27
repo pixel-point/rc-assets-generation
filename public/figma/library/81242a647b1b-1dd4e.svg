@@ -1,0 +1,26 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="80.3296" height="55.2107" viewBox="0 0 80.3296 55.2107" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Rectangle 176" filter="url(#filter0_d_0_41)">
+<use xlink:href="#stroke0_0_41" fill="white"/>
+<use xlink:href="#stroke0_0_41" fill="url(#paint0_radial_0_41)" fill-opacity="0.1"/>
+<mask id="stroke1_0_41" fill="white">
+<use xlink:href="#stroke0_0_41"/>
+</mask>
+<path d="M9.21697 49.1862H70.2642C72.9646 49.1862 75.1537 46.9971 75.1537 44.2967V8.36844C75.1537 5.66804 72.9646 3.47893 70.2642 3.47893H9.21696C6.51656 3.47893 4.32745 5.66804 4.32745 8.36844V44.2967C4.32745 46.9971 6.51656 49.1862 9.21697 49.1862Z" stroke-width="0.84852" stroke="#576CDB" stroke-opacity="0.5" mask="url(#stroke1_0_41)"/>
+</g>
+<defs>
+<filter id="filter0_d_0_41" x="-8.9407e-08" y="0" width="80.3296" height="55.2107" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="0.42426" dy="1.27278"/>
+<feGaussianBlur stdDeviation="2.37586"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.40326 0 0 0 0 0.504903 0 0 0 0 0.9986 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_41"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_41" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_0_41" cx="0" cy="0" r="1" gradientTransform="matrix(18.7761 36.9785 -96.0478 21.7457 14.3097 3.47893)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C1C9F6"/>
+<stop offset="1" stop-color="#C1C9F6" stop-opacity="0"/>
+</radialGradient>
+<path id="stroke0_0_41" d="M4.32745 8.36844C4.32745 5.66804 6.51656 3.47893 9.21696 3.47893H70.2642C72.9646 3.47893 75.1537 5.66804 75.1537 8.36844V44.2967C75.1537 46.9971 72.9646 49.1862 70.2642 49.1862H9.21697C6.51656 49.1862 4.32745 46.9971 4.32745 44.2967V8.36844Z"/>
+</defs>
+</svg>

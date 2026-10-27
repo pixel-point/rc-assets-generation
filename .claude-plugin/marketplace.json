@@ -1,0 +1,15 @@
+{
+  "name": "revenuecat-assets-local",
+  "description": "Local RevenueCat illustration and animation component library.",
+  "owner": {
+    "name": "RevenueCat assets prototype maintainers"
+  },
+  "plugins": [
+    {
+      "name": "revenuecat-assets-generation",
+      "source": "./",
+      "description": "Compose local RevenueCat artwork and animations.",
+      "version": "0.2.1"
+    }
+  ]
+}

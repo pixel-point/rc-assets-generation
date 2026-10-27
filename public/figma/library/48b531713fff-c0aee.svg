@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="146.993" height="182.297" viewBox="0 0 146.993 182.297" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Overlay" filter="url(#filter0_d_0_8)">
+<path d="M10.2703 9.47669C10.2703 6.3699 12.7888 3.85135 15.8956 3.85135H131.098C134.204 3.85135 136.723 6.3699 136.723 9.47669V147.635C136.723 157.561 128.676 165.608 118.75 165.608H28.2433C18.3171 165.608 10.2703 157.561 10.2703 147.635V9.47669Z" fill="#F7F8FB"/>
+</g>
+<defs>
+<filter id="filter0_d_0_8" x="0" y="0" width="146.993" height="182.297" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="6.41892"/>
+<feGaussianBlur stdDeviation="5.13514"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.16 0 0 0 0 0.173408 0 0 0 0 0.24 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_8"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_8" result="shape"/>
+</filter>
+</defs>
+</svg>

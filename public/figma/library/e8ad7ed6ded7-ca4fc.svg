@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="258.068" height="258.041" viewBox="0 0 258.068 258.041" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="bg">
+<ellipse id="Ellipse 446" opacity="0.25" cx="129.036" cy="129.02" rx="98.862" ry="98.8513" stroke="#2E2E6B" stroke-width="1.28378" stroke-linecap="round" stroke-dasharray="0.01 5.22"/>
+<mask id="stroke0_0_50" fill="white">
+<path d="M258.068 129.02C258.068 200.276 200.298 258.041 129.034 258.041C57.7706 258.041 0 200.276 0 129.02C0 57.7643 57.7706 4.94879e-06 129.034 4.94879e-06C200.298 4.94879e-06 258.068 57.7643 258.068 129.02Z"/>
+</mask>
+<path id="Ellipse 12934" opacity="0.1" d="M258.068 129.02C258.068 200.276 200.298 258.041 129.034 258.041C57.7706 258.041 0 200.276 0 129.02C0 57.7643 57.7706 4.94879e-06 129.034 4.94879e-06C200.298 4.94879e-06 258.068 57.7643 258.068 129.02Z" stroke-width="1.28378" stroke="#2E2E6B" mask="url(#stroke0_0_50)"/>
+</g>
+</svg>

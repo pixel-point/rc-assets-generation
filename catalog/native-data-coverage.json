@@ -1,0 +1,623 @@
+{
+  "schemaVersion": 1,
+  "sourceRegistrationsUnchanged": 582,
+  "nativePresetCount": 28,
+  "nativePresetKinds": {
+    "table": 11,
+    "chart": 17
+  },
+  "galleryEntryCount": 610,
+  "mappedSourceRegistrations": 75,
+  "uniqueNativeIds": true,
+  "engineKinds": [
+    "area",
+    "bar",
+    "diverging-bar",
+    "donut",
+    "line",
+    "stacked-bar"
+  ],
+  "nativeTableThemes": [
+    "cohort",
+    "conversion",
+    "entitlement",
+    "feedback",
+    "prediction"
+  ],
+  "coverageMeaning": "A source-family link identifies a related editable data unit. It does not replace the source illustration or promise identical defaults, original numeric measurements, surrounding layout or cropped variants. Existing source IDs and their SVG fragments remain available.",
+  "families": [
+    {
+      "id": "cohort-prediction-four-row",
+      "name": "Monthly cohort prediction, four rows",
+      "kind": "table",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-prediction-revenue-table"
+      ],
+      "sourceComponentIds": [
+        "original-plugins-page-38536-44675",
+        "original-plugins-page-38536-45143",
+        "original-plugins-page-38536-45611",
+        "original-plugins-page-38536-46079",
+        "selected-3252-1232",
+        "selected-3252-80331",
+        "selected-3252-80334",
+        "selected-3252-80615",
+        "selected-3252-80899",
+        "selected-3252-81182"
+      ],
+      "linkedSourceComponentIds": [
+        "original-plugins-page-38536-44675",
+        "original-plugins-page-38536-45143",
+        "original-plugins-page-38536-45611",
+        "original-plugins-page-38536-46079",
+        "selected-3252-1232",
+        "selected-3252-80331",
+        "selected-3252-80334",
+        "selected-3252-80615",
+        "selected-3252-80899",
+        "selected-3252-81182"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native cell strings: four cohorts, three monthly columns and customer counts. Later source variants expose all text; 1232 is flattened.",
+      "limitations": "Preserve the source spelling 758$ and each wrapper crop. Equivalent cell values do not imply identical illustrations."
+    },
+    {
+      "id": "cohort-prediction-six-row",
+      "name": "Monthly realized and predicted revenue, six rows",
+      "kind": "table",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-monthly-cohort-table"
+      ],
+      "sourceComponentIds": [
+        "revenuecat-whyrevenuecat-06",
+        "selected-3252-26941",
+        "selected-3252-7971"
+      ],
+      "linkedSourceComponentIds": [
+        "revenuecat-whyrevenuecat-06",
+        "selected-3252-26941",
+        "selected-3252-7971"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native January–June 2024 labels, Month 0–4 values and a triangular realized/predicted grid.",
+      "limitations": "Keep intentionally empty future cells empty."
+    },
+    {
+      "id": "cohort-alternate-values",
+      "name": "Monthly cohort, alternate realized/predicted values",
+      "kind": "table",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-alternate-cohort-table"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-26044"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-26044"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native cell strings and geometry, with different values from 80334.",
+      "limitations": "Requires its own preset; not an equivalent default of 80334."
+    },
+    {
+      "id": "cohort-weekly-flat",
+      "name": "Weekly cohort revenue, flattened outlined SVG",
+      "kind": "table",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-revenue-cohort-table"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-2168"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-2168"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "One SVG: 50 paths, no SVG text. Visible weekly values require transcription and reference review.",
+      "limitations": "Weekly W1–W4 columns and six rows differ from monthly cohorts. Outlined paths are not a numeric dataset."
+    },
+    {
+      "id": "customer-revenue-ltv",
+      "name": "Customer revenue table and LTV multi-series line",
+      "kind": "table+line",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-customer-ltv-chart",
+        "native-customer-revenue-table"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-24423",
+        "selected-3252-345",
+        "selected-3252-5766",
+        "selected-3252-9367",
+        "selected-3252-9481",
+        "web-button-section-02"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-24423",
+        "selected-3252-345",
+        "selected-3252-5766",
+        "selected-3252-9367",
+        "selected-3252-9481",
+        "web-button-section-02"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native customer table strings and a $0–100 axis in 9367/9481; fixed line paths. 345 is flattened.",
+      "limitations": "Green/blue and red/blue Android/Apple variants differ. Reconstructed point values are illustrative; retain fades as external wrappers."
+    },
+    {
+      "id": "customer-entitlements",
+      "name": "Customer product and features/entitlements",
+      "kind": "table",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-customer-entitlements-table"
+      ],
+      "sourceComponentIds": [
+        "original-marketing-template-41926-47371",
+        "selected-3252-92613"
+      ],
+      "linkedSourceComponentIds": [
+        "original-marketing-template-41926-47371",
+        "selected-3252-92613"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native customer, product and feature strings, plus row geometry.",
+      "limitations": "Model repeated names and decorative skeleton rows explicitly."
+    },
+    {
+      "id": "customer-store",
+      "name": "Customer product and app-store table",
+      "kind": "table",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-customer-products-table"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-80001"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-80001"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native table strings and local user/store icon fragments.",
+      "limitations": "Keep icons as source fragments if useful; rows and cells should become native data units."
+    },
+    {
+      "id": "conversion-steps",
+      "name": "Step-by-step conversion metrics",
+      "kind": "table+inline-bars",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-conversion-steps-table"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-27548"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-27548"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "All six rows have native conversion counts, rates, drop-off counts and rates.",
+      "limitations": "The source preview crops later rows. A complete table is a new view of source content, not the original viewport."
+    },
+    {
+      "id": "refund-requests",
+      "name": "App Store refund segment table and stacked bars",
+      "kind": "table+stacked-bar",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-refund-requests-chart",
+        "native-refund-segments-table"
+      ],
+      "sourceComponentIds": [
+        "refund-control-page-03",
+        "selected-3252-7239"
+      ],
+      "linkedSourceComponentIds": [
+        "refund-control-page-03",
+        "selected-3252-7239"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native table has three series over six dates; chart has axis labels and bar geometry.",
+      "limitations": "Chart includes October 31 while the table begins November 1. Reconstruct missing bar values explicitly."
+    },
+    {
+      "id": "feedback-response",
+      "name": "Cancellation feedback responses",
+      "kind": "table",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-customer-feedback-table"
+      ],
+      "sourceComponentIds": [
+        "cancellation-feedback-table",
+        "feedback-table"
+      ],
+      "linkedSourceComponentIds": [
+        "cancellation-feedback-table",
+        "feedback-table"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native two-column, three-row feedback table; user icons remain source SVG fragments.",
+      "limitations": "The storyboard also contains a phone and background. The native alternative covers the table unit."
+    },
+    {
+      "id": "slack-trials",
+      "name": "Slack trial analysis report table",
+      "kind": "table",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-trial-report-table"
+      ],
+      "sourceComponentIds": [
+        "original-ai-agent-trials-reply",
+        "selected-3252-72592"
+      ],
+      "linkedSourceComponentIds": [
+        "original-ai-agent-trials-reply",
+        "selected-3252-72592"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native table: January 3,512; February 2,678; March (13 days) 3,217.",
+      "limitations": "The table is embedded in a message; its alternative does not replace the entire Slack illustration."
+    },
+    {
+      "id": "trial-rate-line",
+      "name": "Trial Rate and compact subscriber metrics line",
+      "kind": "line",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-trial-rate-chart",
+        "native-subscription-metrics-chart"
+      ],
+      "sourceComponentIds": [
+        "original-amplitude-trial-rate-paywall",
+        "original-marketing-template-41926-46726",
+        "selected-3252-1578",
+        "selected-3252-1832",
+        "selected-3252-41041",
+        "selected-3252-41046",
+        "selected-3252-41218",
+        "selected-3252-92104",
+        "selected-3252-92169"
+      ],
+      "linkedSourceComponentIds": [
+        "original-amplitude-trial-rate-paywall",
+        "original-marketing-template-41926-46726",
+        "selected-3252-1578",
+        "selected-3252-1832",
+        "selected-3252-41041",
+        "selected-3252-41046",
+        "selected-3252-41218",
+        "selected-3252-92104",
+        "selected-3252-92169"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native summary: 14,274 subscribers, 549 trials, $81k MRR. Exact designed line positions exist as SVG paths.",
+      "limitations": "Most versions have no numeric y-axis. Use normalized illustrative values and preserve title/card variants."
+    },
+    {
+      "id": "sdk-metrics-line",
+      "name": "SDK metrics line,12178subscribers/624trials",
+      "kind": "line",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-subscription-metrics-chart"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-75052",
+        "selected-3252-75058",
+        "selected-3252-75383",
+        "selected-3252-75522",
+        "selected-3252-75665",
+        "selected-3252-75808",
+        "selected-3252-75945"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-75052",
+        "selected-3252-75058",
+        "selected-3252-75383",
+        "selected-3252-75522",
+        "selected-3252-75665",
+        "selected-3252-75808",
+        "selected-3252-75945"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native 0–4k axis and 12,178/624/$81k summary; fixed source line path.",
+      "limitations": "Six integration parents share the visible chart. Link a common alternative while preserving parent IDs."
+    },
+    {
+      "id": "paywall-growth-line",
+      "name": "Art-paywall growth line and summary",
+      "kind": "line",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-art-paywall-growth-chart"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-72881",
+        "selected-3252-72984"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-72881"
+      ],
+      "unlinkedSourceComponentIds": [
+        "selected-3252-72984"
+      ],
+      "sourceData": "Native 12,830/482/$64k summary and fixed line geometry in 72881.",
+      "limitations": "72984 is only a related summary strip, not a chart. Do not present it as containing the graph."
+    },
+    {
+      "id": "membership-churn",
+      "name": "Monthly membership churn",
+      "kind": "line",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-membership-churn-chart"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-41318",
+        "selected-3252-41323"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-41318",
+        "selected-3252-41323"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native 5% Q2 2025 annotation and source line geometry.",
+      "limitations": "No raw y-values exist. Keep reconstructed values illustrative and annotation copy independent."
+    },
+    {
+      "id": "winback-bars",
+      "name": "User winback Average vs Android",
+      "kind": "bar",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-user-winback-chart"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-41402",
+        "selected-3252-41443"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-41402",
+        "selected-3252-41443"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native 0–8% axis and two bars, visually approximately 3% and 7%.",
+      "limitations": "Values are reconstructed from the axis and geometry; no raw dataset is saved."
+    },
+    {
+      "id": "photoroom-stacked",
+      "name": "PhotoRoom subscription analytics stacked bars",
+      "kind": "stacked-bar",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-subscription-stack-chart"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-41627",
+        "selected-3252-41647"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-41627",
+        "selected-3252-41647"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native 0–50 axis, seven bar groups and source stack geometry.",
+      "limitations": "Legend labels are decorative placeholders. Use neutral series IDs rather than invented factual labels."
+    },
+    {
+      "id": "refund-rate-area",
+      "name": "Refund rate and refund-control intervention",
+      "kind": "area",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-refund-rate-chart"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-72805",
+        "selected-3252-72829"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-72805",
+        "selected-3252-72829"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native March–August labels and gray/green area geometry with an intervention badge.",
+      "limitations": "No numeric y-axis. Use normalized illustrative values."
+    },
+    {
+      "id": "revenue-growth-area",
+      "name": "Partner-supported revenue growth",
+      "kind": "area",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-revenue-growth-chart"
+      ],
+      "sourceComponentIds": [
+        "original-partner-page-new-41930-88614",
+        "selected-3252-93808",
+        "selected-3252-93832"
+      ],
+      "linkedSourceComponentIds": [
+        "original-partner-page-new-41930-88614",
+        "selected-3252-93808",
+        "selected-3252-93832"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native March–August labels and gray/green growth area geometry with a support badge.",
+      "limitations": "No numeric y-axis; separate this rising preset from the refund downtrend."
+    },
+    {
+      "id": "mrr-lines",
+      "name": "MRR Movement multi-series line",
+      "kind": "line",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-mrr-trend-chart"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-74467",
+        "selected-3252-74933",
+        "selected-3252-74935"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-74467",
+        "selected-3252-74933",
+        "selected-3252-74935"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native $0–4M axis and two red/green line paths.",
+      "limitations": "Browser and graph wrappers differ. Unlabeled series need neutral illustrative IDs."
+    },
+    {
+      "id": "mrr-diverging",
+      "name": "MRR Movement positive/negative bars and netline",
+      "kind": "diverging-bar+line",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-mrr-movement-chart"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-75166",
+        "selected-3252-75172"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-75166",
+        "selected-3252-75172"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native ±$100k axis, 90k/50k highlight, positive/negative bars and a net line.",
+      "limitations": "Source copy says New MMR. Preserve it or make an explicit copy change. Updated net geometry should derive from supplied data."
+    },
+    {
+      "id": "trial-conversion",
+      "name": "Trial Conversion Rate with forecast segment",
+      "kind": "line",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-trial-conversion-chart"
+      ],
+      "sourceComponentIds": [
+        "original-paywalls-41930-75866",
+        "selected-3252-93394",
+        "selected-3252-93395"
+      ],
+      "linkedSourceComponentIds": [
+        "original-paywalls-41930-75866",
+        "selected-3252-93394",
+        "selected-3252-93395"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native 0–45% axis, September 18–22 labels, solid and dashed point sequences.",
+      "limitations": "Model the forecast boundary. Reconstructed defaults are not original measured data."
+    },
+    {
+      "id": "benchmark-composite",
+      "name": "TrialDuration donut,weeklyrenewal lines,monetization stacks",
+      "kind": "donut+line+stacked-bar",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-trial-duration-donut",
+        "native-renewal-rates-chart",
+        "native-monetization-mix-chart"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-23766",
+        "selected-3252-23889",
+        "selected-3252-24012",
+        "selected-3252-24135"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-23766",
+        "selected-3252-23889",
+        "selected-3252-24012",
+        "selected-3252-24135"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native chart titles, categories, quartile labels and 15 stack percentage strings; donut and line paths.",
+      "limitations": "Three charts per parent. Donut support is separate; incomplete numeric data must be labeled reconstructed."
+    },
+    {
+      "id": "photoroom-mobile",
+      "name": "Phone analytics:columns,trialduration donut,LTVlines",
+      "kind": "bar+donut+line",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-subscription-stack-chart",
+        "native-trial-duration-donut",
+        "native-customer-ltv-chart"
+      ],
+      "sourceComponentIds": [
+        "original-amplitude-subscription-analytics",
+        "selected-3252-41490",
+        "selected-3252-41525"
+      ],
+      "linkedSourceComponentIds": [
+        "original-amplitude-subscription-analytics",
+        "selected-3252-41490",
+        "selected-3252-41525"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Native metric summaries and chart titles; column, donut and LTV line geometry.",
+      "limitations": "The phone wrapper remains a composition around three independent native plot units."
+    },
+    {
+      "id": "experiment-performance",
+      "name": "Paywall experiment comparison lines",
+      "kind": "line",
+      "status": "native-presets-available",
+      "nativePresetIds": [
+        "native-paywall-experiment-chart"
+      ],
+      "sourceComponentIds": [
+        "selected-3252-26368"
+      ],
+      "linkedSourceComponentIds": [
+        "selected-3252-26368"
+      ],
+      "unlinkedSourceComponentIds": [],
+      "sourceData": "Variant statistics, percentage/date labels and fixed comparison line geometry.",
+      "limitations": "The chart sits behind the paywall editor. Extracting it changes the wrapper/crop, not the underlying data family."
+    },
+    {
+      "id": "metrics-dashboard",
+      "name": "Subscription metric cards, not a plotted chart",
+      "kind": "metric-cards",
+      "status": "existing-editable-summary-not-a-chart",
+      "nativePresetIds": [],
+      "sourceComponentIds": [
+        "selected-3252-73123",
+        "selected-3252-73135",
+        "selected-3252-73799"
+      ],
+      "linkedSourceComponentIds": [],
+      "unlinkedSourceComponentIds": [
+        "selected-3252-73123",
+        "selected-3252-73135",
+        "selected-3252-73799"
+      ],
+      "sourceData": "Six native metric values and labels; 73135 already exposes a single metric card.",
+      "limitations": "Metric cards are not a plotted dataset. Keep them separate from chart coverage."
+    }
+  ],
+  "remaining": [
+    {
+      "id": "base-benchmarks",
+      "status": "pending",
+      "source": "src/Benchmarks.tsx",
+      "reason": "The separate original Benchmarks composition still uses designer chart assets. It is outside the 582 Figma registrations and has not been automatically converted."
+    },
+    {
+      "id": "automatic-parent-replacement",
+      "status": "intentionally-not-automatic",
+      "reason": "Full source compositions retain their original artwork; an agent must explicitly compose a native alternative where requested."
+    }
+  ]
+}

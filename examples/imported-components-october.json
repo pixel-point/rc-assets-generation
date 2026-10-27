@@ -1,0 +1,103 @@
+{
+  "title": "Retain and grow",
+  "width": 1200,
+  "height": 760,
+  "fps": 30,
+  "durationFrames": 120,
+  "posterFrame": 90,
+  "background": "#FFFFFF",
+  "layers": [
+    {
+      "type": "text",
+      "id": "title",
+      "text": "Retain and grow.",
+      "x": 70,
+      "y": 52,
+      "width": 1060,
+      "font": "heading",
+      "fontSize": 54,
+      "color": "#1F1F47",
+      "enter": {
+        "type": "slide",
+        "durationFrames": 20,
+        "y": 16
+      }
+    },
+    {
+      "type": "text",
+      "id": "subtitle",
+      "text": "Thoughtful offers. A consistent experience.",
+      "x": 73,
+      "y": 130,
+      "width": 1040,
+      "font": "body",
+      "fontSize": 25,
+      "color": "#3D3D5C",
+      "startFrame": 6,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 18
+      }
+    },
+    {
+      "type": "illustration",
+      "id": "retention",
+      "illustrationId": "selected-3252-10691",
+      "x": 95,
+      "y": 245,
+      "scale": 1.05,
+      "startFrame": 10,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 24
+      }
+    },
+    {
+      "type": "illustration",
+      "id": "devices",
+      "illustrationId": "selected-3252-10215",
+      "x": 660,
+      "y": 269,
+      "scale": 1.05,
+      "startFrame": 20,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 24
+      }
+    },
+    {
+      "type": "text",
+      "id": "retention-label",
+      "text": "01  Give customers a reason to stay",
+      "x": 76,
+      "y": 674,
+      "width": 510,
+      "font": "heading",
+      "fontSize": 21,
+      "color": "#1F1F47",
+      "startFrame": 30,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 18
+      }
+    },
+    {
+      "type": "text",
+      "id": "devices-label",
+      "text": "02  Connect every subscription experience",
+      "x": 638,
+      "y": 674,
+      "width": 510,
+      "font": "heading",
+      "fontSize": 21,
+      "color": "#1F1F47",
+      "startFrame": 40,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 18
+      }
+    }
+  ]
+}

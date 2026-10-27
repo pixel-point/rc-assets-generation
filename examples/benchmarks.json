@@ -1,0 +1,14 @@
+{
+  "title": "Benchmarks",
+  "description": "Compare subscription metrics against percentile benchmarks for similar apps so you can quickly see where conversion, churn, and retention are outperforming or lagging.",
+  "summary": "5/7 metrics above median",
+  "category": "Education apps",
+  "labels": [
+    "Initial conversion",
+    "Trial conversion",
+    "Conversion to paying",
+    "Monthly churn rate",
+    "Refund rate",
+    "Realized LTV per customer"
+  ]
+}

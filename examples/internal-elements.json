@@ -1,0 +1,26 @@
+{
+  "title": "From purchase to growth — internal animation",
+  "width": 1200,
+  "height": 800,
+  "fps": 30,
+  "durationFrames": 180,
+  "posterFrame": 150,
+  "background": "#FFFFFF",
+  "layers": [
+    {"id":"title","type":"text","text":"From purchase to growth","x":72,"y":50,"width":1056,"font":"heading","fontSize":36,"color":"#1F1F47"},
+    {"id":"caption","type":"text","text":"Graph reveal · Revenue counter · Button response","x":74,"y":102,"width":1050,"font":"body","fontSize":18,"color":"#1F1F47"},
+    {
+      "id":"paywall-story",
+      "type":"illustration",
+      "illustrationId":"selected-3252-72881",
+      "x":350,
+      "y":210,
+      "scale":1.35,
+      "internalMotion":[
+        {"target":"graphLine","property":"revealX","easing":"ease-in-out","keyframes":[{"frame":15,"value":0},{"frame":90,"value":1}]},
+        {"target":"mrrValue","property":"counter","easing":"ease-in-out","format":{"decimals":0,"prefix":"$","suffix":"k"},"keyframes":[{"frame":15,"value":0},{"frame":90,"value":64}]},
+        {"target":"phoneButton","property":"scale","easing":"ease-in-out","keyframes":[{"frame":106,"value":1},{"frame":111,"value":0.96},{"frame":119,"value":1}]}
+      ]
+    }
+  ]
+}

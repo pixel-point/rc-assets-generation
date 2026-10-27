@@ -1,0 +1,1537 @@
+[
+  {
+    "id": "native-revenue-cohort-table",
+    "name": "Weekly cohort revenue table",
+    "width": 380,
+    "height": 200.61261,
+    "kind": "table",
+    "defaults": {
+      "width": 380,
+      "height": 200.61261,
+      "title": "",
+      "theme": "cohort",
+      "columns": [
+        {
+          "id": "cohort",
+          "label": "Cohort",
+          "width": 39,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "customers",
+          "label": "New\ncustomers",
+          "width": 68,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "week-1",
+          "label": "W-1",
+          "width": 63.6,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        },
+        {
+          "id": "week-2",
+          "label": "W-2",
+          "width": 63.6,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        },
+        {
+          "id": "week-3",
+          "label": "W-3",
+          "width": 63.6,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        },
+        {
+          "id": "week-4",
+          "label": "W-4",
+          "width": 63.6,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        }
+      ],
+      "rows": [
+        {
+          "id": "jan",
+          "cells": {
+            "cohort": "Jan",
+            "customers": 9133,
+            "week-1": 8636,
+            "week-2": 2220,
+            "week-3": 3313,
+            "week-4": 4172
+          }
+        },
+        {
+          "id": "feb",
+          "cells": {
+            "cohort": "Feb",
+            "customers": 1332,
+            "week-1": {
+              "value": 758,
+              "format": {
+                "suffix": "$"
+              }
+            },
+            "week-2": 915,
+            "week-3": 972,
+            "week-4": 1018
+          }
+        },
+        {
+          "id": "mar",
+          "cells": {
+            "cohort": "Mar",
+            "customers": 5854,
+            "week-1": 5662,
+            "week-2": 7134,
+            "week-3": 8383,
+            "week-4": 9205
+          }
+        },
+        {
+          "id": "apr",
+          "cells": {
+            "cohort": "Apr",
+            "customers": null,
+            "week-1": null,
+            "week-2": null,
+            "week-3": null,
+            "week-4": {
+              "value": null,
+              "tone": "positive"
+            }
+          }
+        },
+        {
+          "id": "may",
+          "cells": {
+            "cohort": "May",
+            "customers": null,
+            "week-1": null,
+            "week-2": null,
+            "week-3": {
+              "value": null,
+              "tone": "positive"
+            },
+            "week-4": {
+              "value": null,
+              "tone": "positive"
+            }
+          }
+        },
+        {
+          "id": "jun",
+          "cells": {
+            "cohort": "Jun",
+            "customers": null,
+            "week-1": null,
+            "week-2": {
+              "value": null,
+              "tone": "positive"
+            },
+            "week-3": {
+              "value": null,
+              "tone": "positive"
+            },
+            "week-4": {
+              "value": null,
+              "tone": "positive"
+            }
+          }
+        }
+      ],
+      "rowHeight": 28.202101666666664,
+      "heatmap": {
+        "min": 0,
+        "max": 10000,
+        "color": "#576CDB"
+      }
+    },
+    "sources": [
+      {
+        "componentId": "selected-3252-2168",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:2168"
+      }
+    ],
+    "tags": [
+      "native",
+      "data-driven",
+      "table",
+      "cohort",
+      "revenue",
+      "cohort",
+      "table"
+    ],
+    "role": "part",
+    "family": "native",
+    "dataProvenance": "Illustrative values transcribed from the visible weekly source SVG. Retains Jan–Jun, six fully readable columns and null skeleton cells; the clipped trailing column is omitted and complete columns reflow. Original 758$ formatting is preserved. Heat intensity is a new numeric mapping, not recovered analytics.",
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-prediction-revenue-table",
+    "name": "Monthly cohort prediction table — four rows",
+    "width": 558.125,
+    "height": 364.16666,
+    "kind": "table",
+    "defaults": {
+      "width": 558.125,
+      "height": 364.16666,
+      "title": "Prediction explorer",
+      "theme": "prediction",
+      "columns": [
+        {
+          "id": "cohort",
+          "label": "Cohort",
+          "width": 76,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "customers",
+          "label": "New\ncustomers",
+          "width": 102,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "month-0",
+          "label": "Month 0",
+          "width": 126,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        },
+        {
+          "id": "month-1",
+          "label": "Month 1",
+          "width": 126,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        },
+        {
+          "id": "month-2",
+          "label": "Month 2",
+          "width": 126,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        }
+      ],
+      "rows": [
+        {
+          "id": "jan",
+          "cells": {
+            "cohort": "Jan’24",
+            "customers": 9133,
+            "month-0": 10636,
+            "month-1": 12220,
+            "month-2": 13313
+          }
+        },
+        {
+          "id": "feb",
+          "cells": {
+            "cohort": "Feb’24",
+            "customers": 1332,
+            "month-0": {
+              "value": 758,
+              "format": {
+                "suffix": "$"
+              }
+            },
+            "month-1": 915,
+            "month-2": 972
+          }
+        },
+        {
+          "id": "mar",
+          "cells": {
+            "cohort": "Mar’24",
+            "customers": 5854,
+            "month-0": 25662,
+            "month-1": 27134,
+            "month-2": 28383
+          }
+        },
+        {
+          "id": "apr",
+          "cells": {
+            "cohort": "Apr’24",
+            "customers": 916,
+            "month-0": 1512,
+            "month-1": 1667,
+            "month-2": 1763
+          }
+        }
+      ],
+      "subtitle": "Predicted",
+      "rowHeight": 51.65,
+      "heatmap": {
+        "min": 0,
+        "max": 30000,
+        "color": "#576CDB"
+      }
+    },
+    "sources": [
+      {
+        "componentId": "selected-3252-80334",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:80334"
+      },
+      {
+        "componentId": "selected-3252-80331",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:80331"
+      },
+      {
+        "componentId": "selected-3252-80615",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:80615"
+      },
+      {
+        "componentId": "selected-3252-80899",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:80899"
+      },
+      {
+        "componentId": "selected-3252-81182",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:81182"
+      },
+      {
+        "componentId": "selected-3252-1232",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:1232"
+      },
+      {
+        "componentId": "original-plugins-page-38536-44675",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:124550"
+      },
+      {
+        "componentId": "original-plugins-page-38536-45143",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:124824"
+      },
+      {
+        "componentId": "original-plugins-page-38536-45611",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:125098"
+      },
+      {
+        "componentId": "original-plugins-page-38536-46079",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:125372"
+      }
+    ],
+    "tags": [
+      "native",
+      "data-driven",
+      "table",
+      "prediction",
+      "prediction",
+      "revenue",
+      "table"
+    ],
+    "role": "part",
+    "family": "native",
+    "dataProvenance": "Native source text transcribed without recalculation. Independent white-card table reflows cohort labels inside the grid and omits surrounding glow/crop. Numeric heat intensity is an editable interpretation; default currency literals including 758$ are retained.",
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-monthly-cohort-table",
+    "name": "Monthly realized cohort revenue table — six rows",
+    "width": 380,
+    "height": 246,
+    "kind": "table",
+    "defaults": {
+      "width": 380,
+      "height": 246,
+      "title": "Prediction explorer",
+      "theme": "cohort",
+      "columns": [
+        {
+          "id": "cohort",
+          "label": "Cohort",
+          "width": 46,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "customers",
+          "label": "New\ncustomers",
+          "width": 56,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "month-0",
+          "label": "Month 0",
+          "width": 55.6,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        },
+        {
+          "id": "month-1",
+          "label": "Month 1",
+          "width": 55.6,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        },
+        {
+          "id": "month-2",
+          "label": "Month 2",
+          "width": 55.6,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        },
+        {
+          "id": "month-3",
+          "label": "Month 3",
+          "width": 55.6,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        },
+        {
+          "id": "month-4",
+          "label": "Month 4",
+          "width": 55.6,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        }
+      ],
+      "rows": [
+        {
+          "id": "jan",
+          "cells": {
+            "cohort": "Jan’24",
+            "customers": 9133,
+            "month-0": 10636,
+            "month-1": 12220,
+            "month-2": 13313,
+            "month-3": 14172,
+            "month-4": 14831
+          }
+        },
+        {
+          "id": "feb",
+          "cells": {
+            "cohort": "Feb’24",
+            "customers": 1332,
+            "month-0": {
+              "value": 758,
+              "format": {
+                "suffix": "$"
+              }
+            },
+            "month-1": 915,
+            "month-2": 972,
+            "month-3": 1018,
+            "month-4": 1055
+          }
+        },
+        {
+          "id": "mar",
+          "cells": {
+            "cohort": "Mar’24",
+            "customers": 5854,
+            "month-0": 25662,
+            "month-1": 27134,
+            "month-2": 28383,
+            "month-3": 29205,
+            "month-4": 30046
+          }
+        },
+        {
+          "id": "apr",
+          "cells": {
+            "cohort": "Apr’24",
+            "customers": 916,
+            "month-0": 1512,
+            "month-1": 1667,
+            "month-2": 1763,
+            "month-3": "",
+            "month-4": ""
+          }
+        },
+        {
+          "id": "may",
+          "cells": {
+            "cohort": "May’24",
+            "customers": 1641,
+            "month-0": 1855,
+            "month-1": 1977,
+            "month-2": "",
+            "month-3": "",
+            "month-4": ""
+          }
+        },
+        {
+          "id": "jun",
+          "cells": {
+            "cohort": "Jun’24",
+            "customers": 684,
+            "month-0": 333,
+            "month-1": "",
+            "month-2": "",
+            "month-3": "",
+            "month-4": ""
+          }
+        }
+      ],
+      "rowHeight": 28.433333333333334,
+      "heatmap": {
+        "min": 0,
+        "max": 31000,
+        "color": "#576CDB"
+      }
+    },
+    "sources": [
+      {
+        "componentId": "selected-3252-26941",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:26941"
+      },
+      {
+        "componentId": "selected-3252-7971",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:7971"
+      },
+      {
+        "componentId": "revenuecat-whyrevenuecat-06",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:51659"
+      }
+    ],
+    "tags": [
+      "native",
+      "data-driven",
+      "table",
+      "cohort",
+      "monthly",
+      "cohort",
+      "table"
+    ],
+    "role": "part",
+    "family": "native",
+    "dataProvenance": "Native January–June 2024 values and Month 0–4 columns are preserved. Future source cells stay empty strings, not zero. Compact reusable table adapts source spacing; numeric color intensity is newly mapped and no future values are fabricated. The native table omits the source Realized/Predicted legend; data cells remain independently editable.",
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-alternate-cohort-table",
+    "name": "Monthly cohort table — alternate source values",
+    "width": 558.125,
+    "height": 364.16666,
+    "kind": "table",
+    "defaults": {
+      "width": 558.125,
+      "height": 364.16666,
+      "title": "Prediction explorer",
+      "theme": "prediction",
+      "columns": [
+        {
+          "id": "cohort",
+          "label": "Cohort",
+          "width": 76,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "customers",
+          "label": "New\ncustomers",
+          "width": 102,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "month-0",
+          "label": "Month 0",
+          "width": 126,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        },
+        {
+          "id": "month-1",
+          "label": "Month 1",
+          "width": 126,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        },
+        {
+          "id": "month-2",
+          "label": "Month 2",
+          "width": 126,
+          "display": "heatmap",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        }
+      ],
+      "rows": [
+        {
+          "id": "jan",
+          "cells": {
+            "cohort": "Jan’24",
+            "customers": 9133,
+            "month-0": 1206,
+            "month-1": 1055,
+            "month-2": 13313
+          }
+        },
+        {
+          "id": "feb",
+          "cells": {
+            "cohort": "Feb’24",
+            "customers": 1322,
+            "month-0": 29383,
+            "month-1": {
+              "value": 30253,
+              "tone": "positive",
+              "format": {}
+            },
+            "month-2": 972
+          }
+        },
+        {
+          "id": "mar",
+          "cells": {
+            "cohort": "Mar’24",
+            "customers": 5854,
+            "month-0": 1834,
+            "month-1": {
+              "value": 1899,
+              "tone": "positive"
+            },
+            "month-2": 28383
+          }
+        },
+        {
+          "id": "apr",
+          "cells": {
+            "cohort": "Apr’24",
+            "customers": 916,
+            "month-0": {
+              "value": 2106,
+              "tone": "positive"
+            },
+            "month-1": {
+              "value": 2200,
+              "tone": "positive"
+            },
+            "month-2": 1763
+          }
+        }
+      ],
+      "rowHeight": 51.65,
+      "heatmap": {
+        "min": 0,
+        "max": 31000,
+        "color": "#576CDB"
+      }
+    },
+    "sources": [
+      {
+        "componentId": "selected-3252-26044",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:26044"
+      }
+    ],
+    "tags": [
+      "native",
+      "data-driven",
+      "table",
+      "prediction",
+      "alternate",
+      "cohort",
+      "table"
+    ],
+    "role": "part",
+    "family": "native",
+    "dataProvenance": "Distinct native source dataset, including 1,322 customers and unprefixed 30,253. Full native Month 2 text is retained beyond the source viewport crop. Confirmed green source cells use positive tone; no inferred forecast labels or recalculated measurements. The native table omits the source Realized/Predicted legend; data cells remain independently editable.",
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-customer-revenue-table",
+    "name": "Customer revenue table",
+    "width": 349.119,
+    "height": 220.49400000000003,
+    "kind": "table",
+    "defaults": {
+      "width": 349.119,
+      "height": 220.49400000000003,
+      "title": "",
+      "theme": "entitlement",
+      "columns": [
+        {
+          "id": "customer",
+          "label": "Customer",
+          "width": 121,
+          "display": "avatar",
+          "align": "left"
+        },
+        {
+          "id": "product",
+          "label": "Product",
+          "width": 114,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "revenue",
+          "label": "Revenue",
+          "width": 114,
+          "display": "text",
+          "align": "left",
+          "format": {
+            "prefix": "$"
+          }
+        }
+      ],
+      "rows": [
+        {
+          "id": "user-3360",
+          "cells": {
+            "customer": {
+              "value": "User 3360"
+            },
+            "product": "Premium",
+            "revenue": 340
+          }
+        },
+        {
+          "id": "user-3359",
+          "cells": {
+            "customer": {
+              "value": "User 3359",
+              "tone": "positive"
+            },
+            "product": "Premium",
+            "revenue": 340
+          }
+        },
+        {
+          "id": "user-3358",
+          "cells": {
+            "customer": {
+              "value": "User 3358",
+              "tone": "negative"
+            },
+            "product": "Basic",
+            "revenue": 120
+          }
+        },
+        {
+          "id": "user-3357",
+          "cells": {
+            "customer": {
+              "value": "User 3357",
+              "tone": "neutral"
+            },
+            "product": "Premium",
+            "revenue": 340
+          }
+        },
+        {
+          "id": "user-3356",
+          "cells": {
+            "customer": {
+              "value": "User 3356"
+            },
+            "product": "Basic",
+            "revenue": 120
+          }
+        }
+      ],
+      "rowHeight": 36.749
+    },
+    "sources": [
+      {
+        "componentId": "selected-3252-9367",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:9367"
+      },
+      {
+        "componentId": "selected-3252-9481",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:9481"
+      },
+      {
+        "componentId": "selected-3252-345",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:345"
+      },
+      {
+        "componentId": "web-button-section-02",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:49506"
+      },
+      {
+        "componentId": "selected-3252-24423",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:24423"
+      },
+      {
+        "componentId": "selected-3252-5766",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:5766"
+      }
+    ],
+    "tags": [
+      "native",
+      "data-driven",
+      "table",
+      "entitlement",
+      "customer",
+      "revenue",
+      "table"
+    ],
+    "role": "part",
+    "family": "native",
+    "dataProvenance": "Native source customer/product strings transcribed into a standalone table; source fades, surrounding illustration and cropped viewport are omitted. Person icons are native SVG geometry. Values remain illustrative designer copy; null cells preserve source skeleton rows.",
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-customer-entitlements-table",
+    "name": "Customer entitlements table",
+    "width": 349.119,
+    "height": 220.49400000000003,
+    "kind": "table",
+    "defaults": {
+      "width": 349.119,
+      "height": 220.49400000000003,
+      "title": "",
+      "theme": "entitlement",
+      "columns": [
+        {
+          "id": "customer",
+          "label": "Customer",
+          "width": 121,
+          "display": "avatar",
+          "align": "left"
+        },
+        {
+          "id": "product",
+          "label": "Product",
+          "width": 114,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "features",
+          "label": "Features",
+          "width": 114,
+          "display": "text",
+          "align": "left",
+          "format": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "user-3360",
+          "cells": {
+            "customer": {
+              "value": "User 3360"
+            },
+            "product": "Premium",
+            "features": "Full access"
+          }
+        },
+        {
+          "id": "user-3359",
+          "cells": {
+            "customer": {
+              "value": "User 3359",
+              "tone": "positive"
+            },
+            "product": "Premium",
+            "features": "Full access"
+          }
+        },
+        {
+          "id": "user-3358",
+          "cells": {
+            "customer": {
+              "value": "User 3358",
+              "tone": "negative"
+            },
+            "product": "Basic",
+            "features": "Limited access"
+          }
+        },
+        {
+          "id": "user-3357",
+          "cells": {
+            "customer": {
+              "value": "User 3357",
+              "tone": "neutral"
+            },
+            "product": "Premium",
+            "features": "Full access"
+          }
+        },
+        {
+          "id": "user-5",
+          "cells": {
+            "customer": null,
+            "product": null,
+            "features": ""
+          }
+        }
+      ],
+      "rowHeight": 36.749
+    },
+    "sources": [
+      {
+        "componentId": "selected-3252-92613",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:92613"
+      },
+      {
+        "componentId": "original-marketing-template-41926-47371",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:138227"
+      }
+    ],
+    "tags": [
+      "native",
+      "data-driven",
+      "table",
+      "entitlement",
+      "customer",
+      "entitlements",
+      "table"
+    ],
+    "role": "part",
+    "family": "native",
+    "dataProvenance": "Native source customer/product strings transcribed into a standalone table; source fades, surrounding illustration and cropped viewport are omitted. Person icons are native SVG geometry. Values remain illustrative designer copy; null cells preserve source skeleton rows.",
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-customer-products-table",
+    "name": "Customer products and stores table",
+    "width": 349.119,
+    "height": 220.494,
+    "kind": "table",
+    "defaults": {
+      "width": 349.119,
+      "height": 220.494,
+      "title": "",
+      "theme": "entitlement",
+      "columns": [
+        {
+          "id": "customer",
+          "label": "Customer",
+          "width": 121,
+          "display": "avatar",
+          "align": "left"
+        },
+        {
+          "id": "product",
+          "label": "Product",
+          "width": 114,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "store",
+          "label": "Store",
+          "width": 114,
+          "display": "text",
+          "align": "left"
+        }
+      ],
+      "rows": [
+        {
+          "id": "customer-1",
+          "cells": {
+            "customer": {
+              "value": "User 3360"
+            },
+            "product": "Premium",
+            "store": "App Store"
+          }
+        },
+        {
+          "id": "customer-2",
+          "cells": {
+            "customer": {
+              "value": "User 3359",
+              "tone": "positive"
+            },
+            "product": "Premium",
+            "store": "App Store"
+          }
+        },
+        {
+          "id": "customer-3",
+          "cells": {
+            "customer": {
+              "value": "User 3358",
+              "tone": "negative"
+            },
+            "product": "Basic",
+            "store": "Google Play"
+          }
+        },
+        {
+          "id": "customer-4",
+          "cells": {
+            "customer": {
+              "value": "User 3360"
+            },
+            "product": "Premium",
+            "store": "Google Play"
+          }
+        },
+        {
+          "id": "customer-5",
+          "cells": {
+            "customer": null,
+            "product": null,
+            "store": ""
+          }
+        }
+      ],
+      "rowHeight": 36.749
+    },
+    "sources": [
+      {
+        "componentId": "selected-3252-80001",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:80001"
+      }
+    ],
+    "tags": [
+      "native",
+      "data-driven",
+      "table",
+      "entitlement",
+      "customer",
+      "products",
+      "table"
+    ],
+    "role": "part",
+    "family": "native",
+    "dataProvenance": "Preserves four native customer/product/store rows, including the repeated User3360 label. Stable row IDs distinguish duplicate labels. Source surrounding platform-logo diagram and decorative fade are omitted; store names stay editable text and no new store-logo assets are introduced.",
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-conversion-steps-table",
+    "name": "Step-by-step conversion metrics table",
+    "width": 380,
+    "height": 248,
+    "kind": "table",
+    "defaults": {
+      "width": 380,
+      "height": 248,
+      "title": "Step-by-step conversion",
+      "theme": "conversion",
+      "columns": [
+        {
+          "id": "step",
+          "label": "Step",
+          "width": 70,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "conversions",
+          "label": "Conversions",
+          "width": 60,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "conversion-rate",
+          "label": "Step conversion\nrate",
+          "width": 100,
+          "display": "bar",
+          "align": "left",
+          "format": {
+            "suffix": "%"
+          }
+        },
+        {
+          "id": "drop-off",
+          "label": "Drop-off",
+          "width": 55,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "drop-off-rate",
+          "label": "Step drop-off\nrate",
+          "width": 95,
+          "display": "bar",
+          "align": "left",
+          "format": {
+            "suffix": "%"
+          }
+        }
+      ],
+      "rows": [
+        {
+          "id": "step-1",
+          "cells": {
+            "step": "Survey step",
+            "conversions": 60,
+            "conversion-rate": 60,
+            "drop-off": 24,
+            "drop-off-rate": {
+              "value": 40,
+              "tone": "negative"
+            }
+          }
+        },
+        {
+          "id": "step-2",
+          "cells": {
+            "step": "Loader step",
+            "conversions": 30,
+            "conversion-rate": 70,
+            "drop-off": 9,
+            "drop-off-rate": {
+              "value": 30,
+              "tone": "negative"
+            }
+          }
+        },
+        {
+          "id": "step-3",
+          "cells": {
+            "step": "Step 3",
+            "conversions": 25,
+            "conversion-rate": 80,
+            "drop-off": 5,
+            "drop-off-rate": {
+              "value": 20,
+              "tone": "negative"
+            }
+          }
+        },
+        {
+          "id": "step-4",
+          "cells": {
+            "step": "Step 4",
+            "conversions": 20,
+            "conversion-rate": 78,
+            "drop-off": 4,
+            "drop-off-rate": {
+              "value": 22,
+              "tone": "negative"
+            }
+          }
+        },
+        {
+          "id": "step-5",
+          "cells": {
+            "step": "Step 5",
+            "conversions": 270,
+            "conversion-rate": 22,
+            "drop-off": 940,
+            "drop-off-rate": {
+              "value": 78,
+              "tone": "negative"
+            }
+          }
+        },
+        {
+          "id": "step-6",
+          "cells": {
+            "step": "Step 6",
+            "conversions": 720,
+            "conversion-rate": 74,
+            "drop-off": 160,
+            "drop-off-rate": {
+              "value": 26,
+              "tone": "negative"
+            }
+          }
+        }
+      ],
+      "rowHeight": 29.142857142857142,
+      "heatmap": {
+        "min": 0,
+        "max": 100,
+        "color": "#576CDB"
+      }
+    },
+    "sources": [
+      {
+        "componentId": "selected-3252-27548",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:27548"
+      }
+    ],
+    "tags": [
+      "native",
+      "data-driven",
+      "table",
+      "conversion",
+      "conversion",
+      "steps",
+      "table"
+    ],
+    "role": "part",
+    "family": "native",
+    "dataProvenance": "All six native source rows are retained, including designer-provided counts/rates that are not arithmetically consistent. Numeric rate values drive native bars. Source browser chrome, decorative orbit and bottom fade are omitted so all editable rows are visible.",
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-refund-segments-table",
+    "name": "App Store refund segments table",
+    "width": 380,
+    "height": 104,
+    "kind": "table",
+    "defaults": {
+      "width": 380,
+      "height": 104,
+      "title": "",
+      "theme": "cohort",
+      "columns": [
+        {
+          "id": "segment",
+          "label": "Segments",
+          "width": 113,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "nov-1",
+          "label": "Nov 1",
+          "width": 44.5,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "nov-2",
+          "label": "Nov 2",
+          "width": 44.5,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "nov-3",
+          "label": "Nov 3",
+          "width": 44.5,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "nov-4",
+          "label": "Nov 4",
+          "width": 44.5,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "nov-5",
+          "label": "Nov 5",
+          "width": 44.5,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "nov-6",
+          "label": "Nov 6",
+          "width": 44.5,
+          "display": "text",
+          "align": "left"
+        }
+      ],
+      "rows": [
+        {
+          "id": "granted",
+          "cells": {
+            "segment": "Refund Granted",
+            "nov-1": 10,
+            "nov-2": 13,
+            "nov-3": 4,
+            "nov-4": 2,
+            "nov-5": 7,
+            "nov-6": 4
+          }
+        },
+        {
+          "id": "declined",
+          "cells": {
+            "segment": "Refund Declined",
+            "nov-1": 25,
+            "nov-2": 12,
+            "nov-3": 15,
+            "nov-4": 20,
+            "nov-5": 0,
+            "nov-6": 0
+          }
+        },
+        {
+          "id": "unresolved",
+          "cells": {
+            "segment": "No Resolution",
+            "nov-1": 0,
+            "nov-2": 0,
+            "nov-3": 0,
+            "nov-4": 0,
+            "nov-5": 21,
+            "nov-6": 21
+          }
+        }
+      ],
+      "rowHeight": 24.2
+    },
+    "sources": [
+      {
+        "componentId": "selected-3252-7239",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:7239"
+      },
+      {
+        "componentId": "refund-control-page-03",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:50949"
+      }
+    ],
+    "tags": [
+      "native",
+      "data-driven",
+      "table",
+      "cohort",
+      "refund",
+      "segments",
+      "table"
+    ],
+    "role": "part",
+    "family": "native",
+    "dataProvenance": "Native table values transcribed and checked against the six visible date columns. Standalone table omits the associated stacked chart. All zero values are genuine source literals, not placeholders.",
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-customer-feedback-table",
+    "name": "Customer cancellation feedback table",
+    "width": 380,
+    "height": 227,
+    "kind": "table",
+    "defaults": {
+      "width": 380,
+      "height": 227,
+      "title": "",
+      "theme": "feedback",
+      "columns": [
+        {
+          "id": "user",
+          "label": "User ID",
+          "width": 109,
+          "display": "avatar",
+          "align": "left"
+        },
+        {
+          "id": "answer",
+          "label": "Question 1",
+          "width": 169,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "continuation",
+          "label": "",
+          "width": 102,
+          "display": "text",
+          "align": "left"
+        }
+      ],
+      "rows": [
+        {
+          "id": "user-1",
+          "cells": {
+            "user": {
+              "value": "User 1"
+            },
+            "answer": "Don’t use the app",
+            "continuation": ""
+          }
+        },
+        {
+          "id": "user-2",
+          "cells": {
+            "user": {
+              "value": "User 2",
+              "tone": "positive"
+            },
+            "answer": "Don’t use the app",
+            "continuation": ""
+          }
+        },
+        {
+          "id": "user-3",
+          "cells": {
+            "user": {
+              "value": "User 3",
+              "tone": "negative"
+            },
+            "answer": "Too expensive",
+            "continuation": ""
+          }
+        },
+        {
+          "id": "user-4",
+          "cells": {
+            "user": null,
+            "answer": null,
+            "continuation": ""
+          }
+        }
+      ],
+      "rowHeight": 44
+    },
+    "sources": [
+      {
+        "componentId": "feedback-table",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41944:45531"
+      },
+      {
+        "componentId": "cancellation-feedback-table",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41944:45413"
+      }
+    ],
+    "tags": [
+      "native",
+      "data-driven",
+      "table",
+      "feedback",
+      "customer",
+      "feedback",
+      "table"
+    ],
+    "role": "part",
+    "family": "native",
+    "dataProvenance": "Native Inter labels and original person-icon SVG geometry preserved. Four rows include the source skeleton row and empty trailing column. Rebuilt CSS border/stripe geometry replaces fixed fragments.",
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-trial-report-table",
+    "name": "Active trials report table",
+    "width": 290,
+    "height": 160,
+    "kind": "table",
+    "defaults": {
+      "width": 290,
+      "height": 160,
+      "title": "",
+      "theme": "feedback",
+      "columns": [
+        {
+          "id": "month",
+          "label": "Month",
+          "width": 145,
+          "display": "text",
+          "align": "left"
+        },
+        {
+          "id": "active-trials",
+          "label": "Active Trials",
+          "width": 145,
+          "display": "text",
+          "align": "left"
+        }
+      ],
+      "rows": [
+        {
+          "id": "jan",
+          "cells": {
+            "month": "Jan",
+            "active-trials": 3512
+          }
+        },
+        {
+          "id": "feb",
+          "cells": {
+            "month": "Feb",
+            "active-trials": 2678
+          }
+        },
+        {
+          "id": "mar",
+          "cells": {
+            "month": "Mar (13 days in)",
+            "active-trials": 3217
+          }
+        }
+      ],
+      "rowHeight": 40
+    },
+    "sources": [
+      {
+        "componentId": "selected-3252-72592",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:72592"
+      },
+      {
+        "componentId": "original-ai-agent-trials-reply",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:117014"
+      }
+    ],
+    "tags": [
+      "native",
+      "data-driven",
+      "table",
+      "feedback",
+      "trial",
+      "report",
+      "table"
+    ],
+    "role": "part",
+    "family": "native",
+    "dataProvenance": "Preserves the three native monthly labels and trial counts from the Slack report. This reusable table excludes conversation avatars, prose and Slack chrome; the white-card presentation is a source-inspired adaptation.",
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  }
+]

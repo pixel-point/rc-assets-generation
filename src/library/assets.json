@@ -1,0 +1,83 @@
+[
+  {
+    "id": "benchmarks-0f231",
+    "name": "Benchmark artwork 0f231",
+    "src": "figma/benchmarks/0f231.svg",
+    "width": 1.0,
+    "height": 250.0,
+    "family": "benchmarks",
+    "nodeId": "41942:45311"
+  },
+  {
+    "id": "benchmarks-2362c",
+    "name": "Benchmark artwork 2362c",
+    "src": "figma/benchmarks/2362c.svg",
+    "width": 8.0,
+    "height": 13.0,
+    "family": "benchmarks",
+    "nodeId": "41942:45311"
+  },
+  {
+    "id": "benchmarks-74b9c",
+    "name": "Benchmark artwork 74b9c",
+    "src": "figma/benchmarks/74b9c.svg",
+    "width": 324.0,
+    "height": 10.0,
+    "family": "benchmarks",
+    "nodeId": "41942:45311"
+  },
+  {
+    "id": "benchmarks-ba117",
+    "name": "Benchmark artwork ba117",
+    "src": "figma/benchmarks/ba117.svg",
+    "width": 506.006,
+    "height": 3.99994,
+    "family": "benchmarks",
+    "nodeId": "41942:45311"
+  },
+  {
+    "id": "benchmarks-bb928",
+    "name": "Benchmark artwork bb928",
+    "src": "figma/benchmarks/bb928.svg",
+    "width": 324.0,
+    "height": 10.0,
+    "family": "benchmarks",
+    "nodeId": "41942:45311"
+  },
+  {
+    "id": "benchmarks-bcdce",
+    "name": "Benchmark artwork bcdce",
+    "src": "figma/benchmarks/bcdce.svg",
+    "width": 324.0,
+    "height": 10.0,
+    "family": "benchmarks",
+    "nodeId": "41942:45311"
+  },
+  {
+    "id": "benchmarks-c3dec",
+    "name": "Benchmark artwork c3dec",
+    "src": "figma/benchmarks/c3dec.svg",
+    "width": 579.528,
+    "height": 414.528,
+    "family": "benchmarks",
+    "nodeId": "41942:45311"
+  },
+  {
+    "id": "benchmarks-e774e",
+    "name": "Benchmark artwork e774e",
+    "src": "figma/benchmarks/e774e.svg",
+    "width": 324.0,
+    "height": 10.0,
+    "family": "benchmarks",
+    "nodeId": "41942:45311"
+  },
+  {
+    "id": "benchmarks-ec62c",
+    "name": "Benchmark artwork ec62c",
+    "src": "figma/benchmarks/ec62c.svg",
+    "width": 324.0,
+    "height": 10.0,
+    "family": "benchmarks",
+    "nodeId": "41942:45311"
+  }
+]

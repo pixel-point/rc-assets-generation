@@ -1,0 +1,17 @@
+# Dependencies and generated media
+node_modules/
+dist/
+out/
+.DS_Store
+
+# Local settings and credentials
+.env
+.env.*
+.npmrc
+auth.json
+credentials.json
+settings.local.json
+
+# Maintainer acquisition and private review material
+source-designs/
+release-docs/

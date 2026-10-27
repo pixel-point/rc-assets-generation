@@ -1,0 +1,147 @@
+{
+  "title": "Build, connect, grow",
+  "width": 1600,
+  "height": 900,
+  "fps": 30,
+  "durationFrames": 240,
+  "posterFrame": 180,
+  "background": "#FFFFFF",
+  "layers": [
+    {
+      "type": "text",
+      "id": "heading",
+      "text": "Build, connect, grow.",
+      "x": 80,
+      "y": 66,
+      "width": 1440,
+      "font": "heading",
+      "fontSize": 68,
+      "color": "#1F1F47",
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 18
+      }
+    },
+    {
+      "type": "text",
+      "id": "subtitle",
+      "text": "RevenueCat artwork, composed from reusable Figma components.",
+      "x": 84,
+      "y": 164,
+      "width": 1400,
+      "font": "body",
+      "fontSize": 28,
+      "color": "#3D3D5C",
+      "startFrame": 8,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 22
+      }
+    },
+    {
+      "type": "illustration",
+      "id": "build",
+      "illustrationId": "selected-3252-415",
+      "x": 74,
+      "y": 310,
+      "scale": 1.12,
+      "startFrame": 20,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 30,
+        "y": 32
+      },
+      "float": {
+        "amplitudeY": 4,
+        "periodFrames": 120
+      }
+    },
+    {
+      "type": "illustration",
+      "id": "connect",
+      "illustrationId": "selected-3252-4909",
+      "x": 571,
+      "y": 292,
+      "scale": 1.16,
+      "startFrame": 42,
+      "enter": {
+        "type": "scale",
+        "durationFrames": 30,
+        "from": 0.94
+      },
+      "float": {
+        "amplitudeY": 4,
+        "periodFrames": 120,
+        "phaseDegrees": 120
+      }
+    },
+    {
+      "type": "illustration",
+      "id": "grow",
+      "illustrationId": "selected-3252-5466",
+      "x": 1080,
+      "y": 310,
+      "scale": 1.12,
+      "startFrame": 64,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 30,
+        "y": 32
+      },
+      "float": {
+        "amplitudeY": 4,
+        "periodFrames": 120,
+        "phaseDegrees": 240
+      }
+    },
+    {
+      "type": "text",
+      "id": "build-label",
+      "text": "01  Build your paywall",
+      "x": 84,
+      "y": 770,
+      "width": 430,
+      "font": "heading",
+      "fontSize": 26,
+      "color": "#1F1F47",
+      "startFrame": 24,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 24
+      }
+    },
+    {
+      "type": "text",
+      "id": "connect-label",
+      "text": "02  Connect your stack",
+      "x": 584,
+      "y": 770,
+      "width": 430,
+      "font": "heading",
+      "fontSize": 26,
+      "color": "#1F1F47",
+      "startFrame": 46,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 24
+      }
+    },
+    {
+      "type": "text",
+      "id": "grow-label",
+      "text": "03  Understand customers",
+      "x": 1084,
+      "y": 770,
+      "width": 460,
+      "font": "heading",
+      "fontSize": 26,
+      "color": "#1F1F47",
+      "startFrame": 68,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 24
+      }
+    }
+  ]
+}

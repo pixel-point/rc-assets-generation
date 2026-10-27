@@ -1,0 +1,16 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="13.7048" height="13.7046" viewBox="0 0 13.7048 13.7046" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Group 33998">
+<g id="Ellipse 651">
+<use xlink:href="#stroke0_0_24" fill="#F25A5A"/>
+<mask id="stroke1_0_24" maskUnits="userSpaceOnUse" x="-0.402864" y="-0.402864" width="15" height="15" fill="black">
+<rect fill="white" x="-0.402864" y="-0.402864" width="15" height="15"/>
+<use xlink:href="#stroke0_0_24"/>
+</mask>
+<path d="M12.1076 6.85232C12.1076 9.75467 9.75477 12.1075 6.85238 12.1075C3.94999 12.1075 1.59714 9.75467 1.59714 6.85232C1.59714 3.94996 3.94999 1.59714 6.85238 1.59714C9.75477 1.59714 12.1076 3.94996 12.1076 6.85232Z" stroke-width="3.19427" stroke="white" mask="url(#stroke1_0_24)"/>
+</g>
+<path id="Vector 567" d="M4.83307 4.83011L6.8544 6.85141M6.8544 6.85141L8.87573 8.87271M6.8544 6.85141L8.87573 4.83011M6.8544 6.85141L4.83307 8.87271" stroke-width="0.958282" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
+</g>
+<defs>
+<path id="stroke0_0_24" d="M12.1076 6.85232C12.1076 9.75467 9.75477 12.1075 6.85238 12.1075C3.94999 12.1075 1.59714 9.75467 1.59714 6.85232C1.59714 3.94996 3.94999 1.59714 6.85238 1.59714C9.75477 1.59714 12.1076 3.94996 12.1076 6.85232Z"/>
+</defs>
+</svg>

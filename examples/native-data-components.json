@@ -1,0 +1,516 @@
+{
+  "title": "Native tables and charts",
+  "width": 1200,
+  "height": 900,
+  "fps": 30,
+  "durationFrames": 180,
+  "posterFrame": 155,
+  "background": "#F9F9FB",
+  "layers": [
+    {
+      "id": "heading",
+      "type": "text",
+      "text": "Data, in motion.",
+      "x": 42,
+      "y": 30,
+      "width": 1000,
+      "font": "heading",
+      "fontSize": 45,
+      "color": "#1F1F47"
+    },
+    {
+      "id": "subheading",
+      "type": "text",
+      "text": "Editable values. Independent rows, columns, points and segments.",
+      "x": 44,
+      "y": 89,
+      "width": 1100,
+      "font": "body",
+      "fontSize": 18,
+      "color": "#3D3D5C"
+    },
+    {
+      "id": "cohorts",
+      "type": "native",
+      "componentId": "native-revenue-cohort-table",
+      "x": 30,
+      "y": 140,
+      "props": {
+        "width": 560,
+        "height": 320,
+        "title": "Cohort revenue",
+        "subtitle": "Change one cell, its value and heatmap respond",
+        "heatmap": {
+          "min": 0,
+          "max": 100,
+          "color": "#576CDB"
+        },
+        "columns": [
+          {
+            "id": "cohort",
+            "label": "Cohort",
+            "display": "text",
+            "width": 1.3,
+            "align": "left"
+          },
+          {
+            "id": "customers",
+            "label": "New customers",
+            "display": "text",
+            "width": 1.5,
+            "align": "right"
+          },
+          {
+            "id": "month-0",
+            "label": "Month 0",
+            "display": "heatmap",
+            "width": 1,
+            "align": "right"
+          },
+          {
+            "id": "month-1",
+            "label": "Month 1",
+            "display": "heatmap",
+            "width": 1,
+            "align": "right"
+          },
+          {
+            "id": "month-2",
+            "label": "Month 2",
+            "display": "heatmap",
+            "width": 1,
+            "align": "right"
+          }
+        ],
+        "rows": [
+          {
+            "id": "jan",
+            "cells": {
+              "cohort": "Jan 2026",
+              "customers": 1850,
+              "month-0": 35,
+              "month-1": 57,
+              "month-2": 76
+            }
+          },
+          {
+            "id": "feb",
+            "cells": {
+              "cohort": "Feb 2026",
+              "customers": 2210,
+              "month-0": 28,
+              "month-1": 51,
+              "month-2": 24
+            }
+          },
+          {
+            "id": "mar",
+            "cells": {
+              "cohort": "Mar 2026",
+              "customers": 2640,
+              "month-0": 31,
+              "month-1": 64,
+              "month-2": 92
+            }
+          },
+          {
+            "id": "apr",
+            "cells": {
+              "cohort": "Apr 2026",
+              "customers": 3120,
+              "month-0": 44,
+              "month-1": 72,
+              "month-2": 98
+            }
+          }
+        ]
+      },
+      "internalMotion": [
+        {
+          "target": "row:apr",
+          "property": "opacity",
+          "easing": "ease-out",
+          "keyframes": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 20,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "target": "cell:feb:month-2",
+          "property": "value",
+          "easing": "ease-in-out",
+          "keyframes": [
+            {
+              "frame": 50,
+              "value": 24
+            },
+            {
+              "frame": 105,
+              "value": 83
+            }
+          ]
+        },
+        {
+          "target": "column:month-2",
+          "property": "translateY",
+          "easing": "ease-in-out",
+          "keyframes": [
+            {
+              "frame": 108,
+              "value": 0
+            },
+            {
+              "frame": 119,
+              "value": -4
+            },
+            {
+              "frame": 133,
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "subscribers",
+      "type": "native",
+      "componentId": "native-subscription-metrics-chart",
+      "x": 610,
+      "y": 140,
+      "props": {
+        "width": 560,
+        "height": 320,
+        "title": "Subscriber growth",
+        "metrics": [],
+        "categories": [
+          {
+            "id": "jan",
+            "label": "Jan"
+          },
+          {
+            "id": "feb",
+            "label": "Feb"
+          },
+          {
+            "id": "mar",
+            "label": "Mar"
+          },
+          {
+            "id": "apr",
+            "label": "Apr"
+          },
+          {
+            "id": "may",
+            "label": "May"
+          },
+          {
+            "id": "jun",
+            "label": "Jun"
+          }
+        ],
+        "series": [
+          {
+            "id": "subscribers",
+            "label": "Subscribers",
+            "color": "#576CDB",
+            "values": [
+              900,
+              1450,
+              1200,
+              2300,
+              2050,
+              2800
+            ]
+          }
+        ],
+        "domain": {
+          "min": 0,
+          "max": 4000
+        },
+        "showPoints": true
+      },
+      "internalMotion": [
+        {
+          "target": "series:subscribers",
+          "property": "draw",
+          "easing": "ease-out",
+          "keyframes": [
+            {
+              "frame": 6,
+              "value": 0
+            },
+            {
+              "frame": 44,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "target": "point:subscribers:jun",
+          "property": "value",
+          "easing": "ease-in-out",
+          "keyframes": [
+            {
+              "frame": 54,
+              "value": 2800
+            },
+            {
+              "frame": 108,
+              "value": 3650
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "refunds",
+      "type": "native",
+      "componentId": "native-refund-requests-chart",
+      "x": 30,
+      "y": 490,
+      "props": {
+        "width": 560,
+        "height": 320,
+        "title": "Weekly refunds",
+        "kind": "bar",
+        "categories": [
+          {
+            "id": "mon",
+            "label": "Monday"
+          },
+          {
+            "id": "tue",
+            "label": "Tuesday"
+          },
+          {
+            "id": "wed",
+            "label": "Wednesday"
+          }
+        ],
+        "series": [
+          {
+            "id": "declined",
+            "label": "Refund Declined",
+            "color": "#F2545B",
+            "values": [
+              58,
+              70,
+              64
+            ]
+          },
+          {
+            "id": "granted",
+            "label": "Refund Granted",
+            "color": "#576CDB",
+            "values": [
+              24,
+              36,
+              28
+            ]
+          }
+        ],
+        "domain": {
+          "min": 0,
+          "max": 100
+        }
+      },
+      "internalMotion": [
+        {
+          "target": "series:declined",
+          "property": "progress",
+          "easing": "ease-out",
+          "keyframes": [
+            {
+              "frame": 10,
+              "value": 0
+            },
+            {
+              "frame": 48,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "target": "bar:granted:mon",
+          "property": "progress",
+          "easing": "ease-out",
+          "keyframes": [
+            {
+              "frame": 10,
+              "value": 0
+            },
+            {
+              "frame": 48,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "target": "bar:granted:tue",
+          "property": "progress",
+          "easing": "ease-out",
+          "keyframes": [
+            {
+              "frame": 16,
+              "value": 0
+            },
+            {
+              "frame": 54,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "target": "bar:granted:wed",
+          "property": "progress",
+          "easing": "ease-out",
+          "keyframes": [
+            {
+              "frame": 22,
+              "value": 0
+            },
+            {
+              "frame": 60,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "target": "point:granted:wed",
+          "property": "value",
+          "easing": "ease-in-out",
+          "keyframes": [
+            {
+              "frame": 80,
+              "value": 28
+            },
+            {
+              "frame": 126,
+              "value": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mix",
+      "type": "native",
+      "componentId": "native-trial-duration-donut",
+      "x": 610,
+      "y": 490,
+      "props": {
+        "width": 560,
+        "height": 320,
+        "title": "Monetization mix",
+        "categories": [
+          {
+            "id": "subscriptions",
+            "label": "Subscriptions",
+            "color": "#576CDB"
+          },
+          {
+            "id": "purchases",
+            "label": "Purchases",
+            "color": "#F2545B"
+          },
+          {
+            "id": "other",
+            "label": "Other",
+            "color": "#11D483"
+          }
+        ],
+        "series": [
+          {
+            "id": "revenue",
+            "label": "Revenue share",
+            "color": "#576CDB",
+            "values": [
+              60,
+              25,
+              15
+            ]
+          }
+        ]
+      },
+      "internalMotion": [
+        {
+          "target": "series:revenue",
+          "property": "progress",
+          "easing": "ease-out",
+          "keyframes": [
+            {
+              "frame": 8,
+              "value": 0
+            },
+            {
+              "frame": 48,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "target": "point:revenue:subscriptions",
+          "property": "value",
+          "easing": "ease-in-out",
+          "keyframes": [
+            {
+              "frame": 72,
+              "value": 60
+            },
+            {
+              "frame": 125,
+              "value": 74
+            }
+          ]
+        },
+        {
+          "target": "point:revenue:purchases",
+          "property": "value",
+          "easing": "ease-in-out",
+          "keyframes": [
+            {
+              "frame": 72,
+              "value": 25
+            },
+            {
+              "frame": 125,
+              "value": 15
+            }
+          ]
+        },
+        {
+          "target": "point:revenue:other",
+          "property": "value",
+          "easing": "ease-in-out",
+          "keyframes": [
+            {
+              "frame": 72,
+              "value": 15
+            },
+            {
+              "frame": 125,
+              "value": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "footer",
+      "type": "text",
+      "text": "Illustrative demo data \u00b7 Native React / SVG \u00b7 Generated automatically",
+      "x": 44,
+      "y": 846,
+      "width": 1100,
+      "font": "body",
+      "fontSize": 14,
+      "color": "#94979E"
+    }
+  ]
+}

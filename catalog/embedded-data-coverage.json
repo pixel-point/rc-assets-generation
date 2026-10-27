@@ -1,0 +1,1058 @@
+{
+  "schemaVersion": 1,
+  "expectedHostCount": 76,
+  "definedHostCount": 76,
+  "tableDefinitions": 31,
+  "chartDefinitions": 66,
+  "declaredSlots": 98,
+  "hosts": [
+    {
+      "componentId": "selected-3252-2168",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Weekly cohort revenue table",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-2168"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-80334",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly cohort prediction table — four rows",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-80334"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-80331",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly cohort prediction table — four rows",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-80331"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-80615",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly cohort prediction table — four rows",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-80615"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-80899",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly cohort prediction table — four rows",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-80899"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-81182",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly cohort prediction table — four rows",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-81182"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-1232",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly cohort prediction table — four rows",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-1232"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "original-plugins-page-38536-44675",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly cohort prediction table — four rows",
+          "kind": "table",
+          "sourceComponentId": "original-plugins-page-38536-44675"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "original-plugins-page-38536-45143",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly cohort prediction table — four rows",
+          "kind": "table",
+          "sourceComponentId": "original-plugins-page-38536-45143"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "original-plugins-page-38536-45611",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly cohort prediction table — four rows",
+          "kind": "table",
+          "sourceComponentId": "original-plugins-page-38536-45611"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "original-plugins-page-38536-46079",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly cohort prediction table — four rows",
+          "kind": "table",
+          "sourceComponentId": "original-plugins-page-38536-46079"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-26941",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly realized cohort revenue table — six rows",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-26941"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-7971",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly realized cohort revenue table — six rows",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-7971"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "revenuecat-whyrevenuecat-06",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly realized cohort revenue table — six rows",
+          "kind": "table",
+          "sourceComponentId": "revenuecat-whyrevenuecat-06"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-26044",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Monthly cohort table — alternate source values",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-26044"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-9367",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Customer revenue table",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-9367"
+        },
+        {
+          "id": "customer-ltv-chart",
+          "name": "Realized LTV per Customer",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-9367"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-9481",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Customer revenue table",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-9481"
+        },
+        {
+          "id": "customer-ltv-chart",
+          "name": "Realized LTV per Customer",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-9481"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-345",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Customer revenue table",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-345"
+        },
+        {
+          "id": "customer-ltv-chart",
+          "name": "Realized LTV per Customer",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-345"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "web-button-section-02",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Customer revenue table",
+          "kind": "table",
+          "sourceComponentId": "web-button-section-02"
+        },
+        {
+          "id": "customer-ltv-chart",
+          "name": "Realized LTV per Customer",
+          "kind": "chart",
+          "sourceComponentId": "web-button-section-02"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-24423",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Customer revenue table",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-24423"
+        },
+        {
+          "id": "customer-ltv-chart",
+          "name": "Realized LTV per Customer",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-24423"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-5766",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Customer revenue table",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-5766"
+        },
+        {
+          "id": "customer-ltv-chart",
+          "name": "Realized LTV per Customer",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-5766"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-92613",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Customer entitlements table",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-92613"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "original-marketing-template-41926-47371",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Customer entitlements table",
+          "kind": "table",
+          "sourceComponentId": "original-marketing-template-41926-47371"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-80001",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Customer products and stores table",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-80001"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-27548",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Step-by-step conversion metrics table",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-27548"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-7239",
+      "slots": [
+        {
+          "id": "table",
+          "name": "App Store refund segments table",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-7239"
+        },
+        {
+          "id": "refund-requests-chart",
+          "name": "App Store Refund Request",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-7239"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "refund-control-page-03",
+      "slots": [
+        {
+          "id": "table",
+          "name": "App Store refund segments table",
+          "kind": "table",
+          "sourceComponentId": "refund-control-page-03"
+        },
+        {
+          "id": "refund-requests-chart",
+          "name": "App Store Refund Request",
+          "kind": "chart",
+          "sourceComponentId": "refund-control-page-03"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "feedback-table",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Customer cancellation feedback table",
+          "kind": "table",
+          "sourceComponentId": "feedback-table"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "cancellation-feedback-table",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Customer cancellation feedback table",
+          "kind": "table",
+          "sourceComponentId": "cancellation-feedback-table"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-72592",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Active trials report table",
+          "kind": "table",
+          "sourceComponentId": "selected-3252-72592"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "original-ai-agent-trials-reply",
+      "slots": [
+        {
+          "id": "table",
+          "name": "Active trials report table",
+          "kind": "table",
+          "sourceComponentId": "original-ai-agent-trials-reply"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-41046",
+      "slots": [
+        {
+          "id": "trial-rate-chart",
+          "name": "Trial Rate",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41046"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-41041",
+      "slots": [
+        {
+          "id": "trial-rate-chart",
+          "name": "Trial Rate",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41041"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-41218",
+      "slots": [
+        {
+          "id": "trial-rate-chart",
+          "name": "Trial Rate",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41218"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "original-amplitude-trial-rate-paywall",
+      "slots": [
+        {
+          "id": "trial-rate-chart",
+          "name": "Trial Rate",
+          "kind": "chart",
+          "sourceComponentId": "original-amplitude-trial-rate-paywall"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-41323",
+      "slots": [
+        {
+          "id": "membership-churn-chart",
+          "name": "Monthly membership churn",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41323"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-41318",
+      "slots": [
+        {
+          "id": "membership-churn-chart",
+          "name": "Monthly membership churn",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41318"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-41443",
+      "slots": [
+        {
+          "id": "user-winback-chart",
+          "name": "Winback of users",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41443"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-41402",
+      "slots": [
+        {
+          "id": "user-winback-chart",
+          "name": "Winback of users",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41402"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-41647",
+      "slots": [
+        {
+          "id": "subscription-stack-chart",
+          "name": "PhotoRoom Analytics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41647"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-41627",
+      "slots": [
+        {
+          "id": "subscription-stack-chart",
+          "name": "PhotoRoom Analytics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41627"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-41525",
+      "slots": [
+        {
+          "id": "subscription-stack-chart",
+          "name": "PhotoRoom Analytics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41525"
+        },
+        {
+          "id": "trial-duration-donut",
+          "name": "Trial Duration",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41525"
+        },
+        {
+          "id": "customer-ltv-chart",
+          "name": "Realized LTV per Customer",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41525"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-41490",
+      "slots": [
+        {
+          "id": "subscription-stack-chart",
+          "name": "PhotoRoom Analytics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41490"
+        },
+        {
+          "id": "trial-duration-donut",
+          "name": "Trial Duration",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41490"
+        },
+        {
+          "id": "customer-ltv-chart",
+          "name": "Realized LTV per Customer",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-41490"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "original-amplitude-subscription-analytics",
+      "slots": [
+        {
+          "id": "subscription-stack-chart",
+          "name": "PhotoRoom Analytics",
+          "kind": "chart",
+          "sourceComponentId": "original-amplitude-subscription-analytics"
+        },
+        {
+          "id": "trial-duration-donut",
+          "name": "Trial Duration",
+          "kind": "chart",
+          "sourceComponentId": "original-amplitude-subscription-analytics"
+        },
+        {
+          "id": "customer-ltv-chart",
+          "name": "Realized LTV per Customer",
+          "kind": "chart",
+          "sourceComponentId": "original-amplitude-subscription-analytics"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-72829",
+      "slots": [
+        {
+          "id": "refund-rate-chart",
+          "name": "Refund Rate",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-72829"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-72805",
+      "slots": [
+        {
+          "id": "refund-rate-chart",
+          "name": "Refund Rate",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-72805"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-75058",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-75058"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-92169",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-92169"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-92104",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-92104"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-1578",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-1578"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-1832",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-1832"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-75052",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-75052"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-75383",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-75383"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-75522",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-75522"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-75665",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-75665"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-75808",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-75808"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-75945",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-75945"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "original-marketing-template-41926-46726",
+      "slots": [
+        {
+          "id": "subscription-metrics-chart",
+          "name": "Subscription Metrics",
+          "kind": "chart",
+          "sourceComponentId": "original-marketing-template-41926-46726"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-75172",
+      "slots": [
+        {
+          "id": "mrr-movement-chart",
+          "name": "MRR Movement",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-75172"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-75166",
+      "slots": [
+        {
+          "id": "mrr-movement-chart",
+          "name": "MRR Movement",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-75166"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-93395",
+      "slots": [
+        {
+          "id": "trial-conversion-chart",
+          "name": "Trial Conversion Rate",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-93395"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "original-paywalls-41930-75866",
+      "slots": [
+        {
+          "id": "trial-conversion-chart",
+          "name": "Trial Conversion Rate",
+          "kind": "chart",
+          "sourceComponentId": "original-paywalls-41930-75866"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-93394",
+      "slots": [
+        {
+          "id": "trial-conversion-chart",
+          "name": "Trial Conversion Rate",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-93394"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-93832",
+      "slots": [
+        {
+          "id": "revenue-growth-chart",
+          "name": "Revenue Growth",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-93832"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "original-partner-page-new-41930-88614",
+      "slots": [
+        {
+          "id": "revenue-growth-chart",
+          "name": "Revenue Growth",
+          "kind": "chart",
+          "sourceComponentId": "original-partner-page-new-41930-88614"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-93808",
+      "slots": [
+        {
+          "id": "revenue-growth-chart",
+          "name": "Revenue Growth",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-93808"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-74935",
+      "slots": [
+        {
+          "id": "mrr-trend-chart",
+          "name": "MRR Movement",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-74935"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-74933",
+      "slots": [
+        {
+          "id": "mrr-trend-chart",
+          "name": "MRR Movement",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-74933"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-74467",
+      "slots": [
+        {
+          "id": "mrr-trend-chart",
+          "name": "MRR Movement",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-74467"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-23766",
+      "slots": [
+        {
+          "id": "trial-duration-donut",
+          "name": "Trial Duration",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-23766"
+        },
+        {
+          "id": "renewal-rates-chart",
+          "name": "First Three Weekly Renewal Rates",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-23766"
+        },
+        {
+          "id": "monetization-mix-chart",
+          "name": "Monetization Mix",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-23766"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-23889",
+      "slots": [
+        {
+          "id": "trial-duration-donut",
+          "name": "Trial Duration",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-23889"
+        },
+        {
+          "id": "renewal-rates-chart",
+          "name": "First Three Weekly Renewal Rates",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-23889"
+        },
+        {
+          "id": "monetization-mix-chart",
+          "name": "Monetization Mix",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-23889"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-24012",
+      "slots": [
+        {
+          "id": "trial-duration-donut",
+          "name": "Trial Duration",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-24012"
+        },
+        {
+          "id": "renewal-rates-chart",
+          "name": "First Three Weekly Renewal Rates",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-24012"
+        },
+        {
+          "id": "monetization-mix-chart",
+          "name": "Monetization Mix",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-24012"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-24135",
+      "slots": [
+        {
+          "id": "trial-duration-donut",
+          "name": "Trial Duration",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-24135"
+        },
+        {
+          "id": "renewal-rates-chart",
+          "name": "First Three Weekly Renewal Rates",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-24135"
+        },
+        {
+          "id": "monetization-mix-chart",
+          "name": "Monetization Mix",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-24135"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-26368",
+      "slots": [
+        {
+          "id": "paywall-experiment-chart",
+          "name": "Paywall Experiment",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-26368"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "selected-3252-72881",
+      "slots": [
+        {
+          "id": "art-paywall-growth-chart",
+          "name": "Subscription Growth",
+          "kind": "chart",
+          "sourceComponentId": "selected-3252-72881"
+        }
+      ],
+      "contractAvailable": true
+    },
+    {
+      "componentId": "cancellation-feedback-title",
+      "slots": [
+        {
+          "id": "feedback-table::table",
+          "name": "Customer cancellation feedback table",
+          "kind": "table",
+          "sourceComponentId": "feedback-table"
+        }
+      ],
+      "contractAvailable": true
+    }
+  ],
+  "limitations": [
+    "Declared adapter coverage is not visual verification. Default renders must be compared with before/renders and custom data/motion must be rendered separately.",
+    "Metric-only four inventory entries and decorative chart icons are excluded; see coverage-reconciliation.json."
+  ]
+}

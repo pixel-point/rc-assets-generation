@@ -1,0 +1,110 @@
+// Generated from Figma node 3252:91911; run scripts/import-designs.mjs to rebuild.
+/* Figma-authored data URI gradients; every image is awaited by FigmaPreload. */
+/* eslint-disable @remotion/no-background-image */
+import {staticFile} from "remotion";
+import {FigmaImage} from "../runtime";
+import {EditableArtwork} from "../EditableArtwork";
+
+
+const imgEllipse606 = staticFile("figma/library/39b63d98d22f-0f338.png");
+const imgVector1885 = staticFile("figma/library/c35b2388d671-1f1f4.svg");
+const imgVector1886 = staticFile("figma/library/e3e6c736b4b0-6c56e.svg");
+const imgVector1883 = staticFile("figma/library/273f23763e4a-fe91c.svg");
+const imgVector1884 = staticFile("figma/library/4b2800092385-bf018.svg");
+const imgGroup = staticFile("figma/library/9c6dd7cca4e4-0b7de.svg");
+const imgGroup1 = staticFile("figma/library/e9cc380edd74-d5944.svg");
+const imgGroup2 = staticFile("figma/library/02d7b93f875a-b26b8.svg");
+const imgEllipse473 = staticFile("figma/library/224c78fd8c2a-fec3c.svg");
+const imgEllipse474 = staticFile("figma/library/315de96ba60e-9d429.svg");
+const imgEllipse608 = staticFile("figma/library/fc336aa5d0aa-1246b.svg");
+export default function Figma_kAngSWapljVFOOUAen6APm_3252_91911() {
+    return <EditableArtwork componentId="selected-3252-91911">{(<div data-node-id="3252:91911" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "width": "380px", "height": "297.83782958984375px", "position": "absolute", "display": "block", "left": 0, "top": 0, "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "maskPosition": "0px 0px", "maskSize": "380px 297.83782958984375px" }, ...{ maskImage: `url("${imgVector1885}")` } }}>
+      <div data-node-id="3252:91913" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "left": 21.19, "top": 114.26, "width": 329.931915, "height": 155.979523 }}>
+        <div data-node-id="3252:91914" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "contents", "left": 0, "top": 0 }}>
+          <div data-node-id="3252:91915" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "height": 0, "left": "120.67px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "top": "80.88px", "width": "146.351px" }, ...{ maskImage: "none" } }}>
+            <div data-edit-key="auto:selected-3252-91911:5" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "inset": "-0.48px -0.33%" }}>
+              <FigmaImage alt="" src={imgVector1886} style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "display": "block", "maxWidth": "none", "width": "100%", "height": "100%" }}/>
+            </div>
+          </div>
+          <div data-node-id="3252:91916" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "flex", "height": "32.736px", "alignItems": "center", "justifyContent": "center", "left": "204.76px", "top": "20.54px", "width": "94.358px" }}>
+            <div data-edit-key="auto:selected-3252-91911:8" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "flex": "none", "transform": "rotate(180deg) scale(1, -1)" }}>
+              <div data-edit-key="auto:selected-3252-91911:9" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "height": "32.736px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "position": "relative", "width": "94.358px" }, ...{ maskImage: "none" } }}>
+                <div data-edit-key="auto:selected-3252-91911:10" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "inset": "-1.47% -0.51%" }}>
+                  <FigmaImage alt="" src={imgVector1883} style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "display": "block", "maxWidth": "none", "width": "100%", "height": "100%" }}/>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-node-id="3252:91917" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "flex", "height": "27.601px", "alignItems": "center", "justifyContent": "center", "left": "207.33px", "top": "111.05px", "width": "91.149px" }}>
+            <div data-edit-key="auto:selected-3252-91911:13" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "flex": "none", "transform": "rotate(180deg)" }}>
+              <div data-edit-key="auto:selected-3252-91911:14" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "height": "27.601px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "position": "relative", "width": "91.149px" }, ...{ maskImage: "none" } }}>
+                <div data-edit-key="auto:selected-3252-91911:15" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "inset": "-1.74% -0.53%" }}>
+                  <FigmaImage alt="" src={imgVector1884} style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "display": "block", "maxWidth": "none", "width": "100%", "height": "100%" }}/>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-node-id="3252:91918" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "left": 83.45, "top": 0, "width": 119.391891, "height": 41.081081 }}>
+            <div data-node-id="3252:91919" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": "0.529px", "borderStyle": "solid", "position": "absolute", "borderColor": "#fff", "height": "41.081px", "left": 0, "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "borderRadius": "8.986px", "boxShadow": "0px 12.838px 38.514px 0px rgba(144,138,208,0.12),3.209px 3.209px 12.838px 0px rgba(71,92,133,0.1)", "top": 0, "width": "119.392px" }, ...{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 119.39 41.081' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='0.11999999731779099'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(10.633 0.6098 -0.14467 3.6588 13.058 14.443)'><stop stop-color='rgba(193,201,246,1)' offset='0'/><stop stop-color='rgba(193,201,246,0)' offset='1'/></radialGradient></defs></svg>\"), linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)", maskImage: "none" } }}/>
+            <div data-node-id="3252:91920" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "backgroundColor": "rgba(255,255,255,0.8)", "left": "6.42px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "borderRadius": "38.514px", "boxShadow": "0px 1.284px 5.135px 0px rgba(92,112,214,0.2),0px 3.851px 12.838px 0px rgba(230,233,248,0.7)", "width": "28.243px", "height": "28.243px", "top": "6.42px" }, ...{ maskImage: "none" } }}/>
+            <p data-node-id="3252:91921" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "position": "absolute", "fontFamily": "\"Inter\", sans-serif", "fontWeight": 400, "lineHeight": 1, "left": "42.36px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "fontStyle": "normal", "color": "#1f1f47", "fontSize": "8.986px", "top": "16.05px", "whiteSpace": "nowrap" }, ...{ maskImage: "none" } }}>
+              your question 1
+            </p>
+            <div data-node-id="3252:91922" data-name="logout 3" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "left": "12.84px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "overflow": "clip", "width": "15.405px", "height": "15.405px", "top": "12.84px" }, ...{ maskImage: "none" } }}>
+              <div data-node-id="3252:91923" data-name="Group" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "inset": "3.21% 3.6% 3.42% 3.51%" }}>
+                <FigmaImage alt="" src={imgGroup} style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "inset": 0, "maxWidth": "none", "width": "100%", "height": "100%" }}/>
+              </div>
+            </div>
+          </div>
+          <div data-node-id="3252:91925" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "left": 0, "top": 60.34, "width": 120.033783, "height": 41.081081 }}>
+            <div data-node-id="3252:91926" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": "0.529px", "borderStyle": "solid", "position": "absolute", "borderColor": "#fff", "height": "41.081px", "left": 0, "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "borderRadius": "8.986px", "boxShadow": "0px 12.838px 38.514px 0px rgba(144,138,208,0.12),3.209px 3.209px 12.838px 0px rgba(71,92,133,0.1)", "top": 0, "width": "120.034px" }, ...{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 120.03 41.081' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='0.11999999731779099'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(11.586 2.5676 -0.80955 3.9766 -8.0236 0.0000018595)'><stop stop-color='rgba(243,195,195,1)' offset='0'/><stop stop-color='rgba(243,195,195,0)' offset='1'/></radialGradient></defs></svg>\"), linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)", maskImage: "none" } }}/>
+            <div data-node-id="3252:91927" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "backgroundColor": "rgba(255,255,255,0.8)", "left": "6.42px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "borderRadius": "6418.277px", "boxShadow": "0px 1.284px 5.135px 0px rgba(191,64,64,0.12),0px 3.851px 12.838px 0px rgba(248,230,230,0.6)", "width": "28.243px", "height": "28.243px", "top": "6.42px" }, ...{ maskImage: "none" } }}/>
+            <p data-node-id="3252:91928" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "position": "absolute", "fontFamily": "\"Inter\", sans-serif", "fontWeight": 400, "lineHeight": 1, "left": "42.36px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "fontStyle": "normal", "color": "#1f1f47", "fontSize": "8.986px", "top": "16.05px", "whiteSpace": "nowrap" }, ...{ maskImage: "none" } }}>
+              your question 2
+            </p>
+            <div data-node-id="3252:91929" data-name="logout 3" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "left": "12.84px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "overflow": "clip", "width": "15.405px", "height": "15.405px", "top": "12.84px" }, ...{ maskImage: "none" } }}>
+              <div data-node-id="3252:91930" data-name="Frame" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "inset": "0 0.02% 0 -0.02%", "overflow": "clip" }}>
+                <div data-node-id="3252:91931" data-name="Group" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "inset": "6.26% 21.99% 4.16% 31.22%" }}>
+                  <FigmaImage alt="" src={imgGroup1} style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "inset": 0, "maxWidth": "none", "width": "100%", "height": "100%" }}/>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-node-id="3252:91934" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "left": 83.45, "top": 114.9, "width": 121.959457, "height": 41.081081 }}>
+            <div data-node-id="3252:91935" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": "0.642px", "borderStyle": "solid", "position": "absolute", "borderColor": "#fff", "height": "41.081px", "left": 0, "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "borderRadius": "8.986px", "boxShadow": "0px 12.838px 38.514px 0px rgba(144,138,208,0.12),3.209px 3.209px 12.838px 0px rgba(71,92,133,0.1)", "top": 0, "width": "121.959px" }, ...{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 121.96 41.081' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='0.11999999731779099'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(9.3103 4.1723 -2.5556 7.9264 13.339 6.098)'><stop stop-color='rgba(193,246,224,1)' offset='0'/><stop stop-color='rgba(193,246,224,0)' offset='1'/></radialGradient></defs></svg>\"), linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)", maskImage: "none" } }}/>
+            <div data-node-id="3252:91936" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "backgroundColor": "rgba(255,255,255,0.8)", "left": "6.42px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "borderRadius": "38.514px", "boxShadow": "0px 1.284px 5.135px 0px rgba(76,178,136,0.16),0px 3.851px 12.838px 0px rgba(219,240,231,0.6)", "width": "28.243px", "height": "28.243px", "top": "6.42px" }, ...{ maskImage: "none" } }}/>
+            <div data-node-id="3252:91937" data-name="logout-1 1" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "left": "12.84px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "overflow": "clip", "width": "15.405px", "height": "15.405px", "top": "12.84px" }, ...{ maskImage: "none" } }}>
+              <div data-node-id="3252:91938" data-name="Group" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "inset": "14.45% 9.41% 14.45% 9.34%" }}>
+                <FigmaImage alt="" src={imgGroup2} style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "inset": 0, "maxWidth": "none", "width": "100%", "height": "100%" }}/>
+              </div>
+            </div>
+            <p data-node-id="3252:91941" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "position": "absolute", "fontFamily": "\"Inter\", sans-serif", "fontWeight": 400, "lineHeight": 1, "left": "42.36px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "fontStyle": "normal", "color": "#1f1f47", "fontSize": "8.986px", "top": "16.05px", "whiteSpace": "nowrap" }, ...{ maskImage: "none" } }}>
+              your question 3
+            </p>
+          </div>
+          <div data-node-id="3252:91942" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "left": "255.47px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "width": "4.493px", "height": "4.493px", "top": "18.61px" }, ...{ maskImage: "none" } }}>
+            <FigmaImage alt="" src={imgEllipse473} style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "inset": 0, "maxWidth": "none", "width": "100%", "height": "100%" }}/>
+          </div>
+          <div data-node-id="3252:91943" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "left": "202.19px", "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "width": "4.493px", "height": "4.493px", "top": "78.95px" }, ...{ maskImage: "none" } }}>
+            <FigmaImage alt="" src={imgEllipse474} style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "inset": 0, "maxWidth": "none", "width": "100%", "height": "100%" }}/>
+          </div>
+          <div data-node-id="3252:91944" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "left": 268.31, "top": 50.07, "width": 61.62162, "height": 61.62162 }}>
+            <div data-node-id="3252:91945" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "left": 0, "top": 0, "width": 61.62162, "height": 61.62162 }}>
+              <div data-node-id="3252:91946" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "left": 0, "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "width": "61.622px", "height": "61.622px", "top": 0 }, ...{ maskImage: "none" } }}>
+                <div data-edit-key="auto:selected-3252-91911:46" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "inset": "-41.67% -62.5% -83.33% -62.5%" }}>
+                  <FigmaImage alt="" src={imgEllipse608} style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "display": "block", "maxWidth": "none", "width": "100%", "height": "100%" }}/>
+                </div>
+              </div>
+              <div data-node-id="3252:91947" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "left": 5.14, "top": 5.14, "width": 51.351353, "height": 51.351353 }}>
+                <div data-node-id="3252:91948" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "left": 0, "top": 0, "width": 51.351353, "height": 51.351353 }}>
+                  <div data-node-id="3252:91949" style={{ ...{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "left": 0, "maskMode": "alpha", "maskComposite": "intersect", "maskClip": "no-clip", "maskRepeat": "no-repeat", "width": "51.351px", "height": "51.351px", "top": 0 }, ...{ maskImage: "none" } }}>
+                    <FigmaImage alt="" src={imgEllipse606} style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "display": "block", "inset": 0, "maxWidth": "none", "width": "100%", "height": "100%" }}/>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>)}</EditableArtwork>;
+}

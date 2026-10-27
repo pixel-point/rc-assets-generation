@@ -1,0 +1,16 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="10.2703" height="10.2703" viewBox="0 0 10.2703 10.2703" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Group 33998">
+<g id="Subtract">
+<use xlink:href="#stroke0_0_38" fill="#F2545B"/>
+<mask id="stroke1_0_38" maskUnits="userSpaceOnUse" x="-0.0371622" y="-0.0371622" width="11" height="11" fill="black">
+<rect fill="white" x="-0.0371622" y="-0.0371622" width="11" height="11"/>
+<use xlink:href="#stroke0_0_38"/>
+</mask>
+<path d="M9.30743 5.13514C9.30743 7.43943 7.43943 9.30743 5.13514 9.30743C2.83084 9.30743 0.962838 7.43943 0.962838 5.13514C0.962838 2.83084 2.83084 0.962838 5.13514 0.962838C7.43943 0.962838 9.30743 2.83084 9.30743 5.13514Z" stroke-width="1.92568" stroke="#F5F7F8" mask="url(#stroke1_0_38)"/>
+</g>
+<path id="Vector 567" d="M3.53167 3.52988L5.1364 5.13461M5.1364 5.13461L6.74113 6.73934M5.1364 5.13461L6.74113 3.52988M5.1364 5.13461L3.53167 6.73934" stroke-width="0.834459" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
+</g>
+<defs>
+<path id="stroke0_0_38" d="M9.30743 5.13514C9.30743 7.43943 7.43943 9.30743 5.13514 9.30743C2.83084 9.30743 0.962838 7.43943 0.962838 5.13514C0.962838 2.83084 2.83084 0.962838 5.13514 0.962838C7.43943 0.962838 9.30743 2.83084 9.30743 5.13514Z"/>
+</defs>
+</svg>

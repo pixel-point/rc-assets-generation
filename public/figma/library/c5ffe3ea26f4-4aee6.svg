@@ -1,0 +1,23 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="6.19145" height="391.609" viewBox="0 0 6.19145 391.609" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="timeline-v">
+<path id="line" opacity="0.12" d="M3.09572 2.62764e-08L3.09572 38.6965" stroke-width="1.20227" stroke="url(#paint0_linear_0_4)"/>
+<circle id="pin" opacity="0.3" cx="3.09572" cy="43.3401" r="3.09572" fill="#8F99A3"/>
+<path id="line_2" opacity="0.12" d="M3.09572 47.9837L3.09572 97.5153" stroke-width="1.20227" stroke="#8F99A3"/>
+<circle id="pin_2" opacity="0.3" cx="3.09572" cy="102.159" r="3.09572" fill="#8F99A3"/>
+<path id="line_3" opacity="0.12" d="M3.09572 106.802L3.09572 156.334" stroke-width="1.20227" stroke="#8F99A3"/>
+<circle id="pin_3" cx="3.09572" cy="160.978" r="3.09572" fill="#212148"/>
+<path id="line_4" opacity="0.12" d="M3.09572 165.621L3.09572 215.153" stroke-width="1.20227" stroke="#8F99A3"/>
+<circle id="pin_4" opacity="0.3" cx="3.09572" cy="219.796" r="3.09572" fill="#8F99A3"/>
+<path id="line_5" opacity="0.12" d="M3.09572 224.44L3.09572 273.971" stroke-width="1.20227" stroke="#8F99A3"/>
+<circle id="pin_5" opacity="0.3" cx="3.09572" cy="278.615" r="3.09572" fill="#8F99A3"/>
+<path id="line_6" opacity="0.12" d="M3.09572 283.259L3.09572 332.79" stroke-width="1.20227" stroke="#8F99A3"/>
+<circle id="pin_6" opacity="0.3" cx="3.09572" cy="337.434" r="3.09572" fill="#8F99A3"/>
+<path id="line_7" opacity="0.12" d="M3.09572 342.077L3.09572 391.609" stroke-width="1.20227" stroke="#8F99A3"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_4" x1="3.59572" y1="4.42071e-09" x2="3.59572" y2="38.6965" gradientUnits="userSpaceOnUse">
+<stop offset="0.256484" stop-color="#8F99A3" stop-opacity="0"/>
+<stop offset="1" stop-color="#8F99A3"/>
+</linearGradient>
+</defs>
+</svg>

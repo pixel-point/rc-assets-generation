@@ -1,0 +1,149 @@
+{
+  "title": "From idea to loyal subscribers",
+  "width": 1600,
+  "height": 900,
+  "fps": 30,
+  "durationFrames": 240,
+  "posterFrame": 180,
+  "background": "#FFFFFF",
+  "layers": [
+    {
+      "id": "heading",
+      "type": "text",
+      "text": "From idea to loyal subscribers",
+      "x": 80,
+      "y": 62,
+      "width": 1440,
+      "font": "heading",
+      "fontSize": 64,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 20
+      }
+    },
+    {
+      "id": "subtitle",
+      "type": "text",
+      "text": "Build a paywall. Make it yours. Keep customers coming back.",
+      "x": 82,
+      "y": 156,
+      "width": 1400,
+      "fontSize": 30,
+      "color": "#3D3D5C",
+      "startFrame": 10,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 22
+      }
+    },
+    {
+      "id": "prompt",
+      "type": "illustration",
+      "illustrationId": "ai-prompt-card",
+      "x": 80,
+      "y": 340,
+      "scale": 0.85,
+      "startFrame": 20,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 30,
+        "x": 0,
+        "y": 30
+      },
+      "float": {
+        "amplitudeY": 4,
+        "periodFrames": 120
+      }
+    },
+    {
+      "id": "phone",
+      "type": "illustration",
+      "illustrationId": "appearance-subscription-phone",
+      "x": 650,
+      "y": 280,
+      "scale": 1,
+      "startFrame": 38,
+      "enter": {
+        "type": "scale",
+        "durationFrames": 28,
+        "from": 0.9
+      }
+    },
+    {
+      "id": "settings",
+      "type": "illustration",
+      "illustrationId": "appearance-settings-panel",
+      "x": 510,
+      "y": 485,
+      "scale": 0.8,
+      "startFrame": 58,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 25,
+        "x": -20,
+        "y": 0
+      }
+    },
+    {
+      "id": "retention",
+      "type": "illustration",
+      "illustrationId": "customer-center-retention-offer",
+      "x": 995,
+      "y": 265,
+      "scale": 0.95,
+      "startFrame": 75,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 30,
+        "x": 0,
+        "y": 28
+      }
+    },
+    {
+      "id": "build",
+      "type": "text",
+      "text": "01  Create",
+      "x": 80,
+      "y": 770,
+      "width": 420,
+      "font": "heading",
+      "fontSize": 28,
+      "startFrame": 25,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 20
+      }
+    },
+    {
+      "id": "customize",
+      "type": "text",
+      "text": "02  Customize",
+      "x": 570,
+      "y": 770,
+      "width": 420,
+      "font": "heading",
+      "fontSize": 28,
+      "startFrame": 50,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 20
+      }
+    },
+    {
+      "id": "retain",
+      "type": "text",
+      "text": "03  Retain",
+      "x": 1050,
+      "y": 770,
+      "width": 420,
+      "font": "heading",
+      "fontSize": 28,
+      "startFrame": 80,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="51.4529" height="51.4529" viewBox="0 0 51.4529 51.4529" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon">
+<g id="Ellipse 42064" opacity="0.2" filter="url(#filter0_f_0_4)">
+<circle cx="31.2741" cy="32.6006" r="11.5977" fill="#576CDB"/>
+</g>
+<circle id="Ellipse 42075" cx="25.7022" cy="25.7196" r="17.5761" fill="#576CDB"/>
+<circle id="Ellipse 42064_2" cx="25.7264" cy="25.7265" r="20.8341" transform="rotate(15 25.7264 25.7265)" stroke="url(#paint0_linear_0_4)" stroke-opacity="0.7" stroke-width="0.342948"/>
+<circle id="Ellipse 42071" cx="31.3913" cy="5.82554" r="0.750198" transform="rotate(15 31.3913 5.82554)" fill="#576CDB"/>
+<circle id="Ellipse 42076" cx="20.2172" cy="45.8779" r="0.750198" transform="rotate(15 20.2172 45.8779)" fill="#576CDB"/>
+<g id="Frame" clip-path="url(#clip0_0_4)">
+<path id="Subtract" d="M29.7533 17.534C30.5715 17.5342 31.2376 18.2001 31.2376 19.0184V31.8826C31.2376 32.7009 30.5715 33.3669 29.7533 33.367H21.8363C21.0179 33.367 20.3519 32.701 20.3519 31.8826V19.0184C20.3519 18.2001 21.018 17.5341 21.8363 17.534H29.7533ZM22.9827 29.1463C22.6189 29.1466 22.3231 29.4417 22.3226 29.8055V30.4657C22.3226 30.8299 22.6186 31.1256 22.9827 31.1258H28.5902C28.9545 31.1258 29.2503 30.83 29.2503 30.4657V29.8055C29.2499 29.4415 28.9542 29.1463 28.5902 29.1463H22.9827ZM25.805 19.6932C25.4081 19.6936 25.0857 20.0161 25.0853 20.4129C25.0853 20.8102 25.4079 21.1323 25.805 21.1326C26.2025 21.1326 26.5247 20.8104 26.5247 20.4129C26.5243 20.0158 26.2022 19.6932 25.805 19.6932Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_4" x="14.7211" y="16.0476" width="33.106" height="33.106" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.47768" result="effect1_foregroundBlur_0_4"/>
+</filter>
+<linearGradient id="paint0_linear_0_4" x1="1.85648" y1="10.768" x2="48.0051" y2="53.0974" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2F2F8"/>
+<stop offset="0.482562" stop-color="#C1C9F6"/>
+<stop offset="1" stop-color="#576CDB"/>
+</linearGradient>
+<clipPath id="clip0_0_4">
+<rect width="15.8333" height="15.8333" fill="white" transform="translate(17.888 17.5291)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,389 @@
+{
+  "title": "Adaptive data inside original illustrations",
+  "width": 1600,
+  "height": 900,
+  "fps": 30,
+  "durationFrames": 180,
+  "posterFrame": 150,
+  "background": "#F9F9FB",
+  "layers": [
+    {
+      "id": "heading",
+      "type": "text",
+      "text": "Flexible data. Original style.",
+      "x": 84,
+      "y": 56,
+      "width": 1400,
+      "font": "heading",
+      "fontSize": 56,
+      "color": "#1F1F47"
+    },
+    {
+      "id": "subtitle",
+      "type": "text",
+      "text": "The same illustrations, with layouts that adapt to your data.",
+      "x": 88,
+      "y": 136,
+      "width": 1400,
+      "font": "body",
+      "fontSize": 24,
+      "color": "#3D3D5C"
+    },
+    {
+      "id": "table-label",
+      "type": "text",
+      "text": "COHORT FORECAST",
+      "x": 120,
+      "y": 238,
+      "width": 650,
+      "font": "body",
+      "fontSize": 17,
+      "color": "#576CDB"
+    },
+    {
+      "id": "chart-label",
+      "type": "text",
+      "text": "MRR MOVEMENT",
+      "x": 900,
+      "y": 238,
+      "width": 600,
+      "font": "body",
+      "fontSize": 17,
+      "color": "#576CDB"
+    },
+    {
+      "id": "original-prediction",
+      "type": "illustration",
+      "illustrationId": "selected-3252-80334",
+      "x": 120,
+      "y": 310,
+      "scale": 1.15,
+      "data": {
+        "table": {
+          "props": {
+            "dataset": {
+              "columns": [
+                {
+                  "id": "cohort",
+                  "label": "Cohort",
+                  "weight": 0.9,
+                  "align": "left"
+                },
+                {
+                  "id": "customers",
+                  "label": "New\ncustomers",
+                  "weight": 1.1,
+                  "align": "center",
+                  "format": {
+                    "grouping": true
+                  }
+                },
+                {
+                  "id": "month-0",
+                  "label": "Month 0",
+                  "align": "center",
+                  "format": {
+                    "prefix": "$",
+                    "grouping": true
+                  }
+                },
+                {
+                  "id": "month-1",
+                  "label": "Month 1",
+                  "align": "center",
+                  "format": {
+                    "prefix": "$",
+                    "grouping": true
+                  }
+                },
+                {
+                  "id": "month-2",
+                  "label": "Month 2",
+                  "align": "center",
+                  "format": {
+                    "prefix": "$",
+                    "grouping": true
+                  }
+                },
+                {
+                  "id": "month-3",
+                  "label": "Month 3",
+                  "align": "center",
+                  "format": {
+                    "prefix": "$",
+                    "grouping": true
+                  }
+                }
+              ],
+              "rows": [
+                {
+                  "id": "jan",
+                  "cells": {
+                    "cohort": "Jan’26",
+                    "customers": 9133,
+                    "month-0": 10636,
+                    "month-1": 12220,
+                    "month-2": 13313,
+                    "month-3": 15400
+                  }
+                },
+                {
+                  "id": "feb",
+                  "cells": {
+                    "cohort": "Feb’26",
+                    "customers": 1332,
+                    "month-0": 758,
+                    "month-1": 915,
+                    "month-2": 1800,
+                    "month-3": 2100
+                  }
+                },
+                {
+                  "id": "mar",
+                  "cells": {
+                    "cohort": "Mar’26",
+                    "customers": 5854,
+                    "month-0": 25662,
+                    "month-1": 27134,
+                    "month-2": 28383,
+                    "month-3": 31200
+                  }
+                },
+                {
+                  "id": "apr",
+                  "cells": {
+                    "cohort": "Apr’26",
+                    "customers": 916,
+                    "month-0": 1512,
+                    "month-1": 1667,
+                    "month-2": 2400,
+                    "month-3": 2850
+                  }
+                },
+                {
+                  "id": "may",
+                  "cells": {
+                    "cohort": "May’26",
+                    "customers": 1240,
+                    "month-0": 1800,
+                    "month-1": 2050,
+                    "month-2": 2600,
+                    "month-3": 3100
+                  }
+                },
+                {
+                  "id": "jun",
+                  "cells": {
+                    "cohort": "Jun’26",
+                    "customers": 1690,
+                    "month-0": 2400,
+                    "month-1": 3000,
+                    "month-2": 3650,
+                    "month-3": 4200
+                  }
+                }
+              ]
+            }
+          },
+          "internalMotion": [
+            {
+              "target": "row:jun",
+              "property": "opacity",
+              "easing": "ease-in-out",
+              "keyframes": [
+                {
+                  "frame": 6,
+                  "value": 0.15
+                },
+                {
+                  "frame": 24,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "target": "column:month-3",
+              "property": "opacity",
+              "easing": "ease-in-out",
+              "keyframes": [
+                {
+                  "frame": 27,
+                  "value": 0.35
+                },
+                {
+                  "frame": 45,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "target": "cell:jun:month-3",
+              "property": "value",
+              "easing": "ease-in-out",
+              "keyframes": [
+                {
+                  "frame": 55,
+                  "value": 2800
+                },
+                {
+                  "frame": 115,
+                  "value": 4200
+                }
+              ]
+            },
+            {
+              "target": "cell:may:month-3",
+              "property": "value",
+              "easing": "ease-in-out",
+              "keyframes": [
+                {
+                  "frame": 65,
+                  "value": 2100
+                },
+                {
+                  "frame": 125,
+                  "value": 3100
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "original-mrr",
+      "type": "illustration",
+      "illustrationId": "selected-3252-74933",
+      "x": 900,
+      "y": 280,
+      "scale": 1.4,
+      "data": {
+        "mrr-trend-chart": {
+          "props": {
+            "values": {
+              "revenue": [
+                1200000,
+                1450000,
+                1750000,
+                2050000,
+                2200000,
+                2500000,
+                2800000,
+                3100000,
+                3450000,
+                3850000
+              ],
+              "comparison": [
+                300000,
+                700000,
+                600000,
+                1100000,
+                950000,
+                1500000,
+                1800000,
+                2000000,
+                2200000,
+                2600000
+              ]
+            },
+            "pointIds": {
+              "revenue": [
+                "jan",
+                "feb",
+                "mar",
+                "apr",
+                "may",
+                "jun",
+                "jul",
+                "aug",
+                "sep",
+                "oct"
+              ],
+              "comparison": [
+                "jan",
+                "feb",
+                "mar",
+                "apr",
+                "may",
+                "jun",
+                "jul",
+                "aug",
+                "sep",
+                "oct"
+              ]
+            }
+          },
+          "internalMotion": [
+            {
+              "target": "series:revenue",
+              "property": "draw",
+              "easing": "ease-in-out",
+              "keyframes": [
+                {
+                  "frame": 6,
+                  "value": 0.2
+                },
+                {
+                  "frame": 36,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "target": "point:revenue:oct",
+              "property": "value",
+              "easing": "ease-in-out",
+              "keyframes": [
+                {
+                  "frame": 55,
+                  "value": 3000000
+                },
+                {
+                  "frame": 115,
+                  "value": 3850000
+                }
+              ]
+            },
+            {
+              "target": "point:revenue:jun",
+              "property": "value",
+              "easing": "ease-in-out",
+              "keyframes": [
+                {
+                  "frame": 65,
+                  "value": 1900000
+                },
+                {
+                  "frame": 125,
+                  "value": 2500000
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "table-caption",
+      "type": "text",
+      "text": "6 rows · 6 columns · independent cell animation",
+      "x": 120,
+      "y": 772,
+      "width": 680,
+      "font": "body",
+      "fontSize": 21,
+      "color": "#3D3D5C"
+    },
+    {
+      "id": "chart-caption",
+      "type": "text",
+      "text": "10 points per series · automatic spacing",
+      "x": 900,
+      "y": 772,
+      "width": 620,
+      "font": "body",
+      "fontSize": 21,
+      "color": "#3D3D5C"
+    }
+  ]
+}

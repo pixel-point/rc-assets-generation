@@ -1,0 +1,231 @@
+{
+  "title": "SDK integration variants",
+  "width": 1280,
+  "height": 900,
+  "fps": 30,
+  "durationFrames": 120,
+  "posterFrame": 96,
+  "background": "#FFFFFF",
+  "layers": [
+    {
+      "id": "title",
+      "type": "text",
+      "text": "Build with your stack",
+      "x": 72,
+      "y": 50,
+      "width": 1120,
+      "font": "heading",
+      "fontSize": 50,
+      "color": "#1F1F47"
+    },
+    {
+      "id": "intro",
+      "type": "text",
+      "text": "Six platforms. One RevenueCat toolkit.",
+      "x": 72,
+      "y": 120,
+      "width": 1120,
+      "font": "body",
+      "fontSize": 22,
+      "color": "#1F1F47"
+    },
+    {
+      "id": "platform-75052",
+      "type": "group",
+      "x": 72,
+      "y": 190,
+      "startFrame": 0,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 20
+      },
+      "layers": [
+        {
+          "id": "name-75052",
+          "type": "text",
+          "text": "Unity",
+          "x": 0,
+          "y": 0,
+          "width": 300,
+          "font": "body",
+          "fontSize": 20,
+          "color": "#1F1F47"
+        },
+        {
+          "id": "art-75052",
+          "type": "illustration",
+          "illustrationId": "selected-3252-75052",
+          "x": 0,
+          "y": 34,
+          "scale": 0.78
+        }
+      ]
+    },
+    {
+      "id": "platform-75383",
+      "type": "group",
+      "x": 475,
+      "y": 190,
+      "startFrame": 6,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 20
+      },
+      "layers": [
+        {
+          "id": "name-75383",
+          "type": "text",
+          "text": "Cordova",
+          "x": 0,
+          "y": 0,
+          "width": 300,
+          "font": "body",
+          "fontSize": 20,
+          "color": "#1F1F47"
+        },
+        {
+          "id": "art-75383",
+          "type": "illustration",
+          "illustrationId": "selected-3252-75383",
+          "x": 0,
+          "y": 34,
+          "scale": 0.78
+        }
+      ]
+    },
+    {
+      "id": "platform-75522",
+      "type": "group",
+      "x": 878,
+      "y": 190,
+      "startFrame": 12,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 20
+      },
+      "layers": [
+        {
+          "id": "name-75522",
+          "type": "text",
+          "text": "React Native",
+          "x": 0,
+          "y": 0,
+          "width": 300,
+          "font": "body",
+          "fontSize": 20,
+          "color": "#1F1F47"
+        },
+        {
+          "id": "art-75522",
+          "type": "illustration",
+          "illustrationId": "selected-3252-75522",
+          "x": 0,
+          "y": 34,
+          "scale": 0.78
+        }
+      ]
+    },
+    {
+      "id": "platform-75665",
+      "type": "group",
+      "x": 72,
+      "y": 520,
+      "startFrame": 18,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 20
+      },
+      "layers": [
+        {
+          "id": "name-75665",
+          "type": "text",
+          "text": "Android",
+          "x": 0,
+          "y": 0,
+          "width": 300,
+          "font": "body",
+          "fontSize": 20,
+          "color": "#1F1F47"
+        },
+        {
+          "id": "art-75665",
+          "type": "illustration",
+          "illustrationId": "selected-3252-75665",
+          "x": 0,
+          "y": 34,
+          "scale": 0.78
+        }
+      ]
+    },
+    {
+      "id": "platform-75808",
+      "type": "group",
+      "x": 475,
+      "y": 520,
+      "startFrame": 24,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 20
+      },
+      "layers": [
+        {
+          "id": "name-75808",
+          "type": "text",
+          "text": "Apple",
+          "x": 0,
+          "y": 0,
+          "width": 300,
+          "font": "body",
+          "fontSize": 20,
+          "color": "#1F1F47"
+        },
+        {
+          "id": "art-75808",
+          "type": "illustration",
+          "illustrationId": "selected-3252-75808",
+          "x": 0,
+          "y": 34,
+          "scale": 0.78
+        }
+      ]
+    },
+    {
+      "id": "platform-75945",
+      "type": "group",
+      "x": 878,
+      "y": 520,
+      "startFrame": 30,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 20
+      },
+      "layers": [
+        {
+          "id": "name-75945",
+          "type": "text",
+          "text": "Flutter",
+          "x": 0,
+          "y": 0,
+          "width": 300,
+          "font": "body",
+          "fontSize": 20,
+          "color": "#1F1F47"
+        },
+        {
+          "id": "art-75945",
+          "type": "illustration",
+          "illustrationId": "selected-3252-75945",
+          "x": 0,
+          "y": 34,
+          "scale": 0.78
+        }
+      ]
+    }
+  ]
+}

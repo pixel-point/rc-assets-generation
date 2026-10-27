@@ -1,0 +1,3689 @@
+[
+  {
+    "id": "selected-3252-10691",
+    "name": "Boost retention with offers title card (3252:10691)",
+    "nodeId": "3252:10691",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 370.8800048828125,
+    "height": 380,
+    "role": "illustration",
+    "group": "retention",
+    "tags": [
+      "retention",
+      "offers",
+      "discount",
+      "phone",
+      "title card"
+    ],
+    "opacity": 1,
+    "children": [
+      {
+        "nodeId": "3252:10692",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": -63.834716796875,
+        "y": -53.201171875,
+        "width": 497.894775390625,
+        "height": 486.3463134765625,
+        "componentId": "selected-3252-10692"
+      },
+      {
+        "nodeId": "3252:10695",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 69.1636962890625,
+        "y": 39.5205078125,
+        "width": 301.7200012207031,
+        "height": 301.7200012207031,
+        "componentId": "selected-3252-10695"
+      },
+      {
+        "nodeId": "3252:10698",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 132.23779296875,
+        "y": 262.201171875,
+        "width": 36.47999954223633,
+        "height": 36.47999954223633,
+        "componentId": "selected-3252-10698"
+      },
+      {
+        "nodeId": "3252:10705",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 34.19677734375,
+        "y": 168.7197265625,
+        "width": 147.44000244140625,
+        "height": 42.560001373291016,
+        "componentId": "selected-3252-10705"
+      },
+      {
+        "nodeId": "3252:10716",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 110.1968994140625,
+        "y": 54.7197265625,
+        "width": 36.47999954223633,
+        "height": 36.47999954223633,
+        "componentId": "selected-3252-10716"
+      },
+      {
+        "nodeId": "3252:10724",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 202.1600341796875,
+        "y": 22.7998046875,
+        "width": 168.72000122070312,
+        "height": 334.3999938964844,
+        "componentId": "selected-3252-10724"
+      },
+      {
+        "nodeId": "3252:10762",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": -15.958984375,
+        "y": -11.3994140625,
+        "width": 403.55999755859375,
+        "height": 403.55999755859375,
+        "componentId": "selected-3252-10762"
+      },
+      {
+        "x": 98.80718994140625,
+        "y": 95.76025390625,
+        "width": 174.8000030517578,
+        "height": 190,
+        "clip": true,
+        "borderRadius": 15.199999809265137,
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 26.600000381469727,
+            "boundVariables": {},
+            "color": {
+              "r": 0.3999999761581421,
+              "g": 0.4666666090488434,
+              "b": 0.800000011920929,
+              "a": 0.20000000298023224
+            },
+            "offset": {
+              "x": 0,
+              "y": 3.0399999618530273
+            },
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": false
+          }
+        ],
+        "children": [
+          {
+            "nodeId": "3252:10766",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 0,
+            "y": 0,
+            "width": 174.8000030517578,
+            "height": 190,
+            "componentId": "selected-3252-10766"
+          },
+          {
+            "src": "figma/selected/3252-10767/dots.svg",
+            "x": -11.39837646484375,
+            "y": 44.08063424306147,
+            "width": 275,
+            "height": 208
+          },
+          {
+            "nodeId": "3252:13929",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": -72.20000095386058,
+            "y": 11.804358253473765,
+            "width": 207.04690551757812,
+            "height": 213.90548706054688,
+            "rotation": -24.16719883440608,
+            "componentId": "selected-3252-13929"
+          },
+          {
+            "nodeId": "3252:13930",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 0,
+            "y": 0,
+            "width": 174.8000030517578,
+            "height": 190,
+            "componentId": "selected-3252-13930"
+          }
+        ]
+      },
+      {
+        "nodeId": "3252:13931",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 121.60406494140625,
+        "y": 209.00048828125,
+        "width": 129.1999969482422,
+        "height": 36,
+        "componentId": "selected-3252-13931"
+      },
+      {
+        "nodeId": "3252:13932",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 148.20098876953125,
+        "y": 125.39990234375,
+        "width": 75.9986343383789,
+        "height": 79.03988647460938,
+        "componentId": "selected-3252-13932"
+      }
+    ],
+    "selectionOrder": 84,
+    "visualBounds": {
+      "x": -40.56005859375,
+      "y": -36,
+      "width": 452,
+      "height": 504
+    }
+  },
+  {
+    "id": "selected-3252-13946",
+    "name": "Collect exit feedback title card (3252:13946)",
+    "nodeId": "3252:13946",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 370.8800048828125,
+    "height": 380,
+    "role": "illustration",
+    "group": "cancellation",
+    "tags": [
+      "cancellation",
+      "feedback",
+      "survey",
+      "phone",
+      "title card"
+    ],
+    "opacity": 1,
+    "children": [
+      {
+        "nodeId": "3252:13947",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": -128.58941650390625,
+        "y": -47.12109375,
+        "width": 497.8948059082031,
+        "height": 486.3463134765625,
+        "componentId": "selected-3252-13947"
+      },
+      {
+        "nodeId": "3252:13950",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 0,
+        "y": 39.5205078125,
+        "width": 301.7200012207031,
+        "height": 301.7200012207031,
+        "componentId": "selected-3252-13950"
+      },
+      {
+        "nodeId": "3252:13953",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 208.24000549316406,
+        "y": 242.44000244140625,
+        "width": 39.52000045776367,
+        "height": 39.52000045776367,
+        "rotation": -1.5902773407317584e-15,
+        "componentId": "selected-3252-13953"
+      },
+      {
+        "nodeId": "3252:13954",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 208.239990234375,
+        "y": 95,
+        "width": 39.52000045776367,
+        "height": 39.52000045776367,
+        "componentId": "selected-3252-13954"
+      },
+      {
+        "nodeId": "3252:13955",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 274.360595703125,
+        "y": 161.12109375,
+        "width": 54.720001220703125,
+        "height": 54.720001220703125,
+        "componentId": "selected-3252-13955"
+      },
+      {
+        "nodeId": "3252:13961",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 0,
+        "y": 22.7998046875,
+        "width": 168.72000122070312,
+        "height": 334.3999938964844,
+        "componentId": "selected-3252-13961"
+      },
+      {
+        "nodeId": "3252:13999",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": -15.9591064453125,
+        "y": -11.3994140625,
+        "width": 403.55999755859375,
+        "height": 403.55999755859375,
+        "componentId": "selected-3252-13999"
+      },
+      {
+        "x": 98.80712890625,
+        "y": 95.76025390625,
+        "width": 174.8000030517578,
+        "height": 190,
+        "clip": true,
+        "borderRadius": 15.199999809265137,
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 30.399999618530273,
+            "boundVariables": {},
+            "color": {
+              "r": 0.6521739363670349,
+              "g": 0.8478260636329651,
+              "b": 0.8478260636329651,
+              "a": 0.3499999940395355
+            },
+            "offset": {
+              "x": 0,
+              "y": 3.0399999618530273
+            },
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": false
+          }
+        ],
+        "children": [
+          {
+            "nodeId": "3252:14003",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 0,
+            "y": 0,
+            "width": 174.8000030517578,
+            "height": 190,
+            "componentId": "selected-3252-14003"
+          },
+          {
+            "src": "figma/selected/3252-14004/dots.svg",
+            "x": -11.3984375,
+            "y": 44.08063424306147,
+            "width": 275,
+            "height": 208
+          },
+          {
+            "nodeId": "3252:17166",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": -72.19993991870433,
+            "y": 11.804358253473765,
+            "width": 207.04690551757812,
+            "height": 213.90548706054688,
+            "rotation": -24.16719883440608,
+            "componentId": "selected-3252-17166"
+          },
+          {
+            "nodeId": "3252:17167",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 0,
+            "y": 0,
+            "width": 174.8000030517578,
+            "height": 190,
+            "componentId": "selected-3252-17167"
+          }
+        ]
+      },
+      {
+        "nodeId": "3252:17168",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 114.0040283203125,
+        "y": 125.3994140625,
+        "width": 144.39999389648438,
+        "height": 119.6005859375,
+        "componentId": "selected-3252-17168"
+      }
+    ],
+    "selectionOrder": 85,
+    "visualBounds": {
+      "x": -40.55999755859375,
+      "y": -36,
+      "width": 452,
+      "height": 504
+    }
+  },
+  {
+    "id": "selected-3252-17182",
+    "name": "Automate subscription support title card (3252:17182)",
+    "nodeId": "3252:17182",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 370.8800048828125,
+    "height": 380,
+    "role": "illustration",
+    "group": "support",
+    "tags": [
+      "support",
+      "refund",
+      "purchases",
+      "phone",
+      "title card"
+    ],
+    "opacity": 0.8999999761581421,
+    "children": [
+      {
+        "nodeId": "3252:17183",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": -128.58941650390625,
+        "y": -62.3193359375,
+        "width": 497.89483642578125,
+        "height": 486.3458251953125,
+        "componentId": "selected-3252-17183"
+      },
+      {
+        "nodeId": "3252:17186",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 68.40156555175781,
+        "y": 39.5205078125,
+        "width": 301.7200012207031,
+        "height": 301.7200012207031,
+        "componentId": "selected-3252-17186"
+      },
+      {
+        "nodeId": "3252:17189",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 36.48344421386719,
+        "y": 162.6396484375,
+        "width": 54.720001220703125,
+        "height": 54.720001220703125,
+        "componentId": "selected-3252-17189"
+      },
+      {
+        "nodeId": "3252:17197",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 106.40156555175781,
+        "y": 243.958984375,
+        "width": 44.08000183105469,
+        "height": 44.08000183105469,
+        "componentId": "selected-3252-17197"
+      },
+      {
+        "nodeId": "3252:17202",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 106.40156555175781,
+        "y": 91.958984375,
+        "width": 44.08000183105469,
+        "height": 44.08000183105469,
+        "componentId": "selected-3252-17202"
+      },
+      {
+        "nodeId": "3252:17210",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 202.16000366210938,
+        "y": 22.7998046875,
+        "width": 168.72000122070312,
+        "height": 334.3999938964844,
+        "componentId": "selected-3252-17210"
+      },
+      {
+        "nodeId": "3252:17248",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": -15.959075927734375,
+        "y": -11.3994140625,
+        "width": 403.55999755859375,
+        "height": 403.55999755859375,
+        "componentId": "selected-3252-17248"
+      },
+      {
+        "x": 98.80718231201172,
+        "y": 95.76025390625,
+        "width": 174.8000030517578,
+        "height": 190,
+        "clip": true,
+        "borderRadius": 15.199999809265137,
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 26.600000381469727,
+            "boundVariables": {},
+            "color": {
+              "r": 0.9686274528503418,
+              "g": 0.8313725590705872,
+              "b": 0.8313725590705872,
+              "a": 0.20000000298023224
+            },
+            "offset": {
+              "x": 0,
+              "y": 3.0399999618530273
+            },
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": false
+          }
+        ],
+        "children": [
+          {
+            "nodeId": "3252:17252",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 0,
+            "y": 0,
+            "width": 174.8000030517578,
+            "height": 190,
+            "componentId": "selected-3252-17252"
+          },
+          {
+            "src": "figma/selected/3252-17253/dots.svg",
+            "x": -11.3984375,
+            "y": 44.08063424306147,
+            "width": 275,
+            "height": 208
+          },
+          {
+            "nodeId": "3252:20415",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": -72.19999809283763,
+            "y": 11.804358253473765,
+            "width": 207.04690551757812,
+            "height": 213.90548706054688,
+            "rotation": -24.16719883440608,
+            "componentId": "selected-3252-20415"
+          },
+          {
+            "nodeId": "3252:20416",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 0,
+            "y": 0,
+            "width": 174.8000030517578,
+            "height": 190,
+            "componentId": "selected-3252-20416"
+          }
+        ]
+      },
+      {
+        "nodeId": "3252:20417",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 114.76405715942383,
+        "y": 209.00048828125,
+        "width": 142.8800048828125,
+        "height": 36,
+        "componentId": "selected-3252-20417"
+      },
+      {
+        "nodeId": "3252:20418",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 148.96311950683594,
+        "y": 125.39990234375,
+        "width": 74.4800033569336,
+        "height": 79.03988647460938,
+        "componentId": "selected-3252-20418"
+      }
+    ],
+    "selectionOrder": 86,
+    "visualBounds": {
+      "x": -40.55999755859375,
+      "y": -36,
+      "width": 452,
+      "height": 504
+    }
+  },
+  {
+    "id": "selected-3252-20434",
+    "name": "Easily customize interface title card (3252:20434)",
+    "nodeId": "3252:20434",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 370.8800048828125,
+    "height": 380,
+    "role": "illustration",
+    "group": "appearance",
+    "tags": [
+      "appearance",
+      "editor",
+      "settings",
+      "phone",
+      "title card"
+    ],
+    "opacity": 1,
+    "children": [
+      {
+        "nodeId": "3252:20435",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": -63.834716796875,
+        "y": -53.20068359375,
+        "width": 497.894775390625,
+        "height": 486.3460693359375,
+        "componentId": "selected-3252-20435"
+      },
+      {
+        "nodeId": "3252:20438",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 315.4014892578125,
+        "y": 57.76025390625,
+        "width": 4.560063362121582,
+        "height": 4.559999942779541,
+        "componentId": "selected-3252-20438"
+      },
+      {
+        "nodeId": "3252:20441",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 90.4423828125,
+        "y": 94.23974609375,
+        "width": 220.39999389648438,
+        "height": 191.52000427246094,
+        "componentId": "selected-3252-20441"
+      },
+      {
+        "nodeId": "3252:20460",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 0,
+        "y": 22.800048828125,
+        "width": 168.72000122070312,
+        "height": 334.3999938964844,
+        "componentId": "selected-3252-20460"
+      },
+      {
+        "nodeId": "3252:20498",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": -15.958984375,
+        "y": -11.3994140625,
+        "width": 403.55999755859375,
+        "height": 403.55999755859375,
+        "componentId": "selected-3252-20498"
+      },
+      {
+        "x": 98.807373046875,
+        "y": 95.760986328125,
+        "width": 174.8000030517578,
+        "height": 190,
+        "clip": true,
+        "borderRadius": 15.199999809265137,
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 26.600000381469727,
+            "boundVariables": {},
+            "color": {
+              "r": 0.4000000059604645,
+              "g": 0.46666666865348816,
+              "b": 0.800000011920929,
+              "a": 0.3499999940395355
+            },
+            "offset": {
+              "x": 0,
+              "y": 3.0399999618530273
+            },
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": false
+          }
+        ],
+        "children": [
+          {
+            "nodeId": "3252:20502",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 0,
+            "y": 0,
+            "width": 174.8000030517578,
+            "height": 190,
+            "componentId": "selected-3252-20502"
+          },
+          {
+            "src": "figma/selected/3252-20503/dots.svg",
+            "x": -11.3984375,
+            "y": 44.08087838368647,
+            "width": 275,
+            "height": 208
+          },
+          {
+            "nodeId": "3252:23665",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": -72.20018405932933,
+            "y": 11.803625831613317,
+            "width": 207.04690551757812,
+            "height": 213.90548706054688,
+            "rotation": -24.16719883440608,
+            "componentId": "selected-3252-23665"
+          },
+          {
+            "nodeId": "3252:23666",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 0,
+            "y": 0,
+            "width": 174.8000030517578,
+            "height": 190,
+            "componentId": "selected-3252-23666"
+          }
+        ]
+      },
+      {
+        "nodeId": "3252:23667",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 125.4041748046875,
+        "y": 209.000732421875,
+        "width": 122.36000061035156,
+        "height": 36,
+        "componentId": "selected-3252-23667"
+      },
+      {
+        "nodeId": "3252:23668",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 148.963134765625,
+        "y": 125.400146484375,
+        "width": 74.4800033569336,
+        "height": 79.04013061523438,
+        "componentId": "selected-3252-23668"
+      }
+    ],
+    "selectionOrder": 87,
+    "visualBounds": {
+      "x": -40.56005859375,
+      "y": -36,
+      "width": 452,
+      "height": 504
+    }
+  },
+  {
+    "id": "selected-3252-76543",
+    "name": "App connected to RevenueCat billing module (3252:76543)",
+    "nodeId": "3252:76543",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 380,
+    "height": 290.27777099609375,
+    "role": "illustration",
+    "group": "selected-final-c",
+    "tags": [
+      "app",
+      "billing",
+      "module",
+      "connector",
+      "growth",
+      "integrations"
+    ],
+    "children": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 290.27777099609375,
+        "children": [
+          {
+            "x": -22.43310546875,
+            "y": -3.95849609375,
+            "width": 437.9882507324219,
+            "height": 358.2025146484375,
+            "children": [
+              {
+                "nodeId": "3252:76545",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": 0,
+                "y": 121.785888671875,
+                "width": 437.9882507324219,
+                "height": 236.4166259765625,
+                "componentId": "selected-3252-76545"
+              },
+              {
+                "nodeId": "3252:76548",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": 124.689208984375,
+                "y": 0,
+                "width": 178.81300354003906,
+                "height": 129.30555725097656,
+                "transformMatrix": [
+                  1,
+                  0,
+                  0.0003787254972849041,
+                  1
+                ],
+                "componentId": "selected-3252-76548"
+              },
+              {
+                "nodeId": "3252:76549",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": 144.264404296875,
+                "y": 0,
+                "width": 91.49581146240234,
+                "height": 71.90972137451172,
+                "transformMatrix": [
+                  1,
+                  0,
+                  0.0003787254972849041,
+                  1
+                ],
+                "componentId": "selected-3252-76549"
+              },
+              {
+                "src": "figma/selected/3252-76550/connector-3252-76550.svg",
+                "x": 213.9166259765625,
+                "y": 116.27587890625,
+                "width": 0.989583,
+                "height": 64.9826
+              },
+              {
+                "nodeId": "3252:76551",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": 212.4322509765625,
+                "y": 155.03466796875,
+                "width": 3.9583332538604736,
+                "height": 3.9583332538604736,
+                "componentId": "selected-3252-76551"
+              },
+              {
+                "nodeId": "3252:76553",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": 56.072998046875,
+                "y": 182.639892578125,
+                "width": 316.6666564941406,
+                "height": 102.91666412353516,
+                "componentId": "selected-3252-76553"
+              },
+              {
+                "x": 163.61279296875,
+                "y": 13.1943359375,
+                "width": 102.25694274902344,
+                "height": 102.25694274902344,
+                "children": [
+                  {
+                    "nodeId": "3252:76654",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 0.0008544921875,
+                    "y": -0.000244140625,
+                    "width": 102.25694274902344,
+                    "height": 102.25694274902344,
+                    "componentId": "selected-3252-76654"
+                  },
+                  {
+                    "src": "figma/selected/3252-76655/dots-3252-76655.svg",
+                    "x": -35.2578125,
+                    "y": -35.256199374757216,
+                    "width": 173,
+                    "height": 173
+                  },
+                  {
+                    "nodeId": "3252:79817",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 23.0911865234375,
+                    "y": 72.5693359375,
+                    "width": 57,
+                    "height": 16,
+                    "componentId": "selected-3252-79817"
+                  },
+                  {
+                    "nodeId": "3252:79818",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 25.6510009765625,
+                    "y": 12.158203125,
+                    "width": 51.4528923034668,
+                    "height": 51.4528923034668,
+                    "componentId": "selected-3252-79818"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "selectionOrder": 148,
+    "visualBounds": {
+      "x": -36,
+      "y": -77.60693359375,
+      "width": 452,
+      "height": 500.745849609375
+    }
+  },
+  {
+    "id": "selected-3252-82370",
+    "name": "Web to app guide handbook cropped orbit (3252:82370)",
+    "nodeId": "3252:82370",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 380,
+    "height": 298.5714416503906,
+    "role": "illustration",
+    "group": "selected-final-c",
+    "tags": [
+      "web",
+      "app",
+      "guide",
+      "handbook",
+      "orbit",
+      "book"
+    ],
+    "children": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 298.5714416503906,
+        "children": [
+          {
+            "x": -0.6462584733963013,
+            "y": -0.6462584733963013,
+            "width": 381.293,
+            "height": 299.864,
+            "maskSrc": "figma/selected/3252-82372/mask-3252-82372.svg",
+            "children": [
+              {
+                "x": 0.6462584733963013,
+                "y": 83.6545592546463,
+                "width": 382.58502197265625,
+                "height": 339.1101989746094,
+                "backgroundColor": "rgba(255,255,255,1)",
+                "children": [
+                  {
+                    "nodeId": "3252:82374",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 344.174560546875,
+                    "y": 318.1943359375,
+                    "width": 321.83367919921875,
+                    "height": 308.912841796875,
+                    "transformMatrix": [
+                      -1,
+                      -8.742278367890322e-8,
+                      8.742278367890322e-8,
+                      -1
+                    ],
+                    "componentId": "selected-3252-82374"
+                  },
+                  {
+                    "nodeId": "3252:82377",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 339.9342041015625,
+                    "y": 21.97265625,
+                    "width": 297.2789001464844,
+                    "height": 297.2789001464844,
+                    "transformMatrix": [
+                      -1,
+                      8.39640764992159e-18,
+                      2.4651116854713072e-14,
+                      1
+                    ],
+                    "componentId": "selected-3252-82377"
+                  },
+                  {
+                    "x": 159.5753173828125,
+                    "y": 42.60791015625,
+                    "width": 144.1013641357422,
+                    "height": 201.52102661132812,
+                    "transformMatrix": [
+                      0.9870441555976868,
+                      0.16044853627681732,
+                      -0.16044853627681732,
+                      0.9870441555976868
+                    ],
+                    "effects": [
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 24.016889572143555,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.06749999523162842,
+                          "g": 0.8324999809265137,
+                          "b": 0.5137499570846558,
+                          "a": 0.03999999910593033
+                        },
+                        "offset": {
+                          "x": -2.208449602127075,
+                          "y": 0
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": false
+                      },
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 7.2050676345825195,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.18000000715255737,
+                          "g": 0.18000000715255737,
+                          "b": 0.42000001668930054,
+                          "a": 0.05999999865889549
+                        },
+                        "offset": {
+                          "x": 0,
+                          "y": 2.401689052581787
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": false
+                      },
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 6.462584495544434,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.18000000715255737,
+                          "g": 0.18000000715255737,
+                          "b": 0.42000001668930054,
+                          "a": 0.009999999776482582
+                        },
+                        "offset": {
+                          "x": 2.585033893585205,
+                          "y": 2.585033893585205
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": false
+                      }
+                    ],
+                    "clip": true,
+                    "borderRadius": 3.6025338172912598,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "children": [
+                      {
+                        "nodeId": "3252:85558",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": -16.04663587599714,
+                        "y": 17.951276147814497,
+                        "width": 131.76605224609375,
+                        "height": 199.70901489257812,
+                        "transformMatrix": [
+                          0.9870442547309943,
+                          -0.16044856281569714,
+                          0.16044856281569714,
+                          0.9870442547309943
+                        ],
+                        "componentId": "selected-3252-85558"
+                      },
+                      {
+                        "src": "figma/selected/3252-82380/native-border-3252-82380.svg",
+                        "x": 0,
+                        "y": 0,
+                        "width": 144.1013641357422,
+                        "height": 201.52102661132812
+                      }
+                    ]
+                  },
+                  {
+                    "x": 89.1837158203125,
+                    "y": 78.333984375,
+                    "width": 143.46939086914062,
+                    "height": 200.63723754882812,
+                    "transformMatrix": [
+                      0.9894173741340637,
+                      -0.14509770274162292,
+                      0.14509770274162292,
+                      0.9894173741340637
+                    ],
+                    "effects": [
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 23.911563873291016,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.06749999523162842,
+                          "g": 0.8324999809265137,
+                          "b": 0.5137499570846558,
+                          "a": 0.029999999329447746
+                        },
+                        "offset": {
+                          "x": -2.1987643241882324,
+                          "y": 0
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": false
+                      },
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 7.173469066619873,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.18000000715255737,
+                          "g": 0.18000000715255737,
+                          "b": 0.42000001668930054,
+                          "a": 0.05999999865889549
+                        },
+                        "offset": {
+                          "x": 0,
+                          "y": 2.3911564350128174
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": false
+                      }
+                    ],
+                    "clip": true,
+                    "borderRadius": 3.5867345333099365,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "children": [
+                      {
+                        "nodeId": "3252:88737",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": 22.54113725456409,
+                        "y": -2.4732800015972316,
+                        "width": 131.76605224609375,
+                        "height": 199.70901489257812,
+                        "transformMatrix": [
+                          0.9894172923236825,
+                          0.14509768458399844,
+                          -0.14509768458399844,
+                          0.9894172923236825
+                        ],
+                        "componentId": "selected-3252-88737"
+                      },
+                      {
+                        "src": "figma/selected/3252-85559/native-border-3252-85559.svg",
+                        "x": 0,
+                        "y": 0,
+                        "width": 143.46939086914062,
+                        "height": 200.63723754882812
+                      }
+                    ]
+                  },
+                  {
+                    "x": 113.741455078125,
+                    "y": 60.74853515625,
+                    "width": 155.10203552246094,
+                    "height": 216.9367218017578,
+                    "effects": [
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 19.91566276550293,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.21000000834465027,
+                          "g": 0.21000000834465027,
+                          "b": 0.39000001549720764,
+                          "a": 0.10000000149011612
+                        },
+                        "offset": {
+                          "x": 0,
+                          "y": 5.312244892120361
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": true
+                      },
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 12.925168991088867,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.27843138575553894,
+                          "g": 0.361098051071167,
+                          "b": 0.5215686559677124,
+                          "a": 0.10000000149011612
+                        },
+                        "offset": {
+                          "x": -3.231292247772217,
+                          "y": 3.231292247772217
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": false
+                      },
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 38.775508880615234,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.5636667609214783,
+                          "g": 0.5417020916938782,
+                          "b": 0.8162597417831421,
+                          "a": 0.10000000149011612
+                        },
+                        "offset": {
+                          "x": 0,
+                          "y": 19.387754440307617
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": false
+                      }
+                    ],
+                    "clip": true,
+                    "borderRadius": 4.230056285858154,
+                    "backgroundColor": "rgba(86.700024,108.40221,219.299988,1)",
+                    "children": [
+                      {
+                        "nodeId": "3252:88739",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": 14.4290771484375,
+                        "y": 16.48681640625,
+                        "width": 122.12351989746094,
+                        "height": 184.8608856201172,
+                        "componentId": "selected-3252-88739"
+                      },
+                      {
+                        "src": "figma/selected/3252-88743/dots-3252-88743.svg",
+                        "x": 0,
+                        "y": 0,
+                        "width": 156,
+                        "height": 217
+                      }
+                    ]
+                  },
+                  {
+                    "nodeId": "3252:91905",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 305.6802978515625,
+                    "y": 259.14990234375,
+                    "width": 3.8775510787963867,
+                    "height": 3.8775510787963867,
+                    "componentId": "selected-3252-91905"
+                  },
+                  {
+                    "nodeId": "3252:91906",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 63.3333740234375,
+                    "y": 89.18408203125,
+                    "width": 3.8775510787963867,
+                    "height": 3.8775510787963867,
+                    "componentId": "selected-3252-91906"
+                  },
+                  {
+                    "nodeId": "3252:91907",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 337.346923828125,
+                    "y": 165.4423828125,
+                    "width": 3.8775510787963867,
+                    "height": 3.8775510787963867,
+                    "componentId": "selected-3252-91907"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "selectionOrder": 155,
+    "visualBounds": {
+      "x": -0.646240234375,
+      "y": 0,
+      "width": 381.29248046875,
+      "height": 299.2177734375
+    }
+  },
+  {
+    "id": "selected-3252-27890",
+    "name": "Food paywall builder text, image, package and button layers (3252:27890)",
+    "nodeId": "3252:27890",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 380,
+    "height": 320.9459533691406,
+    "role": "illustration",
+    "group": "paywall-builder",
+    "tags": [
+      "paywall",
+      "builder",
+      "phone",
+      "food",
+      "text",
+      "image",
+      "package",
+      "button"
+    ],
+    "children": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 320.9459533691406,
+        "children": [
+          {
+            "nodeId": "3252:27891",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 116.8192138671875,
+            "y": -4.492431640625,
+            "width": 317.13836669921875,
+            "height": 329.364013671875,
+            "componentId": "selected-3252-27891"
+          },
+          {
+            "x": 0,
+            "y": 12.837890625,
+            "width": 145.0751190185547,
+            "height": 272.1625671386719,
+            "children": [
+              {
+                "x": 6.4130859375,
+                "y": 207.973388671875,
+                "width": 119.39189147949219,
+                "height": 64.1891860961914,
+                "children": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "width": 119.39189147949219,
+                    "height": 64.1891860961914,
+                    "effects": [
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 22.466217041015625,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.3999999761581421,
+                          "g": 0.4666666090488434,
+                          "b": 0.800000011920929,
+                          "a": 0.20000000298023224
+                        },
+                        "offset": {
+                          "x": 0,
+                          "y": 2.5675675868988037
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": false
+                      }
+                    ],
+                    "clip": true,
+                    "borderRadius": 3.851351261138916,
+                    "children": [
+                      {
+                        "nodeId": "3252:27897",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": 0,
+                        "y": 0,
+                        "width": 119.39189147949219,
+                        "height": 64.1891860961914,
+                        "componentId": "selected-3252-27897"
+                      },
+                      {
+                        "src": "figma/selected/3252-27898/dots-3252-27898.svg",
+                        "x": 23.577880859375,
+                        "y": -19.898229749996972,
+                        "width": 175,
+                        "height": 176
+                      },
+                      {
+                        "nodeId": "3252:31060",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": 0,
+                        "y": 0,
+                        "width": 119.39189147949219,
+                        "height": 64.1891860961914,
+                        "componentId": "selected-3252-31060"
+                      },
+                      {
+                        "nodeId": "3252:31062",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": -89.8648681640625,
+                        "y": -104.92919921875,
+                        "width": 174.87069702148438,
+                        "height": 180.66342163085938,
+                        "transformMatrix": [
+                          0.9123546481132507,
+                          -0.4094007909297943,
+                          0.4094007909297943,
+                          0.9123546481132507
+                        ],
+                        "componentId": "selected-3252-31062"
+                      }
+                    ]
+                  },
+                  {
+                    "nodeId": "3252:31063",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 44.2919921875,
+                    "y": 44.931396484375,
+                    "width": 32,
+                    "height": 12,
+                    "componentId": "selected-3252-31063"
+                  },
+                  {
+                    "nodeId": "3252:31065",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 43.013427734375,
+                    "y": 7.06103515625,
+                    "width": 35.94594192504883,
+                    "height": 38.51350784301758,
+                    "componentId": "selected-3252-31065"
+                  }
+                ]
+              },
+              {
+                "x": 19.2545166015625,
+                "y": 0,
+                "width": 119.39189147949219,
+                "height": 64.1891860961914,
+                "children": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "width": 119.39189147949219,
+                    "height": 64.1891860961914,
+                    "effects": [
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 22.466217041015625,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.3999999761581421,
+                          "g": 0.4666666090488434,
+                          "b": 0.800000011920929,
+                          "a": 0.20000000298023224
+                        },
+                        "offset": {
+                          "x": 0,
+                          "y": 2.5675675868988037
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": false
+                      }
+                    ],
+                    "clip": true,
+                    "borderRadius": 3.851351261138916,
+                    "children": [
+                      {
+                        "nodeId": "3252:31078",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": 0,
+                        "y": 0,
+                        "width": 119.39189147949219,
+                        "height": 64.1891860961914,
+                        "componentId": "selected-3252-31078"
+                      },
+                      {
+                        "src": "figma/selected/3252-31079/dots-3252-31079.svg",
+                        "x": 23.5799560546875,
+                        "y": -19.898473890621972,
+                        "width": 175,
+                        "height": 176
+                      },
+                      {
+                        "nodeId": "3252:34241",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": 0,
+                        "y": 0,
+                        "width": 119.39189147949219,
+                        "height": 64.1891860961914,
+                        "componentId": "selected-3252-34241"
+                      },
+                      {
+                        "nodeId": "3252:34243",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": -89.8648681640625,
+                        "y": -104.9293212890625,
+                        "width": 174.87069702148438,
+                        "height": 180.66342163085938,
+                        "transformMatrix": [
+                          0.9123546481132507,
+                          -0.4094007909297943,
+                          0.4094007909297943,
+                          0.9123546481132507
+                        ],
+                        "componentId": "selected-3252-34243"
+                      }
+                    ]
+                  },
+                  {
+                    "nodeId": "3252:34244",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 49.4295654296875,
+                    "y": 44.93310546875,
+                    "width": 21,
+                    "height": 12,
+                    "componentId": "selected-3252-34244"
+                  },
+                  {
+                    "nodeId": "3252:34246",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 43.64892578125,
+                    "y": 7.06103515625,
+                    "width": 35.30403518676758,
+                    "height": 38.51350784301758,
+                    "componentId": "selected-3252-34246"
+                  }
+                ]
+              },
+              {
+                "x": 25.6832275390625,
+                "y": 138.6488037109375,
+                "width": 119.39189147949219,
+                "height": 64.1891860961914,
+                "children": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "width": 119.39189147949219,
+                    "height": 64.1891860961914,
+                    "effects": [
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 22.466217041015625,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.9686274528503418,
+                          "g": 0.8313725590705872,
+                          "b": 0.8313725590705872,
+                          "a": 0.20000000298023224
+                        },
+                        "offset": {
+                          "x": 0,
+                          "y": 2.5675675868988037
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": false
+                      }
+                    ],
+                    "clip": true,
+                    "borderRadius": 3.851351261138916,
+                    "children": [
+                      {
+                        "nodeId": "3252:34257",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": 0,
+                        "y": 0,
+                        "width": 119.39189147949219,
+                        "height": 64.1891860961914,
+                        "componentId": "selected-3252-34257"
+                      },
+                      {
+                        "src": "figma/selected/3252-34258/dots-3252-34258.svg",
+                        "x": 23.576904296875,
+                        "y": -19.898351820309472,
+                        "width": 175,
+                        "height": 176
+                      },
+                      {
+                        "nodeId": "3252:37420",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": 0,
+                        "y": 0,
+                        "width": 119.39189147949219,
+                        "height": 64.1891860961914,
+                        "componentId": "selected-3252-37420"
+                      },
+                      {
+                        "nodeId": "3252:37421",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": -106.5540771484375,
+                        "y": -91.449462890625,
+                        "width": 174.87069702148438,
+                        "height": 180.66342163085938,
+                        "transformMatrix": [
+                          0.9123546481132507,
+                          -0.4094007909297943,
+                          0.4094007909297943,
+                          0.9123546481132507
+                        ],
+                        "componentId": "selected-3252-37421"
+                      }
+                    ]
+                  },
+                  {
+                    "nodeId": "3252:37423",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 39.7899169921875,
+                    "y": 44.933349609375,
+                    "width": 41,
+                    "height": 12,
+                    "componentId": "selected-3252-37423"
+                  },
+                  {
+                    "nodeId": "3252:37425",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 43.64111328125,
+                    "y": 5.77685546875,
+                    "width": 35.30403518676758,
+                    "height": 38.51350784301758,
+                    "componentId": "selected-3252-37425"
+                  }
+                ]
+              },
+              {
+                "x": 0,
+                "y": 69.32421875,
+                "width": 119.39189147949219,
+                "height": 64.1891860961914,
+                "children": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "width": 119.39189147949219,
+                    "height": 64.1891860961914,
+                    "effects": [
+                      {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "radius": 25.675676345825195,
+                        "boundVariables": {},
+                        "color": {
+                          "r": 0.6521739363670349,
+                          "g": 0.8478260636329651,
+                          "b": 0.8478260636329651,
+                          "a": 0.3499999940395355
+                        },
+                        "offset": {
+                          "x": 0,
+                          "y": 2.5675675868988037
+                        },
+                        "spread": 0,
+                        "blendMode": "NORMAL",
+                        "showShadowBehindNode": false
+                      }
+                    ],
+                    "clip": true,
+                    "borderRadius": 3.851351261138916,
+                    "children": [
+                      {
+                        "nodeId": "3252:37440",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": 0,
+                        "y": 0,
+                        "width": 119.39189147949219,
+                        "height": 64.1891860961914,
+                        "componentId": "selected-3252-37440"
+                      },
+                      {
+                        "src": "figma/selected/3252-37441/dots-3252-37441.svg",
+                        "x": 23.580810546875,
+                        "y": -19.898473890621972,
+                        "width": 175,
+                        "height": 176
+                      },
+                      {
+                        "nodeId": "3252:40603",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": 0,
+                        "y": 0,
+                        "width": 119.39189147949219,
+                        "height": 64.1891860961914,
+                        "componentId": "selected-3252-40603"
+                      },
+                      {
+                        "nodeId": "3252:40605",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": -106.5540771484375,
+                        "y": -91.449462890625,
+                        "width": 174.87069702148438,
+                        "height": 180.66342163085938,
+                        "transformMatrix": [
+                          0.9123546481132507,
+                          -0.4094007909297943,
+                          0.4094007909297943,
+                          0.9123546481132507
+                        ],
+                        "componentId": "selected-3252-40605"
+                      },
+                      {
+                        "nodeId": "3252:40606",
+                        "fileKey": "kAngSWapljVFOOUAen6APm",
+                        "x": 43.64892578125,
+                        "y": 4.492431640625,
+                        "width": 35.30403518676758,
+                        "height": 39.79732131958008,
+                        "componentId": "selected-3252-40606"
+                      }
+                    ]
+                  },
+                  {
+                    "nodeId": "3252:40616",
+                    "fileKey": "kAngSWapljVFOOUAen6APm",
+                    "x": 45.570556640625,
+                    "y": 44.933349609375,
+                    "width": 29,
+                    "height": 12,
+                    "componentId": "selected-3252-40616"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeId": "3252:40618",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 184.2193603515625,
+            "y": 8.986572265625,
+            "width": 141.8581085205078,
+            "height": 279.8648681640625,
+            "componentId": "selected-3252-40618"
+          },
+          {
+            "nodeId": "3252:40648",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 121.3148193359375,
+            "y": 43.64892578125,
+            "width": 62.26348876953125,
+            "height": 215.0337677001953,
+            "componentId": "selected-3252-40648"
+          }
+        ]
+      }
+    ],
+    "selectionOrder": 127,
+    "visualBounds": {
+      "x": -25.6756591796875,
+      "y": -12.6561279296875,
+      "width": 441.6756591796875,
+      "height": 345.69140625
+    }
+  },
+  {
+    "id": "selected-3252-43632",
+    "name": "RevenueCat Android SDK handbook with chapter pages (3252:43632)",
+    "nodeId": "3252:43632",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 380,
+    "height": 286.479736328125,
+    "role": "illustration",
+    "group": "subscription-handbooks",
+    "tags": [
+      "handbook",
+      "book",
+      "android",
+      "sdk",
+      "revenuecat",
+      "chapters"
+    ],
+    "children": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 286.479736328125,
+        "clip": true,
+        "backgroundColor": "rgba(249.0,249.0,251.0,1)",
+        "children": [
+          {
+            "nodeId": "3252:43633",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 55.03466796875,
+            "y": 45.576416015625,
+            "width": 278.5469970703125,
+            "height": 234.52923583984375,
+            "componentId": "selected-3252-43633"
+          },
+          {
+            "nodeId": "3252:43636",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 76.419921875,
+            "y": 30.3580322265625,
+            "width": 227.0867919921875,
+            "height": 227.06228637695312,
+            "componentId": "selected-3252-43636"
+          },
+          {
+            "nodeId": "3252:43637",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 25.876953125,
+            "y": 177.40362548828125,
+            "width": 136.13706970214844,
+            "height": 190.3832550048828,
+            "transformMatrix": [
+              0.9612616896629333,
+              -0.27563735842704773,
+              0.27563735842704773,
+              0.9612616896629333
+            ],
+            "componentId": "selected-3252-43637"
+          },
+          {
+            "nodeId": "3252:43638",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 231.94189453125,
+            "y": 141.05029296875,
+            "width": 136.13706970214844,
+            "height": 190.3832550048828,
+            "transformMatrix": [
+              0.9612616896629333,
+              0.27563735842704773,
+              -0.27563735842704773,
+              0.9612616896629333
+            ],
+            "componentId": "selected-3252-43638"
+          },
+          {
+            "nodeId": "3252:43639",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 188.55712890625,
+            "y": 108.61834716796875,
+            "width": 142.0560760498047,
+            "height": 198.6607666015625,
+            "transformMatrix": [
+              0.9848077297210693,
+              0.1736481785774231,
+              -0.1736481785774231,
+              0.9848077297210693
+            ],
+            "componentId": "selected-3252-43639"
+          },
+          {
+            "nodeId": "3252:43659",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 57.30322265625,
+            "y": 135.8966064453125,
+            "width": 136.13706970214844,
+            "height": 190.38323974609375,
+            "transformMatrix": [
+              0.9848077297210693,
+              -0.1736481785774231,
+              0.1736481785774231,
+              0.9848077297210693
+            ],
+            "componentId": "selected-3252-43659"
+          },
+          {
+            "nodeId": "3252:43673",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 116.0126953125,
+            "y": 165.7320556640625,
+            "width": 153.89407348632812,
+            "height": 120.74766540527344,
+            "componentId": "selected-3252-43673"
+          },
+          {
+            "x": 121.931640625,
+            "y": 78.72271728515625,
+            "width": 142.0560760498047,
+            "height": 198.87850952148438,
+            "effects": [
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 3.2656564712524414,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.04800000041723251,
+                  "g": 0.11298457533121109,
+                  "b": 0.43199998140335083,
+                  "a": 0.10000000149011612
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 2.1771044731140137
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 5.919003009796143,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.0470588244497776,
+                  "g": 0.11372549086809158,
+                  "b": 0.4313725531101227,
+                  "a": 0.12999999523162842
+                },
+                "offset": {
+                  "x": -2.1771044731140137,
+                  "y": 0
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 11.838006019592285,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.27843138575553894,
+                  "g": 0.361098051071167,
+                  "b": 0.5215686559677124,
+                  "a": 0.10000000149011612
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 0
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              }
+            ],
+            "clip": true,
+            "borderRadius": 3.5514016151428223,
+            "backgroundColor": "rgba(230.000001,101.000002,101.000002,1)",
+            "children": [
+              {
+                "nodeId": "3252:43675",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": 13.24560546875,
+                "y": 13.2369384765625,
+                "width": 112.044677734375,
+                "height": 172.16175842285156,
+                "componentId": "selected-3252-43675"
+              },
+              {
+                "src": "figma/selected/3252-43690/dots-3252-43690.svg",
+                "x": 0,
+                "y": 0,
+                "width": 143,
+                "height": 199
+              }
+            ]
+          },
+          {
+            "nodeId": "3252:46852",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": -27.8193359375,
+            "y": 165.7320556640625,
+            "width": 143.83177185058594,
+            "height": 120.74766540527344,
+            "componentId": "selected-3252-46852"
+          },
+          {
+            "nodeId": "3252:46853",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 269.90673828125,
+            "y": 165.7320556640625,
+            "width": 143.83177185058594,
+            "height": 120.74766540527344,
+            "componentId": "selected-3252-46853"
+          },
+          {
+            "nodeId": "3252:46854",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 111.02734375,
+            "y": 29.00311279296875,
+            "width": 37.88161849975586,
+            "height": 37.88161849975586,
+            "componentId": "selected-3252-46854"
+          },
+          {
+            "nodeId": "3252:46865",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 234.35546875,
+            "y": 29.00311279296875,
+            "width": 37.88161849975586,
+            "height": 37.88161849975586,
+            "componentId": "selected-3252-46865"
+          },
+          {
+            "nodeId": "3252:46868",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 170.4658203125,
+            "y": 3.552001953125,
+            "width": 42.6168212890625,
+            "height": 42.6168212890625,
+            "componentId": "selected-3252-46868"
+          }
+        ]
+      }
+    ],
+    "selectionOrder": 128,
+    "visualBounds": {
+      "x": 0,
+      "y": 0,
+      "width": 380,
+      "height": 286.479736328125
+    }
+  },
+  {
+    "id": "selected-3252-46876",
+    "name": "Google Play Billing and RevenueCat Android SDK handbooks (3252:46876)",
+    "nodeId": "3252:46876",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 380,
+    "height": 371.5384521484375,
+    "role": "illustration",
+    "group": "subscription-handbooks",
+    "tags": [
+      "handbook",
+      "books",
+      "android",
+      "google play",
+      "billing",
+      "sdk"
+    ],
+    "children": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 371.5384521484375,
+        "backgroundColor": "rgba(249.0,249.0,251.0,1)",
+        "children": [
+          {
+            "nodeId": "3252:46877",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": -73.84619140625,
+            "y": -80.7757568359375,
+            "width": 472.8704528808594,
+            "height": 484.98773193359375,
+            "componentId": "selected-3252-46877"
+          },
+          {
+            "nodeId": "3252:46880",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": -2.310546875,
+            "y": -6.537841796875,
+            "width": 384.6153869628906,
+            "height": 384.5738830566406,
+            "componentId": "selected-3252-46880"
+          },
+          {
+            "x": 16.9248046875,
+            "y": 120.76995849609375,
+            "width": 284.0367126464844,
+            "height": 295.5917663574219,
+            "children": [
+              {
+                "src": "figma/selected/3252-46884/dots-3252-46884.svg",
+                "x": 0,
+                "y": 0.000039754193949192995,
+                "width": 285,
+                "height": 296
+              }
+            ]
+          },
+          {
+            "nodeId": "3252:50046",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 1.53857421875,
+            "y": 136.923095703125,
+            "width": 4.615384578704834,
+            "height": 4.615384578704834,
+            "componentId": "selected-3252-50046"
+          },
+          {
+            "nodeId": "3252:50047",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 362.3076171875,
+            "y": 263.076904296875,
+            "width": 4.615384578704834,
+            "height": 4.615384578704834,
+            "componentId": "selected-3252-50047"
+          },
+          {
+            "nodeId": "3252:50048",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 35.384765625,
+            "y": 56.9200439453125,
+            "width": 164.73094177246094,
+            "height": 230.40440368652344,
+            "transformMatrix": [
+              0.987318754196167,
+              -0.1587502658367157,
+              0.1587502658367157,
+              0.987318754196167
+            ],
+            "componentId": "selected-3252-50048"
+          },
+          {
+            "x": 167.740234375,
+            "y": 76.17486572265625,
+            "width": 179.7064971923828,
+            "height": 251.31365966796875,
+            "transformMatrix": [
+              0.9851446151733398,
+              0.17172665894031525,
+              -0.17172665894031525,
+              0.9851446151733398
+            ],
+            "effects": [
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 23.705284118652344,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.21000000834465027,
+                  "g": 0.21000000834465027,
+                  "b": 0.39000001549720764,
+                  "a": 0.10000000149011612
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 6.323077201843262
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": true
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 15.384615898132324,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.27843138575553894,
+                  "g": 0.361098051071167,
+                  "b": 0.5215686559677124,
+                  "a": 0.10000000149011612
+                },
+                "offset": {
+                  "x": -3.846153974533081,
+                  "y": 3.846153974533081
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 46.153846740722656,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.5636667609214783,
+                  "g": 0.5417020916938782,
+                  "b": 0.8162597417831421,
+                  "a": 0.10000000149011612
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 23.076923370361328
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              }
+            ],
+            "clip": true,
+            "borderRadius": 4.49266242980957,
+            "backgroundColor": "rgba(230.000001,101.000002,101.000002,1)",
+            "children": [
+              {
+                "nodeId": "3252:50055",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": 16.747270299303636,
+                "y": 16.749949364073075,
+                "width": 141.74090576171875,
+                "height": 217.06948852539062,
+                "componentId": "selected-3252-50055"
+              },
+              {
+                "src": "figma/selected/3252-50070/dots-3252-50070.svg",
+                "x": -41.61899902151163,
+                "y": 12.557877496739195,
+                "width": 221,
+                "height": 274,
+                "transformMatrix": [
+                  0.9851446563564934,
+                  -0.17172666611920578,
+                  0.17172666611920578,
+                  0.9851446563564934
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "selectionOrder": 129,
+    "visualBounds": {
+      "x": -36,
+      "y": -40.230712890625,
+      "width": 452,
+      "height": 504
+    }
+  },
+  {
+    "id": "selected-3252-53235",
+    "name": "RevenueCat Android SDK handbook in integration orbit (3252:53235)",
+    "nodeId": "3252:53235",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 380,
+    "height": 338.27703857421875,
+    "role": "illustration",
+    "group": "subscription-handbooks",
+    "tags": [
+      "handbook",
+      "book",
+      "android",
+      "sdk",
+      "orbit",
+      "revenuecat"
+    ],
+    "children": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 338.27703857421875,
+        "children": [
+          {
+            "nodeId": "3252:53236",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 305.54443359375,
+            "y": 297.8377685546875,
+            "width": 238.14137268066406,
+            "height": 277.2063903808594,
+            "transformMatrix": [
+              -1,
+              -8.742278367890322e-8,
+              8.742278367890322e-8,
+              -1
+            ],
+            "componentId": "selected-3252-53236"
+          },
+          {
+            "nodeId": "3252:53239",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 337.6376953125,
+            "y": 21.824462890625,
+            "width": 295.270263671875,
+            "height": 295.270263671875,
+            "transformMatrix": [
+              -1,
+              8.39640764992159e-18,
+              2.4651116854713072e-14,
+              1
+            ],
+            "componentId": "selected-3252-53239"
+          },
+          {
+            "nodeId": "3252:53242",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 26.3251953125,
+            "y": 151.57421875,
+            "width": 41.08108139038086,
+            "height": 41.08108139038086,
+            "componentId": "selected-3252-53242"
+          },
+          {
+            "x": 168.5966796875,
+            "y": 59.67840576171875,
+            "width": 143.12770080566406,
+            "height": 200.15939331054688,
+            "transformMatrix": [
+              0.9721075892448425,
+              0.2345351129770279,
+              -0.2345351129770279,
+              0.9721075892448425
+            ],
+            "effects": [
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 23.8546142578125,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.9490196108818054,
+                  "g": 0.3529411852359772,
+                  "b": 0.3529411852359772,
+                  "a": 0.05000000074505806
+                },
+                "offset": {
+                  "x": -2.193527936935425,
+                  "y": 0
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 7.1563849449157715,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.18000000715255737,
+                  "g": 0.18000000715255737,
+                  "b": 0.42000001668930054,
+                  "a": 0.05999999865889549
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 2.3854615688323975
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              }
+            ],
+            "clip": true,
+            "borderRadius": 3.5781924724578857,
+            "backgroundColor": "rgba(255,255,255,1)",
+            "children": [
+              {
+                "nodeId": "3252:56425",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": -23.633657703727295,
+                "y": 27.090472313260648,
+                "width": 130.875732421875,
+                "height": 198.35963439941406,
+                "transformMatrix": [
+                  0.9721077014933424,
+                  -0.2345351410999584,
+                  0.2345351410999584,
+                  0.9721077014933424
+                ],
+                "componentId": "selected-3252-56425"
+              },
+              {
+                "src": "figma/selected/3252-53247/native-border-3252-53247.svg",
+                "x": 0,
+                "y": 0,
+                "width": 143.12770080566406,
+                "height": 200.15939331054688
+              }
+            ]
+          },
+          {
+            "x": 87.29736328125,
+            "y": 65.6083984375,
+            "width": 142.5,
+            "height": 199.2815704345703,
+            "transformMatrix": [
+              0.9894173741340637,
+              -0.14509770274162292,
+              0.14509770274162292,
+              0.9894173741340637
+            ],
+            "effects": [
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 23.75,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.9490196108818054,
+                  "g": 0.3529411852359772,
+                  "b": 0.3529411852359772,
+                  "a": 0.05000000074505806
+                },
+                "offset": {
+                  "x": -2.183907985687256,
+                  "y": 0
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 7.125000476837158,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.18000000715255737,
+                  "g": 0.18000000715255737,
+                  "b": 0.42000001668930054,
+                  "a": 0.05999999865889549
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 2.375
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              }
+            ],
+            "clip": true,
+            "borderRadius": 3.562500238418579,
+            "backgroundColor": "rgba(255,255,255,1)",
+            "children": [
+              {
+                "nodeId": "3252:59604",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": 25.365094025026337,
+                "y": 3.81959308019691,
+                "width": 130.875732421875,
+                "height": 198.35963439941406,
+                "transformMatrix": [
+                  0.9894172923236825,
+                  0.14509768458399844,
+                  -0.14509768458399844,
+                  0.9894172923236825
+                ],
+                "componentId": "selected-3252-59604"
+              },
+              {
+                "src": "figma/selected/3252-56426/native-border-3252-56426.svg",
+                "x": 0,
+                "y": 0,
+                "width": 142.5,
+                "height": 199.2815704345703
+              }
+            ]
+          },
+          {
+            "x": 114.8984375,
+            "y": 68.04052734375,
+            "width": 154.05404663085938,
+            "height": 215.43954467773438,
+            "effects": [
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 19.781097412109375,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.21000000834465027,
+                  "g": 0.21000000834465027,
+                  "b": 0.39000001549720764,
+                  "a": 0.10000000149011612
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 5.276351451873779
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": true
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 12.837838172912598,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.27843138575553894,
+                  "g": 0.361098051071167,
+                  "b": 0.5215686559677124,
+                  "a": 0.10000000149011612
+                },
+                "offset": {
+                  "x": -3.2094595432281494,
+                  "y": 3.2094595432281494
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 38.51351547241211,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.5636667609214783,
+                  "g": 0.5417020916938782,
+                  "b": 0.8162597417831421,
+                  "a": 0.10000000149011612
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 19.256757736206055
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              }
+            ],
+            "clip": true,
+            "borderRadius": 3.851351261138916,
+            "backgroundColor": "rgba(231.730003,99.269992,99.269992,1)",
+            "children": [
+              {
+                "nodeId": "3252:59606",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": 14.357421875,
+                "y": 14.35430908203125,
+                "width": 121.5079116821289,
+                "height": 185.6483917236328,
+                "componentId": "selected-3252-59606"
+              },
+              {
+                "src": "figma/selected/3252-59621/dots-3252-59621.svg",
+                "x": 0,
+                "y": 0,
+                "width": 155,
+                "height": 216
+              }
+            ]
+          },
+          {
+            "nodeId": "3252:62783",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 303.61474609375,
+            "y": 258.68243408203125,
+            "width": 3.851351261138916,
+            "height": 3.851351261138916,
+            "componentId": "selected-3252-62783"
+          },
+          {
+            "nodeId": "3252:62784",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 62.9052734375,
+            "y": 89.8648681640625,
+            "width": 3.851351261138916,
+            "height": 3.851351261138916,
+            "componentId": "selected-3252-62784"
+          },
+          {
+            "nodeId": "3252:62785",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 317.4169921875,
+            "y": 140.013671875,
+            "width": 41.08108139038086,
+            "height": 41.08108139038086,
+            "componentId": "selected-3252-62785"
+          }
+        ]
+      }
+    ],
+    "selectionOrder": 130,
+    "visualBounds": {
+      "x": -11.27587890625,
+      "y": -55.1695556640625,
+      "width": 396.85791015625,
+      "height": 427.24224853515625
+    }
+  },
+  {
+    "id": "selected-3252-62793",
+    "name": "Google Play Billing handbook in Android orbit (3252:62793)",
+    "nodeId": "3252:62793",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 380,
+    "height": 338.27703857421875,
+    "role": "illustration",
+    "group": "subscription-handbooks",
+    "tags": [
+      "handbook",
+      "book",
+      "google play",
+      "billing",
+      "android",
+      "orbit"
+    ],
+    "children": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 380,
+        "height": 338.27703857421875,
+        "children": [
+          {
+            "nodeId": "3252:62794",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 341.8515625,
+            "y": 316.0430908203125,
+            "width": 319.658935546875,
+            "height": 306.8256530761719,
+            "transformMatrix": [
+              -1,
+              -8.742278367890322e-8,
+              8.742278367890322e-8,
+              -1
+            ],
+            "componentId": "selected-3252-62794"
+          },
+          {
+            "nodeId": "3252:62797",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 337.6376953125,
+            "y": 21.824462890625,
+            "width": 295.270263671875,
+            "height": 295.270263671875,
+            "transformMatrix": [
+              -1,
+              8.39640764992159e-18,
+              2.4651116854713072e-14,
+              1
+            ],
+            "componentId": "selected-3252-62797"
+          },
+          {
+            "nodeId": "3252:62800",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 28.244140625,
+            "y": 175.23686226694247,
+            "width": 50.61865142322176,
+            "height": 50.61865142322165,
+            "componentId": "selected-3252-62800"
+          },
+          {
+            "nodeId": "3252:62812",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 311.9586989244617,
+            "y": 145.7099609375,
+            "width": 51.77761542151484,
+            "height": 51.77761542151461,
+            "componentId": "selected-3252-62812"
+          },
+          {
+            "x": 158.4970703125,
+            "y": 43.603515625,
+            "width": 143.12770080566406,
+            "height": 200.15939331054688,
+            "transformMatrix": [
+              0.9870441555976868,
+              0.16044853627681732,
+              -0.16044853627681732,
+              0.9870441555976868
+            ],
+            "effects": [
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 23.8546142578125,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.34000009298324585,
+                  "g": 0.4251067042350769,
+                  "b": 0.85999995470047,
+                  "a": 0.05000000074505806
+                },
+                "offset": {
+                  "x": -2.193527936935425,
+                  "y": 0
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 7.1563849449157715,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.18000000715255737,
+                  "g": 0.18000000715255737,
+                  "b": 0.42000001668930054,
+                  "a": 0.05999999865889549
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 2.3854615688323975
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 6.418919086456299,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.18000000715255737,
+                  "g": 0.18000000715255737,
+                  "b": 0.42000001668930054,
+                  "a": 0.009999999776482582
+                },
+                "offset": {
+                  "x": 2.5675675868988037,
+                  "y": 2.5675675868988037
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              }
+            ],
+            "clip": true,
+            "borderRadius": 3.5781924724578857,
+            "backgroundColor": "rgba(255,255,255,1)",
+            "children": [
+              {
+                "nodeId": "3252:65996",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": -15.938212757495876,
+                "y": 17.830075675979515,
+                "width": 130.875732421875,
+                "height": 198.35963439941406,
+                "transformMatrix": [
+                  0.9870442547309943,
+                  -0.16044856281569714,
+                  0.16044856281569714,
+                  0.9870442547309943
+                ],
+                "componentId": "selected-3252-65996"
+              },
+              {
+                "src": "figma/selected/3252-62818/native-border-3252-62818.svg",
+                "x": 0,
+                "y": 0,
+                "width": 143.12770080566406,
+                "height": 200.15939331054688
+              }
+            ]
+          },
+          {
+            "x": 88.5810546875,
+            "y": 79.088134765625,
+            "width": 142.5,
+            "height": 199.2815704345703,
+            "transformMatrix": [
+              0.9894173741340637,
+              -0.14509770274162292,
+              0.14509770274162292,
+              0.9894173741340637
+            ],
+            "effects": [
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 23.75,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.34000009298324585,
+                  "g": 0.4251067042350769,
+                  "b": 0.85999995470047,
+                  "a": 0.05000000074505806
+                },
+                "offset": {
+                  "x": -2.183907985687256,
+                  "y": 0
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 7.125000476837158,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.18000000715255737,
+                  "g": 0.18000000715255737,
+                  "b": 0.42000001668930054,
+                  "a": 0.05999999865889549
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 2.375
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              }
+            ],
+            "clip": true,
+            "borderRadius": 3.562500238418579,
+            "backgroundColor": "rgba(255,255,255,1)",
+            "children": [
+              {
+                "nodeId": "3252:69175",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": 22.3955314003706,
+                "y": -2.4554611824316908,
+                "width": 130.875732421875,
+                "height": 198.35963439941406,
+                "transformMatrix": [
+                  0.9894172923236825,
+                  0.14509768458399844,
+                  -0.14509768458399844,
+                  0.9894172923236825
+                ],
+                "componentId": "selected-3252-69175"
+              },
+              {
+                "src": "figma/selected/3252-65997/native-border-3252-65997.svg",
+                "x": 0,
+                "y": 0,
+                "width": 142.5,
+                "height": 199.2815704345703
+              }
+            ]
+          },
+          {
+            "x": 112.972900390625,
+            "y": 61.62164306640625,
+            "width": 154.05404663085938,
+            "height": 215.47093200683594,
+            "effects": [
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 19.781097412109375,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.21000000834465027,
+                  "g": 0.21000000834465027,
+                  "b": 0.39000001549720764,
+                  "a": 0.10000000149011612
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 5.276351451873779
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": true
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 12.837838172912598,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.27843138575553894,
+                  "g": 0.361098051071167,
+                  "b": 0.5215686559677124,
+                  "a": 0.10000000149011612
+                },
+                "offset": {
+                  "x": -3.2094595432281494,
+                  "y": 3.2094595432281494
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              },
+              {
+                "type": "DROP_SHADOW",
+                "visible": true,
+                "radius": 38.51351547241211,
+                "boundVariables": {},
+                "color": {
+                  "r": 0.5636667609214783,
+                  "g": 0.5417020916938782,
+                  "b": 0.8162597417831421,
+                  "a": 0.10000000149011612
+                },
+                "offset": {
+                  "x": 0,
+                  "y": 19.256757736206055
+                },
+                "spread": 0,
+                "blendMode": "NORMAL",
+                "showShadowBehindNode": false
+              }
+            ],
+            "clip": true,
+            "borderRadius": 4.201474666595459,
+            "backgroundColor": "rgba(87.000002,108.000001,219.000002,1)",
+            "children": [
+              {
+                "nodeId": "3252:69177",
+                "fileKey": "kAngSWapljVFOOUAen6APm",
+                "x": 14.32861328125,
+                "y": 16.37628173828125,
+                "width": 121.2983627319336,
+                "height": 183.841552734375,
+                "componentId": "selected-3252-69177"
+              },
+              {
+                "src": "figma/selected/3252-69181/dots-3252-69181.svg",
+                "x": 0,
+                "y": 0,
+                "width": 155,
+                "height": 216
+              }
+            ]
+          },
+          {
+            "nodeId": "3252:72343",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 303.61474609375,
+            "y": 258.68243408203125,
+            "width": 3.851351261138916,
+            "height": 3.851351261138916,
+            "componentId": "selected-3252-72343"
+          },
+          {
+            "nodeId": "3252:72344",
+            "fileKey": "kAngSWapljVFOOUAen6APm",
+            "x": 62.905517578125,
+            "y": 89.8648681640625,
+            "width": 3.851351261138916,
+            "height": 3.851351261138916,
+            "componentId": "selected-3252-72344"
+          }
+        ]
+      }
+    ],
+    "selectionOrder": 131,
+    "visualBounds": {
+      "x": -36,
+      "y": -56.8614501953125,
+      "width": 452,
+      "height": 447.139404296875
+    }
+  },
+  {
+    "id": "selected-3252-3522",
+    "name": "Paywall builder text, image, package and button layers",
+    "nodeId": "3252:3522",
+    "fileKey": "kAngSWapljVFOOUAen6APm",
+    "family": "selected",
+    "width": 380,
+    "height": 282.1212158203125,
+    "role": "illustration",
+    "group": "paywall-builder",
+    "tags": [
+      "paywall",
+      "builder",
+      "components",
+      "text",
+      "image",
+      "package",
+      "button",
+      "phone"
+    ],
+    "children": [
+      {
+        "nodeId": "3252:3523",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 116.20004272460938,
+        "y": 6.658173561096191,
+        "width": 258.6034851074219,
+        "height": 268.57257080078125,
+        "componentId": "selected-3252-3523"
+      },
+      {
+        "nodeId": "3252:3525",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 26.167869567871094,
+        "y": 190.37327575683594,
+        "width": 97.3553695678711,
+        "height": 52.34159851074219,
+        "componentId": "selected-3252-3525"
+      },
+      {
+        "nodeId": "3252:3757",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 63.059356689453125,
+        "y": 228.77572631835938,
+        "width": 24.17449188232422,
+        "height": 6.183106899261475,
+        "componentId": "selected-3252-3757"
+      },
+      {
+        "nodeId": "3252:3758",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 67.51773071289062,
+        "y": 204.50892639160156,
+        "width": 23.030303955078125,
+        "height": 23.030303955078125,
+        "componentId": "selected-3252-3758"
+      },
+      {
+        "nodeId": "3252:3760",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 61.97163391113281,
+        "y": 196.34335327148438,
+        "width": 25.75206756591797,
+        "height": 25.752073287963867,
+        "componentId": "selected-3252-3760"
+      },
+      {
+        "nodeId": "3252:3761",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 63.85675048828125,
+        "y": 198.22744750976562,
+        "width": 21.983470916748047,
+        "height": 21.983470916748047,
+        "componentId": "selected-3252-3761"
+      },
+      {
+        "nodeId": "3252:3762",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 61.23966979980469,
+        "y": 210.0564422607422,
+        "width": 1.884300708770752,
+        "height": 1.8842967748641968,
+        "componentId": "selected-3252-3762"
+      },
+      {
+        "nodeId": "3252:3763",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 86.88705444335938,
+        "y": 210.0564422607422,
+        "width": 1.884300708770752,
+        "height": 1.884300708770752,
+        "componentId": "selected-3252-3763"
+      },
+      {
+        "nodeId": "3252:3764",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 69.60846710205078,
+        "y": 203.98599243164062,
+        "width": 10.4683198928833,
+        "height": 10.4683198928833,
+        "componentId": "selected-3252-3764"
+      },
+      {
+        "nodeId": "3252:3769",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 36.63472366333008,
+        "y": 20.7908935546875,
+        "width": 97.3553695678711,
+        "height": 52.34159851074219,
+        "componentId": "selected-3252-3769"
+      },
+      {
+        "nodeId": "3252:4001",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 77.39604949951172,
+        "y": 59.188941955566406,
+        "width": 15.905045509338379,
+        "height": 6.18311071395874,
+        "componentId": "selected-3252-4001"
+      },
+      {
+        "nodeId": "3252:4002",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 77.98556518554688,
+        "y": 34.921661376953125,
+        "width": 23.030303955078125,
+        "height": 23.030303955078125,
+        "componentId": "selected-3252-4002"
+      },
+      {
+        "nodeId": "3252:4004",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 72.43995666503906,
+        "y": 26.756574630737305,
+        "width": 25.752073287963867,
+        "height": 25.752065658569336,
+        "componentId": "selected-3252-4004"
+      },
+      {
+        "nodeId": "3252:4005",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 74.32506561279297,
+        "y": 28.640668869018555,
+        "width": 21.983470916748047,
+        "height": 21.98347282409668,
+        "componentId": "selected-3252-4005"
+      },
+      {
+        "nodeId": "3252:4006",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 81.85735321044922,
+        "y": 35.96849060058594,
+        "width": 6.922698497772217,
+        "height": 8.944913864135742,
+        "componentId": "selected-3252-4006"
+      },
+      {
+        "nodeId": "3252:4007",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 75.96074676513672,
+        "y": 50.111968994140625,
+        "width": 2.6648007906342173,
+        "height": 2.6648007906351268,
+        "componentId": "selected-3252-4007"
+      },
+      {
+        "nodeId": "3252:4008",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 94.46431732177734,
+        "y": 31.60737419128418,
+        "width": 2.664796491656489,
+        "height": 2.664796491656489,
+        "componentId": "selected-3252-4008"
+      },
+      {
+        "nodeId": "3252:4009",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 41.8674201965332,
+        "y": 133.84580993652344,
+        "width": 97.3553695678711,
+        "height": 52.34159851074219,
+        "componentId": "selected-3252-4009"
+      },
+      {
+        "nodeId": "3252:4241",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 75.06111907958984,
+        "y": 172.24679565429688,
+        "width": 31.783910751342773,
+        "height": 7.898872375488281,
+        "componentId": "selected-3252-4241"
+      },
+      {
+        "nodeId": "3252:4242",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 83.21971893310547,
+        "y": 146.93170166015625,
+        "width": 23.030303955078125,
+        "height": 23.030303955078125,
+        "componentId": "selected-3252-4242"
+      },
+      {
+        "nodeId": "3252:4244",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 77.67411041259766,
+        "y": 138.76759338378906,
+        "width": 25.752073287963867,
+        "height": 25.752073287963867,
+        "componentId": "selected-3252-4244"
+      },
+      {
+        "nodeId": "3252:4245",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 79.5592269897461,
+        "y": 140.6516876220703,
+        "width": 21.983470916748047,
+        "height": 21.983470916748047,
+        "componentId": "selected-3252-4245"
+      },
+      {
+        "nodeId": "3252:4246",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 80.38524627685547,
+        "y": 142.28634643554688,
+        "width": 2.664797924649065,
+        "height": 2.664797924649065,
+        "componentId": "selected-3252-4246"
+      },
+      {
+        "nodeId": "3252:4247",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 98.8888168334961,
+        "y": 160.26751708984375,
+        "width": 2.664797924649065,
+        "height": 2.664797924649065,
+        "componentId": "selected-3252-4247"
+      },
+      {
+        "nodeId": "3252:4248",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 86.78890991210938,
+        "y": 147.0522918701172,
+        "width": 7.52619743347168,
+        "height": 9.18281364440918,
+        "componentId": "selected-3252-4248"
+      },
+      {
+        "nodeId": "3252:4249",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 20.9337100982666,
+        "y": 77.31835174560547,
+        "width": 97.3553695678711,
+        "height": 52.34159851074219,
+        "componentId": "selected-3252-4249"
+      },
+      {
+        "nodeId": "3252:4488",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 58.790245056152344,
+        "y": 115.71786499023438,
+        "width": 22.447742462158203,
+        "height": 7.898872375488281,
+        "componentId": "selected-3252-4488"
+      },
+      {
+        "nodeId": "3252:4489",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 171.1580047607422,
+        "y": 17.64942169189453,
+        "width": 115.67493438720703,
+        "height": 228.20936584472656,
+        "componentId": "selected-3252-4489"
+      },
+      {
+        "nodeId": "3252:4492",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 177.43801879882812,
+        "y": 23.92992401123047,
+        "width": 103.11294555664062,
+        "height": 116.19844818115234,
+        "componentId": "selected-3252-4492"
+      },
+      {
+        "nodeId": "3252:4493",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 177.43899536132812,
+        "y": 23.92992401123047,
+        "width": 103.11294555664062,
+        "height": 116.19844818115234,
+        "componentId": "selected-3252-4493"
+      },
+      {
+        "nodeId": "3252:4499",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 177.43899536132812,
+        "y": 107.67745971679688,
+        "width": 103.11294555664062,
+        "height": 131.9008331298828,
+        "componentId": "selected-3252-4499"
+      },
+      {
+        "nodeId": "3252:4516",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 195.23416137695312,
+        "y": 139.6048583984375,
+        "width": 68.56748962402344,
+        "height": 3.140495777130127,
+        "componentId": "selected-3252-4516"
+      },
+      {
+        "nodeId": "3252:4517",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 184.76583862304688,
+        "y": 214.45333862304688,
+        "width": 88.4572982788086,
+        "height": 16.749311447143555,
+        "componentId": "selected-3252-4517"
+      },
+      {
+        "nodeId": "3252:4518",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 207.21139526367188,
+        "y": 220.37857055664062,
+        "width": 43.078182220458984,
+        "height": 5.105925559997559,
+        "componentId": "selected-3252-4518"
+      },
+      {
+        "nodeId": "3252:4519",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 199.42967224121094,
+        "y": 114.39705657958984,
+        "width": 60.43151092529297,
+        "height": 17.963632583618164,
+        "componentId": "selected-3252-4519"
+      },
+      {
+        "src": "figma/selected/3252-4520/1e836.svg",
+        "x": 119.46969792938232,
+        "y": 104.14342585400391,
+        "width": 29.573,
+        "height": 0.785124
+      },
+      {
+        "src": "figma/selected/3252-4521/555a4.svg",
+        "x": 140.40634425956725,
+        "y": 158.57869044140625,
+        "width": 8.63636,
+        "height": 0.785124
+      },
+      {
+        "nodeId": "3252:4522",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 125.35812377929688,
+        "y": 133.84727478027344,
+        "width": 24.862258911132812,
+        "height": 86.36363983154297,
+        "componentId": "selected-3252-4522"
+      },
+      {
+        "nodeId": "3252:4523",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 136.08815002441406,
+        "y": 45.913394927978516,
+        "width": 34.54545593261719,
+        "height": 85.84037780761719,
+        "componentId": "selected-3252-4523"
+      },
+      {
+        "nodeId": "3252:4524",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 157.54820251464844,
+        "y": 130.706787109375,
+        "width": 2.0936639308929443,
+        "height": 2.0936639308929443,
+        "componentId": "selected-3252-4524"
+      },
+      {
+        "nodeId": "3252:4525",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "x": 136.611572265625,
+        "y": 219.16407775878906,
+        "width": 2.0936639308929443,
+        "height": 2.0936639308929443,
+        "componentId": "selected-3252-4525"
+      }
+    ],
+    "selectionOrder": 26,
+    "visualBounds": {
+      "x": 0,
+      "y": 0,
+      "width": 380,
+      "height": 282.1212158203125
+    }
+  },
+  {
+    "id": "cancellation-title-card",
+    "name": "Cancellation title card",
+    "nodeId": "41944:45575",
+    "width": 230,
+    "height": 250,
+    "children": [
+      {
+        "nodeId": "41944:45577",
+        "x": 0,
+        "y": 0,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "cancellation-card-base"
+      },
+      {
+        "nodeId": "41944:45578",
+        "x": 0,
+        "y": 0,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "cancellation-card-fill"
+      },
+      {
+        "x": -15,
+        "y": 178.125,
+        "width": 323.502,
+        "height": 164.403,
+        "rotation": -21.797248562604903,
+        "maskSrc": "figma/redrawing/41944-45579/vector-1.svg",
+        "children": [
+          {
+            "src": "figma/redrawing/41944-45579/vector-2.svg",
+            "x": -3.98123,
+            "y": 3.31367,
+            "width": 525.041,
+            "height": 276.838
+          }
+        ],
+        "geometryNote": "Preserve original Figma mask and vector layers; transform derived from native SVG dimensions and Figma rotated bounds."
+      },
+      {
+        "nodeId": "41944:48741",
+        "x": -95,
+        "y": 15.533117294311523,
+        "width": 363.7806410103367,
+        "height": 368.31952022081896,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "cancellation-card-glow"
+      },
+      {
+        "nodeId": "41944:48742",
+        "x": 0,
+        "y": 0,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "cancellation-card-border"
+      },
+      {
+        "nodeId": "41944:48743",
+        "x": 23,
+        "y": 149,
+        "width": 191,
+        "height": 48,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "cancellation-card-title"
+      },
+      {
+        "nodeId": "41944:48744",
+        "x": 66,
+        "y": 38,
+        "width": 98,
+        "height": 105,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "cancellation-card-icon"
+      }
+    ],
+    "clip": true,
+    "borderRadius": 20,
+    "role": "part",
+    "family": "redrawing",
+    "fileKey": "QBtFx8LtQPCcf7ra3pBWgw"
+  },
+  {
+    "id": "support-title-card",
+    "name": "Support title card",
+    "nodeId": "41944:52080",
+    "width": 230,
+    "height": 250,
+    "children": [
+      {
+        "nodeId": "41944:52082",
+        "x": 0,
+        "y": 0,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "support-card-base"
+      },
+      {
+        "nodeId": "41944:52083",
+        "x": 0,
+        "y": 0,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "support-card-fill"
+      },
+      {
+        "x": -15,
+        "y": 178.125,
+        "width": 323.502,
+        "height": 164.403,
+        "rotation": -21.797248562604903,
+        "maskSrc": "figma/redrawing/41944-52084/vector-1.svg",
+        "children": [
+          {
+            "src": "figma/redrawing/41944-52084/vector-2.svg",
+            "x": -3.98123,
+            "y": 3.31367,
+            "width": 525.041,
+            "height": 276.838
+          }
+        ],
+        "geometryNote": "Preserve original Figma mask and vector layers; transform derived from native SVG dimensions and Figma rotated bounds."
+      },
+      {
+        "nodeId": "41944:55246",
+        "x": -95,
+        "y": 15.533117294311523,
+        "width": 363.7806410103367,
+        "height": 368.31952022081896,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "support-card-glow"
+      },
+      {
+        "nodeId": "41944:55247",
+        "x": 0,
+        "y": 0,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "support-card-border"
+      },
+      {
+        "nodeId": "41944:55248",
+        "x": 21,
+        "y": 149,
+        "width": 189,
+        "height": 48,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "support-card-title"
+      },
+      {
+        "nodeId": "41944:55249",
+        "x": 66,
+        "y": 39,
+        "width": 98,
+        "height": 104,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "support-card-icon"
+      }
+    ],
+    "clip": true,
+    "borderRadius": 20,
+    "role": "part",
+    "family": "redrawing",
+    "fileKey": "QBtFx8LtQPCcf7ra3pBWgw"
+  },
+  {
+    "id": "appearance-title-card",
+    "name": "Appearance title card",
+    "nodeId": "41944:55467",
+    "width": 230,
+    "height": 250,
+    "children": [
+      {
+        "nodeId": "41944:55469",
+        "x": 0,
+        "y": 0,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-card-base"
+      },
+      {
+        "nodeId": "41944:55470",
+        "x": 0,
+        "y": 0,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-card-fill"
+      },
+      {
+        "x": -15,
+        "y": 178.125,
+        "width": 323.502,
+        "height": 164.403,
+        "rotation": -21.797248562604903,
+        "maskSrc": "figma/redrawing/41944-55471/vector-1.svg",
+        "children": [
+          {
+            "src": "figma/redrawing/41944-55471/vector-2.svg",
+            "x": -3.98123,
+            "y": 3.31367,
+            "width": 525.041,
+            "height": 276.838
+          }
+        ],
+        "geometryNote": "Preserve original Figma mask and vector layers; transform derived from native SVG dimensions and Figma rotated bounds."
+      },
+      {
+        "nodeId": "41944:58633",
+        "x": -95,
+        "y": 15.533117294311523,
+        "width": 363.7806410103367,
+        "height": 368.31952022081896,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-card-glow"
+      },
+      {
+        "nodeId": "41944:58634",
+        "x": 0,
+        "y": 0,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-card-border"
+      },
+      {
+        "nodeId": "41944:58635",
+        "x": 35,
+        "y": 149,
+        "width": 161,
+        "height": 48,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-card-title"
+      },
+      {
+        "nodeId": "41944:58636",
+        "x": 66,
+        "y": 39,
+        "width": 98,
+        "height": 104,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-card-icon"
+      }
+    ],
+    "clip": true,
+    "borderRadius": 20,
+    "role": "part",
+    "family": "redrawing",
+    "fileKey": "QBtFx8LtQPCcf7ra3pBWgw"
+  },
+  {
+    "id": "cancellation-feedback-title",
+    "name": "Discover cancellation causes",
+    "nodeId": "41944:45527",
+    "width": 488,
+    "height": 500,
+    "children": [
+      {
+        "nodeId": "41944:45528",
+        "x": -59.19129943847656,
+        "y": -82,
+        "width": 655.124755859375,
+        "height": 639.9290771484375,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "feedback-glow"
+      },
+      {
+        "nodeId": "41944:45531",
+        "x": 63,
+        "y": 137,
+        "width": 380,
+        "height": 227,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "feedback-table"
+      },
+      {
+        "nodeId": "41944:45573",
+        "x": 266,
+        "y": 30,
+        "width": 222,
+        "height": 440,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "feedback-subscription-phone"
+      },
+      {
+        "nodeId": "41944:45574",
+        "x": -1,
+        "y": -31,
+        "width": 531,
+        "height": 531,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "feedback-title-wash"
+      },
+      {
+        "nodeId": "41944:45575",
+        "x": 158,
+        "y": 148,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "cancellation-title-card"
+      }
+    ],
+    "role": "storyboard-state",
+    "family": "redrawing",
+    "fileKey": "QBtFx8LtQPCcf7ra3pBWgw"
+  },
+  {
+    "id": "subscription-support-title",
+    "name": "Automate subscription support",
+    "nodeId": "41944:52050",
+    "width": 488,
+    "height": 500,
+    "children": [
+      {
+        "nodeId": "41944:52051",
+        "x": -169.19522094726562,
+        "y": -82,
+        "width": 655.124755859375,
+        "height": 639.9290771484375,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "support-glow"
+      },
+      {
+        "nodeId": "41944:52054",
+        "x": 0,
+        "y": 52,
+        "width": 397,
+        "height": 397,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "support-orbit"
+      },
+      {
+        "nodeId": "41944:52057",
+        "x": 362,
+        "y": 215,
+        "width": 72,
+        "height": 72,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "refund-badge"
+      },
+      {
+        "nodeId": "41944:52065",
+        "x": 277,
+        "y": 321,
+        "width": 58,
+        "height": 58,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "cancel-badge"
+      },
+      {
+        "nodeId": "41944:52070",
+        "x": 277,
+        "y": 119,
+        "width": 58,
+        "height": 58,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "purchases-badge"
+      },
+      {
+        "nodeId": "41944:52078",
+        "x": 0,
+        "y": 30,
+        "width": 222,
+        "height": 440,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "support-subscription-phone"
+      },
+      {
+        "nodeId": "41944:52079",
+        "x": -35,
+        "y": -12,
+        "width": 531,
+        "height": 531,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "support-title-wash"
+      },
+      {
+        "nodeId": "41944:52080",
+        "x": 103,
+        "y": 129,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "support-title-card"
+      }
+    ],
+    "role": "storyboard-state",
+    "family": "redrawing",
+    "fileKey": "QBtFx8LtQPCcf7ra3pBWgw"
+  },
+  {
+    "id": "appearance-editor-title",
+    "name": "Easily customize interface",
+    "nodeId": "41944:55438",
+    "width": 488,
+    "height": 500,
+    "children": [
+      {
+        "nodeId": "41944:55439",
+        "x": -59.19129943847656,
+        "y": -82,
+        "width": 655.124755859375,
+        "height": 639.9290771484375,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-glow"
+      },
+      {
+        "nodeId": "41944:55442",
+        "x": 415,
+        "y": 76,
+        "width": 6,
+        "height": 6,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-close-icon"
+      },
+      {
+        "nodeId": "41944:55445",
+        "x": 79,
+        "y": 124,
+        "width": 290,
+        "height": 252,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-settings-panel"
+      },
+      {
+        "nodeId": "41944:55465",
+        "x": 266,
+        "y": 30,
+        "width": 222,
+        "height": 440,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-subscription-phone"
+      },
+      {
+        "nodeId": "41944:55466",
+        "x": 3,
+        "y": -16,
+        "width": 531,
+        "height": 531,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-title-wash"
+      },
+      {
+        "nodeId": "41944:55467",
+        "x": 151,
+        "y": 125,
+        "width": 230,
+        "height": 250,
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "componentId": "appearance-title-card"
+      }
+    ],
+    "role": "storyboard-state",
+    "family": "redrawing",
+    "fileKey": "QBtFx8LtQPCcf7ra3pBWgw"
+  }
+]

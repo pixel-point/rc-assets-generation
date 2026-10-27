@@ -1,0 +1,44 @@
+{
+  "name": "revenuecat-assets-generation",
+  "version": "0.2.1",
+  "description": "Standalone RevenueCat illustration and animation kit for Codex and Claude Code",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.535",
+    "@remotion/fonts": "4.0.535",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.535",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.535",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.39.5",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "preview": "node scripts/preview.mjs",
+    "dev": "node scripts/preview.mjs",
+    "export:png": "node scripts/export.mjs png",
+    "export:mp4": "node scripts/export.mjs mp4",
+    "build": "remotion bundle",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src",
+    "catalog": "node scripts/catalog.mjs",
+    "motion:check": "node scripts/motion-check.mjs",
+    "generate": "node scripts/generate.mjs",
+    "gallery": "node scripts/build-gallery.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixel-point/rc-assets-generation.git"
+  },
+  "homepage": "https://github.com/pixel-point/rc-assets-generation#readme"
+}

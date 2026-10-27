@@ -1,0 +1,63 @@
+{
+  "title": "customer-center",
+  "width": 600,
+  "height": 600,
+  "fps": 30,
+  "durationFrames": 240,
+  "posterFrame": 225,
+  "background": "#FFFFFF",
+  "layers": [
+    {
+      "id": "state-1",
+      "type": "illustration",
+      "illustrationId": "customer-center-subscription",
+      "x": 51,
+      "y": 61,
+      "startFrame": 0,
+      "durationFrames": 60,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 10
+      }
+    },
+    {
+      "id": "state-2",
+      "type": "illustration",
+      "illustrationId": "customer-center-cancel-reason",
+      "x": 51,
+      "y": 61,
+      "startFrame": 60,
+      "durationFrames": 60,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 10
+      }
+    },
+    {
+      "id": "state-3",
+      "type": "illustration",
+      "illustrationId": "customer-center-retention-offer",
+      "x": 51,
+      "y": 61,
+      "startFrame": 120,
+      "durationFrames": 60,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 10
+      }
+    },
+    {
+      "id": "state-4",
+      "type": "illustration",
+      "illustrationId": "customer-center-app-settings",
+      "x": 51,
+      "y": 61,
+      "startFrame": 180,
+      "durationFrames": 60,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 10
+      }
+    }
+  ]
+}

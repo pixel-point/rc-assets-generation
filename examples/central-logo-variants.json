@@ -1,0 +1,86 @@
+{
+  "title": "Your logo, same illustration",
+  "width": 1200,
+  "height": 760,
+  "fps": 30,
+  "durationFrames": 120,
+  "posterFrame": 90,
+  "background": "#FFFFFF",
+  "layers": [
+    {
+      "type": "text",
+      "id": "title",
+      "text": "Your logo. Same illustration.",
+      "x": 70,
+      "y": 50,
+      "width": 1060,
+      "font": "heading",
+      "fontSize": 50,
+      "color": "#1F1F47"
+    },
+    {
+      "type": "text",
+      "id": "subtitle",
+      "text": "One named component, two independent instances.",
+      "x": 73,
+      "y": 124,
+      "width": 1040,
+      "font": "body",
+      "fontSize": 24,
+      "color": "#3D3D5C"
+    },
+    {
+      "type": "illustration",
+      "id": "original",
+      "illustrationId": "selected-3252-41868",
+      "x": 142,
+      "y": 225,
+      "scale": 1,
+      "startFrame": 4,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 24
+      }
+    },
+    {
+      "type": "illustration",
+      "id": "custom",
+      "illustrationId": "selected-3252-41868",
+      "props": {
+        "centralLogo": "figma/library/2006debe8a81-429ed.svg"
+      },
+      "x": 718,
+      "y": 225,
+      "scale": 1,
+      "startFrame": 14,
+      "enter": {
+        "type": "slide",
+        "durationFrames": 24,
+        "y": 24
+      }
+    },
+    {
+      "type": "text",
+      "id": "original-label",
+      "text": "Original Adjust logo",
+      "x": 76,
+      "y": 660,
+      "width": 490,
+      "font": "heading",
+      "fontSize": 22,
+      "color": "#1F1F47"
+    },
+    {
+      "type": "text",
+      "id": "custom-label",
+      "text": "Custom Android logo",
+      "x": 652,
+      "y": 660,
+      "width": 490,
+      "font": "heading",
+      "fontSize": 22,
+      "color": "#1F1F47"
+    }
+  ]
+}

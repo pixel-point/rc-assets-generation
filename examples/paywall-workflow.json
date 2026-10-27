@@ -1,0 +1,76 @@
+{
+  "title": "paywall-workflow",
+  "width": 992,
+  "height": 704,
+  "fps": 30,
+  "durationFrames": 300,
+  "posterFrame": 285,
+  "background": "#FFFFFF",
+  "layers": [
+    {
+      "id": "state-1",
+      "type": "illustration",
+      "illustrationId": "ai-paywall-start",
+      "x": 0,
+      "y": 0,
+      "startFrame": 0,
+      "durationFrames": 60,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 10
+      }
+    },
+    {
+      "id": "state-2",
+      "type": "illustration",
+      "illustrationId": "ai-paywall-upload",
+      "x": 0,
+      "y": 0,
+      "startFrame": 60,
+      "durationFrames": 60,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 10
+      }
+    },
+    {
+      "id": "state-3",
+      "type": "illustration",
+      "illustrationId": "ai-paywall-prompt",
+      "x": 0,
+      "y": 0,
+      "startFrame": 120,
+      "durationFrames": 60,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 10
+      }
+    },
+    {
+      "id": "state-4",
+      "type": "illustration",
+      "illustrationId": "ai-paywall-generating",
+      "x": 0,
+      "y": 0,
+      "startFrame": 180,
+      "durationFrames": 60,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 10
+      }
+    },
+    {
+      "id": "state-5",
+      "type": "illustration",
+      "illustrationId": "ai-paywall-complete",
+      "x": 0,
+      "y": 0,
+      "startFrame": 240,
+      "durationFrames": 60,
+      "enter": {
+        "type": "fade",
+        "durationFrames": 10
+      }
+    }
+  ]
+}

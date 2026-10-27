@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "revenuecat-assets-generation",
+  "version": "0.2.1",
+  "author": {
+    "name": "RevenueCat assets prototype maintainers"
+  },
+  "description": "Compose RevenueCat illustrations and animations from bundled Figma artwork, preview locally, and export PNG or MP4.",
+  "license": "UNLICENSED",
+  "keywords": [
+    "revenuecat",
+    "illustration",
+    "animation",
+    "remotion"
+  ]
+}

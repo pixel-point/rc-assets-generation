@@ -1,0 +1,21 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="258.726" height="97.8885" viewBox="0 0 258.726 97.8885" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="graph">
+<path id="Vector 5293" d="M145.404 64.8311L117.16 9.62838V97.8885H258.697V71.8919L244.897 59.696L229.17 65.152L212.802 59.696L190.657 64.8311L165.623 59.696L145.404 64.8311Z" fill="url(#paint0_linear_0_11)" fill-opacity="0.7"/>
+<path id="Vector 5292" d="M28.9002 6.09798L0.335983 30.8108V97.8885H117.16V9.62838L103.36 13.4797L78.6468 2.24663L57.4644 9.62838L28.9002 6.09798Z" fill="url(#paint1_linear_0_11)" fill-opacity="0.5"/>
+<path id="Vector 5289" d="M0.335983 30.8108L28.9002 6.09798L57.4644 9.62838L78.6468 2.24663L103.36 13.4797L117.16 9.62838" stroke-width="1.02703" stroke="#ECECEF"/>
+<path id="Vector 5294" d="M117.16 9.62838L145.404 65.152L165.623 59.696L190.657 65.152L212.802 59.696L229.17 65.152L244.897 59.696L258.377 72.2128" stroke-width="1.02703" stroke="#11D483"/>
+<circle id="Ellipse 43965" cx="117.16" cy="9.62838" r="9.62838" fill="#11D483" fill-opacity="0.06"/>
+<circle id="Ellipse 43970" cx="117.161" cy="9.62829" r="6.6658" fill="#11D483" fill-opacity="0.1"/>
+<path id="Ellipse 44016" d="M119.856 9.62838C119.856 11.1173 118.649 12.3243 117.16 12.3243C115.671 12.3243 114.464 11.1173 114.464 9.62838C114.464 8.13945 115.671 6.93244 117.16 6.93244C118.649 6.93244 119.856 8.13945 119.856 9.62838Z" fill="white" stroke-width="1.02703" stroke="#11D483"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_11" x1="129.517" y1="2.24663" x2="129.427" y2="87.616" gradientUnits="userSpaceOnUse">
+<stop stop-color="#11D483"/>
+<stop offset="1" stop-color="#11D483" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_11" x1="129.517" y1="2.24663" x2="129.434" y2="80.8783" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BAB9C6" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#BAB9C6" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

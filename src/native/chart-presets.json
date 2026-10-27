@@ -1,0 +1,1959 @@
+[
+  {
+    "id": "native-trial-rate-chart",
+    "name": "Trial Rate",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "line"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-41046",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41046"
+      },
+      {
+        "componentId": "selected-3252-41041",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41041"
+      },
+      {
+        "componentId": "selected-3252-41218",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41218"
+      },
+      {
+        "componentId": "original-amplitude-trial-rate-paywall",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:85497"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Trial Rate",
+      "showLegend": false,
+      "showPoints": true,
+      "showAxes": false,
+      "showGrid": true,
+      "format": {
+        "decimals": 0
+      },
+      "kind": "line",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "1"
+        },
+        {
+          "id": "p2",
+          "label": "2"
+        },
+        {
+          "id": "p3",
+          "label": "3"
+        },
+        {
+          "id": "p4",
+          "label": "4"
+        },
+        {
+          "id": "p5",
+          "label": "5"
+        },
+        {
+          "id": "p6",
+          "label": "6"
+        },
+        {
+          "id": "p7",
+          "label": "7"
+        },
+        {
+          "id": "p8",
+          "label": "8"
+        },
+        {
+          "id": "p9",
+          "label": "9"
+        },
+        {
+          "id": "p10",
+          "label": "10"
+        }
+      ],
+      "series": [
+        {
+          "id": "subscribers",
+          "label": "Subscribers",
+          "color": "#576CDB",
+          "values": [
+            10,
+            33,
+            58,
+            35,
+            61,
+            83,
+            59,
+            84,
+            36,
+            48
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 100
+      },
+      "metrics": [
+        {
+          "id": "subscribers",
+          "label": "Subscribers",
+          "value": 14274,
+          "color": "#576CDB"
+        },
+        {
+          "id": "trials",
+          "label": "Trials",
+          "value": 549,
+          "color": "#11D483"
+        },
+        {
+          "id": "mrr",
+          "label": "MRR",
+          "value": 81,
+          "color": "#F2545B",
+          "format": {
+            "prefix": "$",
+            "suffix": "k"
+          }
+        }
+      ]
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-membership-churn-chart",
+    "name": "Monthly membership churn",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "line"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-41323",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41323"
+      },
+      {
+        "componentId": "selected-3252-41318",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41318"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Monthly membership churn",
+      "showLegend": false,
+      "showPoints": true,
+      "showAxes": false,
+      "showGrid": true,
+      "format": {
+        "decimals": 0
+      },
+      "kind": "line",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Jan"
+        },
+        {
+          "id": "p2",
+          "label": "Feb"
+        },
+        {
+          "id": "p3",
+          "label": "Mar"
+        },
+        {
+          "id": "p4",
+          "label": "Apr"
+        },
+        {
+          "id": "p5",
+          "label": "May"
+        },
+        {
+          "id": "p6",
+          "label": "Jun"
+        },
+        {
+          "id": "p7",
+          "label": "Jul"
+        },
+        {
+          "id": "p8",
+          "label": "Aug"
+        }
+      ],
+      "series": [
+        {
+          "id": "churn",
+          "label": "Churn",
+          "color": "#576CDB",
+          "values": [
+            72,
+            88,
+            34,
+            48,
+            15,
+            28,
+            14,
+            30
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 100
+      },
+      "annotation": {
+        "categoryId": "p4",
+        "label": "+5% in Q2 2025",
+        "color": "#F2545B"
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-user-winback-chart",
+    "name": "Winback of users",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "bar"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-41443",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41443"
+      },
+      {
+        "componentId": "selected-3252-41402",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41402"
+      }
+    ],
+    "dataProvenance": "The 0–8% axis is native source copy; bar values approximate the exported heights.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Winback of users",
+      "showLegend": true,
+      "showPoints": false,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "suffix": "%",
+        "decimals": 0
+      },
+      "kind": "bar",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Winback"
+        }
+      ],
+      "series": [
+        {
+          "id": "average",
+          "label": "Average",
+          "color": "#11D483",
+          "values": [
+            2.8
+          ]
+        },
+        {
+          "id": "android",
+          "label": "Android",
+          "color": "#576CDB",
+          "values": [
+            6.8
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 8
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-subscription-stack-chart",
+    "name": "PhotoRoom Analytics",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "stacked-bar"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-41647",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41647"
+      },
+      {
+        "componentId": "selected-3252-41627",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41627"
+      },
+      {
+        "componentId": "selected-3252-41525",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41525"
+      },
+      {
+        "componentId": "selected-3252-41490",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41490"
+      },
+      {
+        "componentId": "original-amplitude-subscription-analytics",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:86007"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "PhotoRoom Analytics",
+      "showLegend": true,
+      "showPoints": false,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "decimals": 0
+      },
+      "kind": "stacked-bar",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Mon"
+        },
+        {
+          "id": "p2",
+          "label": "Tue"
+        },
+        {
+          "id": "p3",
+          "label": "Wed"
+        },
+        {
+          "id": "p4",
+          "label": "Thu"
+        },
+        {
+          "id": "p5",
+          "label": "Fri"
+        },
+        {
+          "id": "p6",
+          "label": "Sat"
+        },
+        {
+          "id": "p7",
+          "label": "Sun"
+        }
+      ],
+      "series": [
+        {
+          "id": "base",
+          "label": "Subscriptions",
+          "color": "#F2545B",
+          "values": [
+            18,
+            31,
+            16,
+            17,
+            25,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "renewal",
+          "label": "Renewals",
+          "color": "#11D483",
+          "values": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            27,
+            27
+          ]
+        },
+        {
+          "id": "trials",
+          "label": "Trials",
+          "color": "#576CDB",
+          "values": [
+            13,
+            15,
+            20,
+            6,
+            3,
+            12,
+            7
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 50
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-refund-rate-chart",
+    "name": "Refund Rate",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "area"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-72829",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:72829"
+      },
+      {
+        "componentId": "selected-3252-72805",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:72805"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Refund Rate",
+      "showLegend": false,
+      "showPoints": false,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "suffix": "%"
+      },
+      "kind": "area",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Mar"
+        },
+        {
+          "id": "p2",
+          "label": "Apr"
+        },
+        {
+          "id": "p3",
+          "label": "May"
+        },
+        {
+          "id": "p4",
+          "label": "Jun"
+        },
+        {
+          "id": "p5",
+          "label": "Jul"
+        },
+        {
+          "id": "p6",
+          "label": "Aug"
+        }
+      ],
+      "series": [
+        {
+          "id": "refunds",
+          "label": "Refund rate",
+          "color": "#11D483",
+          "values": [
+            78,
+            95,
+            87,
+            28,
+            32,
+            24
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 100
+      },
+      "annotation": {
+        "categoryId": "p3",
+        "label": "Refund Control Active",
+        "color": "#11D483"
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-subscription-metrics-chart",
+    "name": "Subscription Metrics",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "line"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-75058",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:75058"
+      },
+      {
+        "componentId": "selected-3252-92169",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:92169"
+      },
+      {
+        "componentId": "selected-3252-92104",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:92104"
+      },
+      {
+        "componentId": "selected-3252-1578",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:1578"
+      },
+      {
+        "componentId": "selected-3252-1832",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:1832"
+      },
+      {
+        "componentId": "selected-3252-75052",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:75052"
+      },
+      {
+        "componentId": "selected-3252-75383",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:75383"
+      },
+      {
+        "componentId": "selected-3252-75522",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:75522"
+      },
+      {
+        "componentId": "selected-3252-75665",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:75665"
+      },
+      {
+        "componentId": "selected-3252-75808",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:75808"
+      },
+      {
+        "componentId": "selected-3252-75945",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:75945"
+      },
+      {
+        "componentId": "original-marketing-template-41926-46726",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:137726"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Subscription Metrics",
+      "showLegend": false,
+      "showPoints": true,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "decimals": 0
+      },
+      "kind": "line",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Jan"
+        },
+        {
+          "id": "p2",
+          "label": "Feb"
+        },
+        {
+          "id": "p3",
+          "label": "Mar"
+        },
+        {
+          "id": "p4",
+          "label": "Apr"
+        },
+        {
+          "id": "p5",
+          "label": "May"
+        },
+        {
+          "id": "p6",
+          "label": "Jun"
+        },
+        {
+          "id": "p7",
+          "label": "Jul"
+        },
+        {
+          "id": "p8",
+          "label": "Aug"
+        }
+      ],
+      "series": [
+        {
+          "id": "subscribers",
+          "label": "Subscribers",
+          "color": "#576CDB",
+          "values": [
+            400,
+            1700,
+            1100,
+            2400,
+            2100,
+            3000,
+            3400,
+            2800
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 4000
+      },
+      "metrics": [
+        {
+          "id": "subscribers",
+          "label": "Subscribers",
+          "value": 12178,
+          "color": "#576CDB"
+        },
+        {
+          "id": "trials",
+          "label": "Trials",
+          "value": 624,
+          "color": "#11D483"
+        },
+        {
+          "id": "mrr",
+          "label": "MRR",
+          "value": 81,
+          "color": "#F2545B",
+          "format": {
+            "prefix": "$",
+            "suffix": "k"
+          }
+        }
+      ]
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-mrr-movement-chart",
+    "name": "MRR Movement",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "diverging-bar"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-75172",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:75172"
+      },
+      {
+        "componentId": "selected-3252-75166",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:75166"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "MRR Movement",
+      "showLegend": true,
+      "showPoints": false,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "prefix": "$",
+        "suffix": "k"
+      },
+      "kind": "diverging-bar",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Jan"
+        },
+        {
+          "id": "p2",
+          "label": "Feb"
+        },
+        {
+          "id": "p3",
+          "label": "Mar"
+        },
+        {
+          "id": "p4",
+          "label": "Apr"
+        },
+        {
+          "id": "p5",
+          "label": "May"
+        },
+        {
+          "id": "p6",
+          "label": "Jun"
+        },
+        {
+          "id": "p7",
+          "label": "Jul"
+        },
+        {
+          "id": "p8",
+          "label": "Aug"
+        },
+        {
+          "id": "p9",
+          "label": "Sep"
+        },
+        {
+          "id": "p10",
+          "label": "Oct"
+        },
+        {
+          "id": "p11",
+          "label": "Nov"
+        }
+      ],
+      "series": [
+        {
+          "id": "new",
+          "label": "New MRR",
+          "color": "#F2545B",
+          "values": [
+            45,
+            52,
+            58,
+            58,
+            52,
+            58,
+            90,
+            66,
+            45,
+            33,
+            33
+          ]
+        },
+        {
+          "id": "churned",
+          "label": "Churned MRR",
+          "color": "#576CDB",
+          "values": [
+            -30,
+            -48,
+            -62,
+            -88,
+            -44,
+            -26,
+            -50,
+            -46,
+            -30,
+            -14,
+            -14
+          ]
+        },
+        {
+          "id": "net",
+          "label": "Net MRR",
+          "color": "#3D3D5C",
+          "values": [
+            15,
+            4,
+            -4,
+            -30,
+            8,
+            32,
+            40,
+            20,
+            15,
+            19,
+            19
+          ],
+          "renderAs": "line"
+        }
+      ],
+      "domain": {
+        "min": -100,
+        "max": 100
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-trial-conversion-chart",
+    "name": "Trial Conversion Rate",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "line"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-93395",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:93395"
+      },
+      {
+        "componentId": "original-paywalls-41930-75866",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:139977"
+      },
+      {
+        "componentId": "selected-3252-93394",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:93394"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Trial Conversion Rate",
+      "showLegend": false,
+      "showPoints": true,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "suffix": "%"
+      },
+      "kind": "line",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Sep 18"
+        },
+        {
+          "id": "p2",
+          "label": "Sep 19"
+        },
+        {
+          "id": "p3",
+          "label": "Sep 20"
+        },
+        {
+          "id": "p4",
+          "label": "Sep 21"
+        },
+        {
+          "id": "p5",
+          "label": "Sep 22"
+        }
+      ],
+      "series": [
+        {
+          "id": "conversion",
+          "label": "Conversion",
+          "color": "#F2545B",
+          "values": [
+            25,
+            29,
+            26,
+            28,
+            25
+          ],
+          "dashed": true
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 45
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-revenue-growth-chart",
+    "name": "Revenue Growth",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "area"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-93832",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:93832"
+      },
+      {
+        "componentId": "original-partner-page-new-41930-88614",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:140376"
+      },
+      {
+        "componentId": "selected-3252-93808",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:93808"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Revenue Growth",
+      "showLegend": false,
+      "showPoints": false,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "prefix": "$",
+        "suffix": "k"
+      },
+      "kind": "area",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Mar"
+        },
+        {
+          "id": "p2",
+          "label": "Apr"
+        },
+        {
+          "id": "p3",
+          "label": "May"
+        },
+        {
+          "id": "p4",
+          "label": "Jun"
+        },
+        {
+          "id": "p5",
+          "label": "Jul"
+        },
+        {
+          "id": "p6",
+          "label": "Aug"
+        }
+      ],
+      "series": [
+        {
+          "id": "revenue",
+          "label": "Revenue",
+          "color": "#11D483",
+          "values": [
+            20,
+            30,
+            25,
+            88,
+            95,
+            60
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 100
+      },
+      "annotation": {
+        "categoryId": "p4",
+        "label": "Partner support active",
+        "color": "#11D483"
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-refund-requests-chart",
+    "name": "App Store Refund Request",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "stacked-bar"
+    ],
+    "sources": [
+      {
+        "componentId": "refund-control-page-03",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:50949"
+      },
+      {
+        "componentId": "selected-3252-7239",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:7239"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "App Store Refund Request",
+      "showLegend": true,
+      "showPoints": false,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "decimals": 0
+      },
+      "kind": "stacked-bar",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Oct 31"
+        },
+        {
+          "id": "p2",
+          "label": "Nov 1"
+        },
+        {
+          "id": "p3",
+          "label": "Nov 2"
+        },
+        {
+          "id": "p4",
+          "label": "Nov 3"
+        },
+        {
+          "id": "p5",
+          "label": "Nov 4"
+        },
+        {
+          "id": "p6",
+          "label": "Nov 5"
+        },
+        {
+          "id": "p7",
+          "label": "Nov 6"
+        }
+      ],
+      "series": [
+        {
+          "id": "declined",
+          "label": "Refund Declined",
+          "color": "#F2545B",
+          "values": [
+            15,
+            26,
+            14,
+            15,
+            20,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "unresolved",
+          "label": "No Resolution",
+          "color": "#11D483",
+          "values": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            21,
+            21
+          ]
+        },
+        {
+          "id": "granted",
+          "label": "Refund Granted",
+          "color": "#576CDB",
+          "values": [
+            10,
+            13,
+            15,
+            4,
+            2,
+            11,
+            6
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 50
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-mrr-trend-chart",
+    "name": "MRR Movement",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "line"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-74935",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:74935"
+      },
+      {
+        "componentId": "selected-3252-74933",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:74933"
+      },
+      {
+        "componentId": "selected-3252-74467",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:74467"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "MRR Movement",
+      "showLegend": true,
+      "showPoints": false,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "prefix": "$",
+        "suffix": "M",
+        "decimals": 1
+      },
+      "kind": "line",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Jan"
+        },
+        {
+          "id": "p2",
+          "label": "Feb"
+        },
+        {
+          "id": "p3",
+          "label": "Mar"
+        },
+        {
+          "id": "p4",
+          "label": "Apr"
+        },
+        {
+          "id": "p5",
+          "label": "May"
+        },
+        {
+          "id": "p6",
+          "label": "Jun"
+        },
+        {
+          "id": "p7",
+          "label": "Jul"
+        }
+      ],
+      "series": [
+        {
+          "id": "mrr",
+          "label": "MRR",
+          "color": "#F2545B",
+          "values": [
+            0.7,
+            1.2,
+            1,
+            2.1,
+            2.5,
+            2.3,
+            3
+          ]
+        },
+        {
+          "id": "revenue",
+          "label": "Revenue",
+          "color": "#11D483",
+          "values": [
+            0.4,
+            0.8,
+            1.1,
+            1.6,
+            2.1,
+            2.8,
+            3.4
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 4
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-trial-duration-donut",
+    "name": "Trial Duration",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "donut"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-23766",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:23766"
+      },
+      {
+        "componentId": "selected-3252-23889",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:23889"
+      },
+      {
+        "componentId": "selected-3252-24012",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:24012"
+      },
+      {
+        "componentId": "selected-3252-24135",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:24135"
+      },
+      {
+        "componentId": "selected-3252-41525",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41525"
+      },
+      {
+        "componentId": "selected-3252-41490",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41490"
+      },
+      {
+        "componentId": "original-amplitude-subscription-analytics",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:86007"
+      }
+    ],
+    "dataProvenance": "Slice shares approximate the source donut geometry; source legend labels were skeleton placeholders, so these are editable illustrative labels.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Trial Duration",
+      "showLegend": false,
+      "showPoints": false,
+      "showAxes": false,
+      "showGrid": false,
+      "format": {
+        "suffix": "%"
+      },
+      "kind": "donut",
+      "categories": [
+        {
+          "id": "long",
+          "label": "Long trials",
+          "color": "#F2545B"
+        },
+        {
+          "id": "short",
+          "label": "Short trials",
+          "color": "#576CDB"
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#D5D9DD"
+        }
+      ],
+      "series": [
+        {
+          "id": "duration",
+          "label": "Share",
+          "color": "#576CDB",
+          "values": [
+            66,
+            22,
+            12
+          ]
+        }
+      ]
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-renewal-rates-chart",
+    "name": "First Three Weekly Renewal Rates",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "line"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-23766",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:23766"
+      },
+      {
+        "componentId": "selected-3252-23889",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:23889"
+      },
+      {
+        "componentId": "selected-3252-24012",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:24012"
+      },
+      {
+        "componentId": "selected-3252-24135",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:24135"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "First Three Weekly Renewal Rates",
+      "showLegend": true,
+      "showPoints": true,
+      "showAxes": false,
+      "showGrid": true,
+      "format": {
+        "decimals": 0
+      },
+      "kind": "line",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "First"
+        },
+        {
+          "id": "p2",
+          "label": "Second"
+        },
+        {
+          "id": "p3",
+          "label": "Third"
+        }
+      ],
+      "series": [
+        {
+          "id": "upper",
+          "label": "Upper Quartile",
+          "color": "#11D483",
+          "values": [
+            72,
+            76,
+            51
+          ]
+        },
+        {
+          "id": "median",
+          "label": "Median",
+          "color": "#576CDB",
+          "values": [
+            81,
+            65,
+            82
+          ]
+        },
+        {
+          "id": "lower",
+          "label": "Lower Quartile",
+          "color": "#F2545B",
+          "values": [
+            64,
+            53,
+            73
+          ]
+        }
+      ],
+      "domain": {
+        "min": 40,
+        "max": 90
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-monetization-mix-chart",
+    "name": "Monetization Mix",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "stacked-bar"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-23766",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:23766"
+      },
+      {
+        "componentId": "selected-3252-23889",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:23889"
+      },
+      {
+        "componentId": "selected-3252-24012",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:24012"
+      },
+      {
+        "componentId": "selected-3252-24135",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:24135"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Monetization Mix",
+      "showLegend": true,
+      "showPoints": false,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "suffix": "%"
+      },
+      "kind": "stacked-bar",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Overall"
+        },
+        {
+          "id": "p2",
+          "label": "Travel"
+        },
+        {
+          "id": "p3",
+          "label": "Gaming"
+        },
+        {
+          "id": "p4",
+          "label": "Health"
+        },
+        {
+          "id": "p5",
+          "label": "Media"
+        }
+      ],
+      "series": [
+        {
+          "id": "subscription",
+          "label": "Subscriptions",
+          "color": "#F2545B",
+          "values": [
+            61,
+            61,
+            43,
+            64,
+            35
+          ]
+        },
+        {
+          "id": "purchase",
+          "label": "Purchases",
+          "color": "#576CDB",
+          "values": [
+            19,
+            31,
+            27,
+            19,
+            50
+          ]
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#11D483",
+          "values": [
+            20,
+            8,
+            30,
+            17,
+            15
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 100
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-customer-ltv-chart",
+    "name": "Realized LTV per Customer",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "line"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-9481",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:9481"
+      },
+      {
+        "componentId": "selected-3252-9367",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:9367"
+      },
+      {
+        "componentId": "selected-3252-345",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:345"
+      },
+      {
+        "componentId": "web-button-section-02",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:49506"
+      },
+      {
+        "componentId": "selected-3252-24423",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:24423"
+      },
+      {
+        "componentId": "selected-3252-5766",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:5766"
+      },
+      {
+        "componentId": "selected-3252-41525",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41525"
+      },
+      {
+        "componentId": "selected-3252-41490",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:41490"
+      },
+      {
+        "componentId": "original-amplitude-subscription-analytics",
+        "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+        "nodeId": "41938:86007"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Realized LTV per Customer",
+      "showLegend": true,
+      "showPoints": false,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "prefix": "$"
+      },
+      "kind": "line",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Jan"
+        },
+        {
+          "id": "p2",
+          "label": "Feb"
+        },
+        {
+          "id": "p3",
+          "label": "Mar"
+        },
+        {
+          "id": "p4",
+          "label": "Apr"
+        },
+        {
+          "id": "p5",
+          "label": "May"
+        },
+        {
+          "id": "p6",
+          "label": "Jun"
+        }
+      ],
+      "series": [
+        {
+          "id": "android",
+          "label": "Android",
+          "color": "#11D483",
+          "values": [
+            12,
+            34,
+            30,
+            52,
+            62,
+            81
+          ]
+        },
+        {
+          "id": "apple",
+          "label": "Apple",
+          "color": "#576CDB",
+          "values": [
+            8,
+            24,
+            45,
+            41,
+            70,
+            90
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 100
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-paywall-experiment-chart",
+    "name": "Paywall Experiment",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "line"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-26368",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:26368"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Paywall Experiment",
+      "showLegend": true,
+      "showPoints": false,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "suffix": "%"
+      },
+      "kind": "line",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "May 08"
+        },
+        {
+          "id": "p2",
+          "label": "May 09"
+        },
+        {
+          "id": "p3",
+          "label": "May 10"
+        },
+        {
+          "id": "p4",
+          "label": "May 11"
+        },
+        {
+          "id": "p5",
+          "label": "May 12"
+        },
+        {
+          "id": "p6",
+          "label": "May 13"
+        }
+      ],
+      "series": [
+        {
+          "id": "variant-a",
+          "label": "Variant A",
+          "color": "#576CDB",
+          "values": [
+            20,
+            24,
+            22,
+            26,
+            25,
+            24.97
+          ]
+        },
+        {
+          "id": "variant-b",
+          "label": "Variant B",
+          "color": "#11D483",
+          "values": [
+            18,
+            25,
+            24,
+            29,
+            27,
+            25.85
+          ]
+        },
+        {
+          "id": "variant-c",
+          "label": "Variant C",
+          "color": "#F2545B",
+          "values": [
+            19,
+            22,
+            25,
+            23,
+            22,
+            23.15
+          ]
+        },
+        {
+          "id": "variant-d",
+          "label": "Variant D",
+          "color": "#3D3D5C",
+          "values": [
+            15,
+            18,
+            16,
+            19,
+            18,
+            17.45
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 100
+      }
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  },
+  {
+    "id": "native-art-paywall-growth-chart",
+    "name": "Subscription Growth",
+    "width": 560,
+    "height": 340,
+    "kind": "chart",
+    "role": "part",
+    "family": "native",
+    "tags": [
+      "native",
+      "data-driven",
+      "chart",
+      "line"
+    ],
+    "sources": [
+      {
+        "componentId": "selected-3252-72881",
+        "fileKey": "kAngSWapljVFOOUAen6APm",
+        "nodeId": "3252:72881"
+      }
+    ],
+    "dataProvenance": "Chart values are illustrative reconstructions of the exported shape, not recovered source measurements.",
+    "defaults": {
+      "width": 560,
+      "height": 340,
+      "title": "Subscription Growth",
+      "showLegend": false,
+      "showPoints": true,
+      "showAxes": true,
+      "showGrid": true,
+      "format": {
+        "decimals": 0
+      },
+      "kind": "line",
+      "categories": [
+        {
+          "id": "p1",
+          "label": "Jan"
+        },
+        {
+          "id": "p2",
+          "label": "Feb"
+        },
+        {
+          "id": "p3",
+          "label": "Mar"
+        },
+        {
+          "id": "p4",
+          "label": "Apr"
+        },
+        {
+          "id": "p5",
+          "label": "May"
+        },
+        {
+          "id": "p6",
+          "label": "Jun"
+        }
+      ],
+      "series": [
+        {
+          "id": "subscribers",
+          "label": "Subscribers",
+          "color": "#576CDB",
+          "values": [
+            300,
+            1200,
+            1800,
+            1500,
+            2700,
+            3100
+          ]
+        }
+      ],
+      "domain": {
+        "min": 0,
+        "max": 4000
+      },
+      "metrics": [
+        {
+          "id": "subscribers",
+          "label": "Subscribers",
+          "value": 12830,
+          "color": "#576CDB"
+        },
+        {
+          "id": "trials",
+          "label": "Trials",
+          "value": 482,
+          "color": "#11D483"
+        },
+        {
+          "id": "mrr",
+          "label": "MRR",
+          "value": 64,
+          "color": "#F2545B",
+          "format": {
+            "prefix": "$",
+            "suffix": "k"
+          }
+        }
+      ]
+    },
+    "sourceMappingNote": "Links identify related data units inside source artwork. Defaults follow the representative preset; parent layout, variant values, colors and cropping may differ. Source illustrations remain unchanged."
+  }
+]

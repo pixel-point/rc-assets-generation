@@ -1,0 +1,98 @@
+import {EditableArtwork} from "../EditableArtwork";
+// Generated from Figma node 3252:75014; run scripts/import-designs.mjs to rebuild.
+
+export default function Figma_kAngSWapljVFOOUAen6APm_3252_75014() {
+    return <EditableArtwork componentId="selected-3252-75014">{(<div data-node-id="3252:75014" data-name="illustration" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "relative", "width": "100%", "height": "100%" }}>
+      <div data-node-id="3252:75018" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": "0.642px", "borderStyle": "solid", "position": "absolute", "backgroundColor": "rgb(255 255 255)", "borderColor": "transparent", "height": "267.027px", "left": "50%", "overflow": "clip", "borderRadius": "10.27px", "boxShadow": "0px 19.257px 38.514px 0px rgba(144,138,208,0.1),3.209px 3.209px 12.838px 0px rgba(71,92,133,0.1)", "top": "calc(50% + 0.32px)", "width": "380px", "transform": "translate(-50%, -50%)", "backgroundImage": "linear-gradient(rgb(255 255 255), rgb(255 255 255)), linear-gradient(125.70648728deg, rgb(214.20000851 219.30000365 244.79999453) 0.66781397%, rgb(234.59998906 236.63999319 244.80000973) 100.00000204%)", "backgroundOrigin": "padding-box, border-box", "backgroundClip": "padding-box, border-box" }}>
+        <div data-node-id="3252:75019" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "backgroundColor": "#ebeef4", "height": "25.676px", "left": "-0.64px", "top": "-0.64px", "width": "380px" }}/>
+        <div data-node-id="3252:75020" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "position": "absolute", "fontFamily": "\"IBM Plex Mono\", sans-serif", "fontWeight": 400, "lineHeight": "13px", "left": "20.63px", "fontStyle": "normal", "color": "#afb1b6", "fontSize": "8.986px", "textAlign": "right", "top": "35.3px", "whiteSpace": "nowrap", "transform": "translate(-100%, 0)" }}>
+          <p data-edit-key="auto:selected-3252-75014:5" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>1</p>
+          <p data-edit-key="auto:selected-3252-75014:6" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>2</p>
+          <p data-edit-key="auto:selected-3252-75014:7" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>3</p>
+          <p data-edit-key="auto:selected-3252-75014:8" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>4</p>
+          <p data-edit-key="auto:selected-3252-75014:9" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>5</p>
+          <p data-edit-key="auto:selected-3252-75014:10" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>6</p>
+          <p data-edit-key="auto:selected-3252-75014:11" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>7</p>
+          <p data-edit-key="auto:selected-3252-75014:12" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>8</p>
+          <p data-edit-key="auto:selected-3252-75014:13" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>9</p>
+          <p data-edit-key="auto:selected-3252-75014:14" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>10</p>
+          <p data-edit-key="auto:selected-3252-75014:15" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>11</p>
+          <p data-edit-key="auto:selected-3252-75014:16" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>12</p>
+          <p data-edit-key="auto:selected-3252-75014:17" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>13</p>
+          <p data-edit-key="auto:selected-3252-75014:18" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>14</p>
+          <p data-edit-key="auto:selected-3252-75014:19" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "marginBottom": 0 }}>15</p>
+          <p data-edit-key="auto:selected-3252-75014:20" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px" }}>16</p>
+        </div>
+        <p data-node-id="3252:75021" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "position": "absolute", "fontFamily": "\"IBM Plex Mono\", sans-serif", "fontWeight": 400, "lineHeight": "13px", "left": "30.81px", "fontStyle": "normal", "color": "#3d3d5c", "fontSize": "8.986px", "top": "35.3px", "width": "338.277px", "whiteSpace": "pre-wrap" }}>
+          <span data-edit-key="auto:selected-3252-75014:22" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "color": "#576cdb" }}>Purchases</span>
+          <span data-edit-key="auto:selected-3252-75014:23" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px" }}>{`.shared.getOfferings { (offerings, error) `}</span>
+          <span data-edit-key="auto:selected-3252-75014:24" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "color": "#f2545b" }}>
+            in
+            <br data-edit-key="auto:selected-3252-75014:25" aria-hidden style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid" }}/>
+            {`    if let`}
+          </span>
+          <span data-edit-key="auto:selected-3252-75014:26" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px" }}>
+            {` packages = offerings?.current?.availablePackages {`}
+            <br data-edit-key="auto:selected-3252-75014:27" aria-hidden style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid" }}/>
+            {`        `}
+          </span>
+          <span data-edit-key="auto:selected-3252-75014:28" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px", "color": "#797d86" }}>{`// Display packages for sale`}</span>
+          <span data-edit-key="auto:selected-3252-75014:29" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "lineHeight": "13px" }}>
+            <br data-edit-key="auto:selected-3252-75014:30" aria-hidden style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid" }}/>
+            {`    }`}
+            <br data-edit-key="auto:selected-3252-75014:31" aria-hidden style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid" }}/>
+            {`}`}
+          </span>
+        </p>
+        <div data-node-id="3252:75022" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "position": "absolute", "alignContent": "stretch", "display": "flex", "alignItems": "center", "left": "-0.64px", "top": "-0.64px", "width": "379.358px" }}>
+          <div data-node-id="3252:75023" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#fff", "alignContent": "stretch", "display": "flex", "height": "25.676px", "alignItems": "center", "justifyContent": "center", "paddingLeft": "8.345px", "paddingRight": "8.345px", "paddingTop": "8.986px", "paddingBottom": "8.986px", "position": "relative", "flexShrink": 0 }}>
+            <p data-node-id="3252:75024" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "fontFamily": "\"Helvetica Neue\", sans-serif", "fontWeight": 400, "lineHeight": 1, "fontStyle": "normal", "position": "relative", "flexShrink": 0, "color": "#1f1f47", "fontSize": "8.345px", "whiteSpace": "nowrap" }}>
+              Swift
+            </p>
+          </div>
+          <div data-node-id="3252:75025" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#fff", "height": "25.676px", "position": "relative", "flexShrink": 0, "width": "0.642px" }}/>
+          <div data-node-id="3252:75026" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#ebeef4", "alignContent": "stretch", "display": "flex", "height": "25.676px", "alignItems": "center", "justifyContent": "center", "paddingLeft": "8.345px", "paddingRight": "8.345px", "paddingTop": "8.986px", "paddingBottom": "8.986px", "position": "relative", "flexShrink": 0 }}>
+            <p data-node-id="3252:75027" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "fontFamily": "\"Helvetica Neue\", sans-serif", "fontWeight": 400, "lineHeight": 1, "fontStyle": "normal", "opacity": 0.7, "position": "relative", "flexShrink": 0, "color": "#1f1f47", "fontSize": "8.345px", "whiteSpace": "nowrap" }}>
+              Objective-C
+            </p>
+          </div>
+          <div data-node-id="3252:75028" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#fff", "height": "25.676px", "position": "relative", "flexShrink": 0, "width": "0.642px" }}/>
+          <div data-node-id="3252:75029" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#ebeef4", "alignContent": "stretch", "display": "flex", "height": "25.676px", "alignItems": "center", "justifyContent": "center", "paddingLeft": "8.345px", "paddingRight": "8.345px", "paddingTop": "8.986px", "paddingBottom": "8.986px", "position": "relative", "flexShrink": 0 }}>
+            <p data-node-id="3252:75030" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "fontFamily": "\"Helvetica Neue\", sans-serif", "fontWeight": 400, "lineHeight": 1, "fontStyle": "normal", "opacity": 0.7, "position": "relative", "flexShrink": 0, "color": "#1f1f47", "fontSize": "8.345px", "whiteSpace": "nowrap" }}>
+              Kotlin
+            </p>
+          </div>
+          <div data-node-id="3252:75031" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#fff", "height": "25.676px", "position": "relative", "flexShrink": 0, "width": "0.642px" }}/>
+          <div data-node-id="3252:75032" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#ebeef4", "alignContent": "stretch", "display": "flex", "height": "25.676px", "alignItems": "center", "justifyContent": "center", "paddingLeft": "8.345px", "paddingRight": "8.345px", "paddingTop": "8.986px", "paddingBottom": "8.986px", "position": "relative", "flexShrink": 0 }}>
+            <p data-node-id="3252:75033" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "fontFamily": "\"Helvetica Neue\", sans-serif", "fontWeight": 400, "lineHeight": 1, "fontStyle": "normal", "opacity": 0.7, "position": "relative", "flexShrink": 0, "color": "#1f1f47", "fontSize": "8.345px", "whiteSpace": "nowrap" }}>
+              Java
+            </p>
+          </div>
+          <div data-node-id="3252:75034" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#fff", "height": "25.676px", "position": "relative", "flexShrink": 0, "width": "0.642px" }}/>
+          <div data-node-id="3252:75035" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#ebeef4", "alignContent": "stretch", "display": "flex", "height": "25.676px", "alignItems": "center", "justifyContent": "center", "paddingLeft": "8.345px", "paddingRight": "8.345px", "paddingTop": "8.986px", "paddingBottom": "8.986px", "position": "relative", "flexShrink": 0 }}>
+            <p data-node-id="3252:75036" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "fontFamily": "\"Helvetica Neue\", sans-serif", "fontWeight": 400, "lineHeight": 1, "fontStyle": "normal", "opacity": 0.7, "position": "relative", "flexShrink": 0, "color": "#1f1f47", "fontSize": "8.345px", "whiteSpace": "nowrap" }}>
+              Flutter
+            </p>
+          </div>
+          <div data-node-id="3252:75037" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#fff", "height": "25.676px", "position": "relative", "flexShrink": 0, "width": "0.642px" }}/>
+          <div data-node-id="3252:75038" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#ebeef4", "alignContent": "stretch", "display": "flex", "height": "25.676px", "alignItems": "center", "justifyContent": "center", "paddingLeft": "8.345px", "paddingRight": "8.345px", "paddingTop": "8.986px", "paddingBottom": "8.986px", "position": "relative", "flexShrink": 0 }}>
+            <p data-node-id="3252:75039" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "fontFamily": "\"Helvetica Neue\", sans-serif", "fontWeight": 400, "lineHeight": 1, "fontStyle": "normal", "opacity": 0.7, "position": "relative", "flexShrink": 0, "color": "#1f1f47", "fontSize": "8.345px", "whiteSpace": "nowrap" }}>
+              Reactive Native
+            </p>
+          </div>
+          <div data-node-id="3252:75040" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#fff", "height": "25.676px", "position": "relative", "flexShrink": 0, "width": "0.642px" }}/>
+          <div data-node-id="3252:75041" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#ebeef4", "alignContent": "stretch", "display": "flex", "height": "25.676px", "alignItems": "center", "justifyContent": "center", "paddingLeft": "8.345px", "paddingRight": "8.345px", "paddingTop": "8.986px", "paddingBottom": "8.986px", "position": "relative", "flexShrink": 0 }}>
+            <p data-node-id="3252:75042" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "fontFamily": "\"Helvetica Neue\", sans-serif", "fontWeight": 400, "lineHeight": 1, "fontStyle": "normal", "opacity": 0.7, "position": "relative", "flexShrink": 0, "color": "#1f1f47", "fontSize": "8.345px", "whiteSpace": "nowrap" }}>
+              Cordova
+            </p>
+          </div>
+          <div data-node-id="3252:75043" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#fff", "height": "25.676px", "position": "relative", "flexShrink": 0, "width": "0.642px" }}/>
+          <div data-node-id="3252:75044" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "backgroundColor": "#ebeef4", "alignContent": "stretch", "display": "flex", "flex": "1 0 0", "height": "25.676px", "alignItems": "center", "justifyContent": "center", "minWidth": 1, "paddingLeft": "8.345px", "paddingRight": "8.345px", "paddingTop": "8.986px", "paddingBottom": "8.986px", "position": "relative" }}>
+            <p data-node-id="3252:75045" style={{ "margin": 0, "padding": 0, "boxSizing": "border-box", "borderWidth": 0, "borderStyle": "solid", "overflowWrap": "break-word", "fontFamily": "\"Helvetica Neue\", sans-serif", "fontWeight": 400, "lineHeight": 1, "fontStyle": "normal", "opacity": 0.7, "position": "relative", "flexShrink": 0, "color": "#1f1f47", "fontSize": "8.345px", "whiteSpace": "nowrap" }}>
+              Unity
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>)}</EditableArtwork>;
+}

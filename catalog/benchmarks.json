@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "benchmarks",
+  "name": "Benchmarks",
+  "kitVersion": "0.2.1",
+  "status": "prototype",
+  "description": "A RevenueCat feature illustration with an illustrated metrics card and six fixed chart rows, adapted from the designers' Benchmarks artwork.",
+  "tags": [
+    "benchmarks",
+    "metrics",
+    "comparison",
+    "subscription",
+    "education"
+  ],
+  "source": {
+    "type": "figma",
+    "fileKey": "QBtFx8LtQPCcf7ra3pBWgw",
+    "nodeId": "41942:45311"
+  },
+  "compositions": {
+    "animation": "Benchmarks",
+    "still": "BenchmarksStill"
+  },
+  "canvas": {
+    "width": 592,
+    "height": 562,
+    "fps": 30,
+    "durationInFrames": 180
+  },
+  "exports": {
+    "png": {
+      "width": 1184,
+      "height": 1124,
+      "defaultPath": "out/benchmarks.png"
+    },
+    "mp4": {
+      "width": 1184,
+      "height": 1124,
+      "durationSeconds": 6,
+      "fps": 30,
+      "defaultPath": "out/benchmarks.mp4"
+    }
+  },
+  "defaults": "examples/benchmarks.json",
+  "props": {
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 32,
+      "purpose": "Feature heading"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 210,
+      "purpose": "Supporting paragraph"
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 28,
+      "purpose": "Illustrative metrics summary; not computed from the chart"
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 16,
+      "purpose": "Comparison category label"
+    },
+    "labels": {
+      "type": "array",
+      "items": "string",
+      "length": 6,
+      "itemMinLength": 1,
+      "itemMaxLength": 28,
+      "purpose": "One label for each fixed chart row"
+    }
+  },
+  "customization": {
+    "supported": [
+      "title",
+      "description",
+      "summary",
+      "category",
+      "six row labels"
+    ],
+    "fixed": [
+      "chart shapes",
+      "chart values",
+      "row count",
+      "palette",
+      "layout",
+      "animation choreography"
+    ],
+    "guidance": "Preserve short labels and inspect the result for overflow. Props change copy; they do not calculate or redraw metric charts."
+  },
+  "dataDisclaimer": "This is illustrative design artwork, not a data visualization backed by measured results. The default summary preserves the Figma wording '5/7 metrics above median' although six rows are visible. It is editable copy, not a computed ratio.",
+  "licenseStatus": "UNLICENSED prototype; code, artwork and font publication terms are pending."
+}
